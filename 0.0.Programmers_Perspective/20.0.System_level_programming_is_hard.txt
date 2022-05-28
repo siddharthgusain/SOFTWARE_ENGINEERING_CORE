@@ -1,0 +1,30 @@
+-> Right now we are working at a very high level of abstraction.
+
+-> Whether we talk about android development or web development , in the end 
+System software like OS , compilers are responsible for accessing hardware
+
+-> We as a developer write code at very high level , all the common functionality
+and low level task is taken care by system softwares like Operating systems
+
+-> The end product that is app or website is generating revenue thats why developers are in demand.
+but , all heavy lifiting is done BY OS and other system software and device drivers.
+
+-> Operating system is like a program which contains common functionality that is required 
+by every program like file system access, memory management ,Interprocess communication , networking
+so these functionality are bundled inside OS code to provide reusability and we as a programmer 
+dont need to write code for these things we can simply use system calls provided by Os
+which helps in accessing hardware securely.
+
+-> Operating system exposes an Interface in form of functions also known as
+"system calls" which can be used inside high level program to access different hardware
+like HDD, RAM , MONITOR , GPU , CPU etc.
+
+-> But keep in mind in the end everything , website , app are all processes
+or sequence of bits/intructions that CPU will understand
+
+-> Network related work is also taken care by OS ,we mostly implement Application layer
+
+-> Os is also responsible for Communication btw two or more processes via system calls
+
+-> OS Creates PCB(process control blocks) which contains information like PID,Port number
+, file access etc. to keep track of all process present in RAM

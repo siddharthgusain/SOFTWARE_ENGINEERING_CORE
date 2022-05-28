@@ -1,0 +1,10 @@
+1. Dont try to build already existing solution from scratch 
+2. Try to use already existing solution like software tools and frameworks(Git,devtools,react,webpack etc).
+3. Learn in terms of abstraction as most of the solution/softwares had been built before , 
+   work on top of it to remain relevant to current time.
+E.g :- To solve the problem of memory management , process isolation , OS has been built already, 
+try to learn the API exposed by OS to work on top of it
+4. Research the already existing solution and try to improve it instead of writing it from scratch.
+5. Compare previous solution with new one to find the improvement.
+6. Use google properly to find already existing solution (Reusability) but understand it properly.
+7. Learn the basics really well -> keep on exploring new features of "existing solution" along with using it.

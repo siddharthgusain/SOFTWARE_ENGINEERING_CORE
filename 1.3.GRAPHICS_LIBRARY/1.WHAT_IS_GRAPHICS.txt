@@ -1,0 +1,23 @@
+-> Manipulating display pixels is considered as graphics
+-> It could an image video , any animation etc.
+-> GPU is a application specific integrated circuit (ASIC) designed to handle these pixel manipulation
+really fast.
+-> CPU was not designed to do so.
+-> Rise of GUI programming ,gaming , and displays gives rise to GPU.
+-> Just like to acess CPU we take help of an abstaction i.e OS and to access GPU and sending it 
+instructions,we have an abstraction layer of graphics libraries like :-
+1. OPENGL
+2. VULKAN
+3. DIRECT3D(DIRECTX)(WINDOWS)
+4. METAL(IOS , MACOS)
+
+-> ALL THESE ARE API WHICH CONTAINS BUNCH OF COMMONLY USED FUNCTION TO ACCESS GPU AND DRAW SOME SHAPES AND 
+MANIPULATE PIXELS AS WELL.
+
+-> Application like Browsers , Android OS use any of these library to render GUI elements or any graphics/pixels
+to the screen behind the scenes.
+
+-> Browser itself is a complex software written in C++ which does a lot of abstraction to web developers.
+-> Understanding browser is must to understand where can we speed up the Web applications.
+
+RESOURCES:- https://www.baeldung.com/linux/gui

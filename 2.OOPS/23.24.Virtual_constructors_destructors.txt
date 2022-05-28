@@ -1,0 +1,19 @@
+-> We have talked about virtual keyword and virtual member functions, constructors and destructors
+are also member functions of a class , although we dont explicitly call them.
+
+-> So can contrcutors and destructors be virtual , if yes then when to use them ?
+
+<================ VIRTUAL DESTRUCTORS ==============>
+-> yes virtual destructors are possible , but when to use them ?
+In particular, here’s when you need to make your destructor virtual:
+
+1. if someone will derive from your class,
+2. if someone will say new Derived, where Derived is derived from your class,
+3. if someone will say delete p, where the actual object’s type is Derived but the pointer 
+p’s type is your class.
+
+
+<================ VIRTUAL CONSTRUCTORS ===============>
+-> NOT POSSIBLE!!!!
+-> As we know compiler inititlizes the v_ptr inside constructor itself, so if the constructor itself 
+is virtual it will lead to Undefined behaviour 

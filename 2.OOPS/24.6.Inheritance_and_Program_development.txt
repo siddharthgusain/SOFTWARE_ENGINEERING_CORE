@@ -1,0 +1,32 @@
+-> The program-development process, as practiced for decades by programmers everywhere, is
+being fundamentally altered by object-oriented programming. 
+-> This is due not only to the use of classes in OOP but to inheritance as well. 
+-> Let’s see how this comes about :- 
+
+=> Programmer A creates a class. Perhaps it’s something like the Distance class, with a complete
+set of member functions for arithmetic operations on a user-defined data type.
+=> Programmer B likes the Distance class but thinks it could be improved by using signed 
+distances. The solution is to create a new class, like DistSign in the ENGLEN example, that 
+is derived from Distance but incorporates the extensions necessary to implement signed distances.
+
+=> Programmers C and D then write applications that use the DistSign class.
+Programmer B may not have access to the source code for the Distance member functions,
+and programmers C and D may not have access to the source code for DistSign. Yet, because
+of the software reusability feature of C++, B can modify and extend the work of A, and C and
+D can make use of the work of B (and A).
+
+=> Notice that the distinction between "software tool developers" and "application developers" 
+is becoming blurred. 
+
+===> Programmer A creates a general-purpose programming tool, the Distance class.
+Programmer B creates a specialized version of this class, the DistSign class. Programmers C
+and D create applications. A is a "tool developer", and C and D are "applications developers". B is
+somewhere in between. 
+
+==> In any case OOP is making the programming scene more flexible and
+at the same time more complex.
+
+E.g:- -> React is a tool , webApps are application
+-> Android OS and libraries are general software tools , actual android app are applications that are 
+specific for some problem.
+-> nodejs is a tool , actual backend services are specific applications

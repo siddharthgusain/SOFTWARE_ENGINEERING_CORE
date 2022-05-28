@@ -1,0 +1,18 @@
+-> Your eye and brain retain a visual impression for about 1/30 of a second.
+(The exact time depends on the brightness of the image.) 
+This ability to retain an image is known as persistence of vision.
+
+->  Persistence of vision is the optical phenomenon where the illusion of motion 
+is created because the brain interprets multiple still images as one. 
+The human eye and brain can only process about 12 separate images per second, 
+retaining an image for 1/16 of a second.
+
+-> Displays having more than "16 fps" can create an illution of motion,thereby 60fps 
+displays give smooth videos and animations as compared to lower FPS displays.
+
+-> Due to fast computation by GPU Chips , more than 16 fps can be easily achieved hence giving rise to 
+digital video.
+
+-> The frame rate is the number of images that a computer, video game console, 
+video player, or other device sends to the display every second. 
+Meanwhile, the refresh rate is how fast the display can actually show those frames.

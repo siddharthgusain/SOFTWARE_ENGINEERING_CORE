@@ -1,0 +1,9 @@
+-> The programs that we were writing till now were only single file which gets compiled
+and executed in CPU.(pretty starightforward).
+->But as we go from 10 lines of code to million lines of code it is very importent to manage the 
+source code by breaking in into chunks or into different files and directory.
+-> Multifile programs are easy to manage and scale where each file may be library, headers or
+some constant file etc.
+-> With multifile programs , there is need of some software which can bundle them and compile
+them and link them into one final object code which can be executed by CPU.
+-> To Design multifile programs we divide the whole software into managable modules.

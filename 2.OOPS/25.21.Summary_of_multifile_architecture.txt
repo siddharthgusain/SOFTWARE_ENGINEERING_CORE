@@ -1,0 +1,19 @@
+-> All the directives like #if,#pragma #include , all these are used by preprocessor , compiler,
+and linker to build final object containing machine intruction set that can be run by target CPU.
+
+-> All the new rules , keyword that are introduced in language are made to make High level 
+programming easier for developer , this make the design of compiler and linker more sophisticated.
+
+->As a developer it becomes easier to debug and create bug free software in production.E.g classes
+and objects .OOPS was just an concept which is implemeted through programming contructs likes classes
+these contructurs are deined inside compiler in terms of grammar and rules.
+
+-> So , if we somehow make mistakes in development , compiler , or linker or preprocessor will give
+error while each individual phases.
+
+-> Writing code in high level is much easier but the underlying architecture that converts this 
+source file to machine intruction is quite complex and is built in last 30-40 years.
+
+-> So all the tools are developed to make final software shipping faster , so there are engineers making
+tools like compiler , IDE,Drivers, Operating system,Graphics library to let developers ship 
+final software faster and bug free.

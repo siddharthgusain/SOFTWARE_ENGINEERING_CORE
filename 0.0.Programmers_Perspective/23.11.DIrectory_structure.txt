@@ -1,0 +1,16 @@
+If you’re coming from Windows, the Linux file system structure can seem particularly alien. 
+The C:\ drive and drive letters are gone, replaced by a / and cryptic-sounding directories, 
+most of which have three letter names.
+
+The Filesystem Hierarchy Standard (FHS) defines the structure of file systems on Linux 
+and other UNIX-like operating systems. However, Linux file systems also
+contain some directories that aren’t yet defined by the standard.
+
+Window Partition structure is different , each drive is considered as a spearate harddisk,
+usually C drive has the bootable code and other drives contain data .
+
+In linux , everything is under root "/" directory.
+/boot directory contains bootable code.
+/home generally contains data files (non-bootable code).
+other subdirectories difeerent useful files required by Linux OS.
+

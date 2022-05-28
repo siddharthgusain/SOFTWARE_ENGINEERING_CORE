@@ -1,0 +1,26 @@
+There are 2 basic approaches:-
+
+1. Testing "each" object versus mouse position
+
+That can be speeded up by using spatial subdivision structures (similar to BVH and octree just in 2D).
+However this approach will always be slower and bound to complexities like O(log(n)) or O(n) 
+where n is number of GUI elements. Here the naive O(n) example:
+
+simple C++ Drag&Drop example(https://stackoverflow.com/questions/16450882/does-anyone-know-of-a-low-level-no-frameworks-example-of-a-drag-drop-re-ord/20924609#20924609)
+However once the tested items number grows or their shape is too complex this method is cumbersome.
+
+Using index buffer
+
+This approach is pixel perfect with complexity O(1) and in most implementations is also almost for free fast.
+
+The idea is to have index buffer of the same resolution as screen holding ID (index) 
+of tested element instead of color. So while you rendering your GUI in addition 
+to setting each pixel of element with color you also set rendered item index or ID 
+at the same position in the index buffer.
+
+After this the detection is just obtaining the index buffer value at mouse position. Here few examples:
+
+e.g:- 
+OpenGL ray picking(https://stackoverflow.com/questions/51736402/opengl-3d-raypicking-with-high-poly-meshes/51764105#51764105)
+VCL/GDI index buffer based mouse select(https://stackoverflow.com/questions/35885029/improving-performance-of-click-detection-on-a-staggered-column-isometric-grid/35917976#35917976)
+This method is usable for 2D and projected 3D->2D or even higher dimensions too.

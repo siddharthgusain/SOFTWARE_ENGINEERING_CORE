@@ -1,0 +1,5 @@
+-> Inheritance is one of the powerfull feature of OOP
+-> Inheritance privides reusability of code
+-> Inheritance is widely used in android development/IOS development as well as in React library.
+-> As every user defined class/view is extending/inheriting some base class defined in operating system 
+-> Extending a class is same as inheriting as class.

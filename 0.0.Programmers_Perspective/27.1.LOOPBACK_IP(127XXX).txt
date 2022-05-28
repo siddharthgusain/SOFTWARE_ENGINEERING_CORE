@@ -1,0 +1,27 @@
+What is the IP Address 127.0.0.1?
+
+127.0.0.1 is the loopback Internet protocol (IP) address also referred to as the localhost. 
+The address is used to establish an IP connection to the same machine or computer being used by the end-user.
+
+The same convention is defined for computers that support IPv6 addressing using the connotation of ::1. 
+Establishing a connection using the address 127.0.0.1 is the most common practice; 
+however, using any IP address in the range of 127…* will function in the same or a similar manner. 
+The loopback construct gives a computer or device capable of networking the capability to validate
+ or establish the IP stack on the machine.
+
+127.0.0.1 – What Are its Uses and Why is it Important?
+
+Special Addresses
+
+The class A network number 127 is assigned the loopback function, 
+that is, a datagram sent by a higher level protocol to a network 127 address 
+should loop back inside the host. No datagram sent to a network 127 address 
+should ever appear on any network anywhere.
+
+If it is Whole Class A, What is the Point of Other Arbitrary Values for the Last Three Octets?
+
+The purpose of the loopback range is testing of the TCP/IP protocol implementation on a host.
+Since the lower layers are short-circuited, sending to a loopback address
+allows the higher layers (IP and above) to be effectively tested without
+the chance of problems at the lower layers manifesting themselves. 
+127.0.0.1 is the address most commonly used for testing purposes.

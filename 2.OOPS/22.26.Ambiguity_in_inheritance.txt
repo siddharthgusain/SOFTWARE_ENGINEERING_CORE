@@ -1,0 +1,8 @@
+SINGLE INHERITANCE AMBIGUITY:-
+1. If base class and derived class have function with same name , which will be called
+by the object ?
+2. How to resolve this ambiguity?
+
+MULTIPLE INHERITANCE AMBIGUITY:-
+1. If both the parent classes and child class have function with same name , how to solve 
+this ambiguity?

@@ -1,0 +1,24 @@
+-> In Internet Protocol version 4, the address 0.0.0.0 is a non-routable meta-address used to 
+designate an invalid, unknown, or non applicable target
+
+Uses Include:
+
+1. The address a host claims as its own when it has not yet been assigned an address. 
+Such as when sending the initial DHCPDISCOVER packet when using DHCP.
+
+2. The address a host assigns to itself when an address request via DHCP has failed,
+provided the host’s IP stack supports this. This usage has been replaced with the 
+APIPA mechanism in modern operating systems.
+
+-> Automatic Private IP Addressing (APIPA) is a feature of Windows-based operating systems (included in 
+Windows 98, ME, 2000, and XP) that enables a computer to automatically assign itself an IP 
+address when there is no Dynamic Host Configuration Protocol (DHCP) server available to perform 
+that function.
+
+3. A way to specify any IPv4-host at all. It is used in this way when specifying a default route.
+
+4. A way to explicitly specify that the target is unavailable. 
+
+5.A way to specify any IPv4 address at all. It is used in this way when configuring servers 
+(i.e. when binding listening sockets).This is known to TCP programmers as INADDR_ANY. 
+[bind(2) binds to addresses, not interfaces.]

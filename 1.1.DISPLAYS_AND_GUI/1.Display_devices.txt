@@ -1,0 +1,27 @@
+-> Display frame can be stored as 2-D matrix of pixels , also known as frame in terms of GPU 
+-> GPU the "ASIC" responsible for the frame computation and manipulating the pixels in the screen.
+-> GPU has its own memory(VRAM) , also known as frame buffers.
+-> GUI is actually frames which also recomputed very fast that it appears to be interactive.
+-> OUR EYES HAS PERESISTENCE OF VISION , IF THE FRAME MANIPULATION IS FASTER THAN THAT , THEN 
+IT APPEARS TO BE MOVING, LIKE VIDEOS,ANIMATION.
+-> CPU is slow for this manipulation thats why an ASIC is made that is GPU to compute frames and interact 
+with displays via drivers.
+-> Graphics library are already built which contains general things like drawing a line , circle etc,
+E.g OPENGL, DIRECTX, VULKAN
+-> GUI Programs gives rise to "asynchronous programs"(or EVENT DRIVEN) , as in GUI, things are event based and event can 
+happen anytime i.e not in sequence.
+-> Right now GUI programs are predominant as they make human computer interaction easy.
+-> For developers command line is still dominant.
+
+-> In GUI based programs , user is in control of the events(So, events can happen in any order and anytime).
+-> In CLI based programs , the program is in control of the events.
+
+-> ONE GUI APPLICATION IS VERY SIMILAR TO ANOTHER , THATS WHY WE HAVE SOME OBJECT ORIENTED 
+FRAMEWORK TO BUILD GUI BASED PROGRAM. 
+E.G:- TKINTER IN PYTHON , JAVA FRAMEWORKS ETC.
+-> EACH "GUI PROGRAM" HAS EVENT LOOP.
+
+-> AS GPU is contantly sending FRAME to display device, "REFRESH RATE OF DISPLAYS MATTERS A LOT".
+NOTE :- (The refresh rate of your display refers to how many times per second the display 
+is able to draw a new frame)
+

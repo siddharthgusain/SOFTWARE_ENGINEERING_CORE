@@ -1,0 +1,8 @@
+-> Compile time Polymorphism also known as early binding , static linking , static binding
+-> Runtime polymorphism is also known as late binding , dynamic binding 
+-> But how appropriate function is selected at runtime ?
+-> simple ans is through pointers to object and virtual functions.
+
+Pointers Recap:-
+-> Pointers are memory space which have address of other variables.
+-> As c++ is typed language so we need data type to which pointer is pointing.

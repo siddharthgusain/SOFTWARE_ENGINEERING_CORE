@@ -1,0 +1,36 @@
+1. BITMAPPED IMAGE
+-> The term "digital image" usually refers to raster images or bitmapped images 
+-> Raster images have a finite set of digital values, called picture elements or pixels.
+-> The digital image contains a fixed number of rows and columns of pixels. Pixels are the smallest 
+individual element in an image, holding antiquated values that represent the brightness 
+of a given color at any specific point.
+-> Typically, the pixels are stored in computer memory as a raster image or raster map, 
+a two-dimensional array of small integers.  These values are often transmitted or stored in a compressed form.
+-> Raster images can be created by a variety of input devices and techniques, 
+such as digital cameras. They can also be synthesized from arbitrary non-image data, 
+such as mathematical functions or three-dimensional geometric models; 
+the latter being a major sub-area of computer graphics. The field of digital image processing is the study 
+of algorithms for their transformation.
+-> RASTER IMAGES FILE FORMATS :- JPG,PNG,BMP,GIF.
+NOTE:- ALL these are "compressed" format
+
+2. VECTOR IMAGE
+-> Vector images resulted from mathematical geometry (vector). 
+-> In mathematical terms, a vector consists of both a magnitude, or length, and a direction.
+-> Often, both raster and vector elements will be combined in one image; 
+for example, in the case of a billboard with text (vector) and photographs (raster).
+Example of vector file types are "EPS, PDF, and AI."
+-> NOTE:- With point , line and curve , any 2d or 3-d shape can be build by combining .
+e.g triangle,rectangle , square , circle , cube etc.
+
+NOTE:- Raster files are particularly good for portraying color depth, as each pixel can be a different color. 
+And there are more pixels that can be unique colors than vectors that can be unique colors. 
+This makes raster file formats good for editing digital photographs.
+
+-> Since the information of each pixel is present in raster images , images with great details
+and depth is considered good for raster like images of environment/photography etc.
+
+->NOTE:- The main difference between a vector image and a raster image is the way it is built.
+A vector image is made up of 2D points that are connected by straight lines or curves, 
+so the resulting image tends to be a strong geometric shape like a square, rectangle, 
+pentagon, oval or triangle, or some mix of all of them.

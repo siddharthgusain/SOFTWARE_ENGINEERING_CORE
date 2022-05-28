@@ -1,0 +1,10 @@
+-> Threading library is an abstraction to developer for managing and creating threads.
+-> Implementation of these libraries are according to POSIX standard given by IEEE.
+-> As a developer we can include these libraries to call the subroutines written inside these
+libraries.
+-> User level threads is usually meant to be threads managed in userspace. 
+"The context switching is done in userspace, by the threading library."
+->There is just one (kernel level) thread running at a time in the application,
+even if there are several processors.
+
+Example:- In C, <pthread.h> , in C++ -> <thread> 

@@ -1,0 +1,15 @@
+-> Any thing related to engineering is a build with the concept of abstraction.
+-> E.g :- Mobiles to user is an abstraction as they do not need to know how under the hood
+it is working , they just know how to give input like from keyboard and gets output on screen,
+how screen is working it is "abstracted" from user.
+-> As a developer it good to know how things work under the hood, but still learn things in abstraction as well
+-> OS has created an abstraction for developers as well , we only need to know about system calls,
+how OS does the work is abstracted inside the OS code.
+
+-> Just Like we have two types of chip : 
+1. General purpose
+2. ASIC(application specific)
+
+-> Softwares are also of two types :-
+1. General Purpose :- Operating system
+2. Application specific :- Any program/Application that runs on top of Operating system

@@ -1,0 +1,49 @@
+-> Shells are actually special applications that use the kernel API in just the same way as it is used by other application programs.
+A shell manages the user–system interaction by prompting users for input, interpreting their input, and then handling an output 
+from the underlying operating system .
+
+-> Since the operating system shell is actually an application, 
+it may easily be replaced with another similar application, for most operating systems.
+
+-> Some popular shells :-
+Window :- powershell
+Linux :- Bash(bourne again shell)
+
+-> Most operating system shells fall into one of two categories – 
+command-line and graphical.
+-> Command line shells provide a command-line interface (CLI) to the operating system,
+while graphical shells provide a graphical user interface (GUI).
+-> Other possibilities, although not so common, include voice user interface and 
+various implementations of a text-based user interface (TUI) that are not CLI.
+The relative merits of CLI- and GUI-based shells are often debated.
+
+(CLI-COMMAND LINE INTERFACE)
+-> A command-line interface (CLI) is an operating system shell that uses alphanumeric characters 
+typed on a keyboard to provide instructions and data to the operating system,interactively.
+
+-> "The command interpreter parses the sequence of keystrokes and responds with an error message if 
+it cannot recognize the sequence of characters, or it may carry out some other program action such
+as loading an application program,listing files, logging in a user and many others"
+
+-> Application programs may also implement a command-line interface
+ E.g:- "Git CLI, Npm CLI , Heroku CLI"
+
+(Shell Scripting)
+-> A feature of many command-line shells is the ability to save sequences of
+commands for re-use. A data file can contain sequences of commands which the 
+CLI can be made to follow as if typed in by a user. 
+-> Special features in the CLI may apply when it is carrying out these stored 
+instructions. Such batch files (script files) can be used repeatedly to automate
+routine operations such as initializing a set of programs when a system is 
+restarted.
+
+(GRAPHICAL SHELLS)
+-> A graphical user interface (GUI) provides means for manipulating programs graphically,
+by allowing for operations such as opening, closing, moving and resizing windows,
+as well as switching focus between windows. Graphical shells may be included with
+desktop environments or come separately, even as a set of loosely coupled utilities.
+
+-> Most graphical user interfaces develop the metaphor of an "electronic desktop",
+where data files are represented as if they were paper documents on a desk,
+and application programs similarly have graphical representations instead of being
+invoked by command names.

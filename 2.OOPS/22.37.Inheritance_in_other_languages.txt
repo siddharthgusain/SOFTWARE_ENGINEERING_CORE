@@ -1,0 +1,5 @@
+-> In Java only single level , multilevel , and heriarchical interitance is possible
+-> Java compiler gives error for multiple inheritance , hence hybrid inheritance is also
+not possible.
+-> In java there are some other rules of OOPs as well because java is strictly Object oriented
+while c++ has flexibility of being "functional" or "object oriented".

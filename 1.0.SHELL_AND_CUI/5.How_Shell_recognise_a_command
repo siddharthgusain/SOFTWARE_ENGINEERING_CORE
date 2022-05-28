@@ -1,0 +1,13 @@
+-> Each OS has some built in programs which can be recognized by shell through Environment 
+variables.
+
+-> E.g ls , pwd - these are also known as shell commands , these are inbuilt OS files in which
+instructions are written like listing files in the directory.
+
+-> External Programs like g++ , java compiler , git cli , node cli should be included
+in environement variable so that shell can run them using the location given in PATH variable
+
+-> After shell runs the command the control goes to the specific program like node , git , g++ etc and 
+there is interprocess communication going on between the shell and other program .
+For e.g -> shell forks a process and provides node path in it , now two process are communicating with each 
+other via some IPC mechanism that OS provides.

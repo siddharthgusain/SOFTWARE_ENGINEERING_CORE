@@ -1,0 +1,4 @@
+-> Templates are way of reusing source code and is used by compiler to convert to absolute 
+source code.
+-> Templates is concept which gives rise to generic programming , like generic classes, generic 
+functions.

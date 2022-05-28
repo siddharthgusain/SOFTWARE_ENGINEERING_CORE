@@ -1,0 +1,12 @@
+1. Libraries are nothing , just a common function tied together.
+2. These functions are commonly used functions like input function that interacts with keyboard,
+output function that prints to display using OS system call.
+3. E.g C library , C++ library
+4. Including a library file is actually equal to copying and pasting the functions inside your
+program.
+5. Most of the standard libraries are in precompiled format and are linked with our program by "linker".
+E.g #include<iostream.h> this file only contains type defition and function signature , actual code of 
+functions are precompiled in "libc" and is linked to our program in linking phase.
+NOTE:-  GCC COMPILER DOES EVERYTHING FOR US ,i.e COMPILATION -> ASSEMBLY -> LINKING.
+6.SO IN ANY LIBRARY WE GENERALLY FIND FUNCTIONS WHICH ARE ESSENTIAL IN EVERY PROGRAM .E.G "printf",
+"scanf", file manipulation function , Some math related functions(pow,sqrt) etc.

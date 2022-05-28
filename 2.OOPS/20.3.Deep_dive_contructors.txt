@@ -1,0 +1,9 @@
+-> contructor are normal functions with some property
+-> As a developer we need not to call them explicitly like other functions are called 
+but when the source code is compiled they are called just after object creation by the compiler
+-> So, the compiler does the heavy lifiting of adding extra "calling instruction" when object is created
+
+There are 3 types of contrcutors:- 
+1. Default contructor 
+2. Parameterized contructor 
+3. Copy constructor

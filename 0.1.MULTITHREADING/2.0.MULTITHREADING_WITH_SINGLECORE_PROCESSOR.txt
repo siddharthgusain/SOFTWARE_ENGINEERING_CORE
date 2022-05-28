@@ -1,0 +1,7 @@
+-> Multithreading  can be done on a single-processor system, 
+and in fact it's much easier that way. It works the same way as running multiple processes 
+-- the kernel, via a timer interrupt or other similar mechanism, suspends one, 
+saving its machine state, and replacing that by the previously-saved state of another -- 
+the only difference being that two threads of the same process share the same virtual memory space,
+making the task-switch much more efficient.
+

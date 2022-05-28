@@ -1,0 +1,18 @@
+1. Overloading -> compile time polymorphism 
+   Overriding -> runtime polymorphism
+
+2. Any class having "at least one pure virtual function" is called abstract class
+3. Abstract class can have pure virtual functions or normal functions as well.
+4. any class which contains only pure virtual functions is called "interface"
+5. So , interface is subset of abstract classes
+6. Interface are just kind of templates which provides declaration not definition
+, these classes are meant to be derived and implemented by the child class only
+7. Abstract classes and interfaces can't be used to create object.
+
+NOTE:- In java we have keyword "interface" , in c++ abstract classes with pure virtual function only
+are considered as interface.
+There are some differences in how all the oop concept is implemented in different compilers, hence
+OOPS implementation is little different in different languages.
+
+Note:- Any object involving virtual inheritance or virtual functions will have extra size , which is
+generally size of virtual table(vtable) and virtual pointer(vptr).

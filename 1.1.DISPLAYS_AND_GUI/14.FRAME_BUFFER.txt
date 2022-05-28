@@ -1,0 +1,23 @@
+-> A framebuffer (frame buffer, or sometimes framestore) is a portion of random-access memory (RAM) 
+containing a bitmap that drives a video display. It is a memory buffer containing data representing 
+all the pixels in a complete video frame.Modern video cards contain framebuffer circuitry 
+in their cores. This circuitry converts an in-memory bitmap into a video signal 
+that can be displayed on a computer monitor.
+
+-> In computing, a screen buffer is a part of computer memory used by a computer application 
+for the representation of the content to be shown on the computer display.
+The screen buffer may also be called the video buffer, the regeneration buffer,
+or regen buffer for short.[4] Screen buffers should be distinguished from video memory. 
+To this end, the term off-screen buffer is also used.
+
+-> The information in the buffer typically consists of color values for every pixel 
+to be shown on the display. Color values are commonly stored in 1-bit binary (monochrome), 
+4-bit palettized, 8-bit palettized, 16-bit high color and 24-bit true color formats. 
+An additional alpha channel is sometimes used to retain information about pixel transparency. 
+The total amount of memory required for the framebuffer depends on the resolution of the 
+output signal, and on the color depth or palette size.
+
+-> NOTE:- A common design uses a graphics library such as OpenGL or Direct3D which 
+interfaces with the graphics driver to translate received commands to instructions 
+for the accelerator's graphics processing unit (GPU). The GPU uses those instructions 
+to compute the rasterized results and the results are bit blitted to the framebuffer.
