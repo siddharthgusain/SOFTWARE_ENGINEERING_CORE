@@ -4,23 +4,23 @@ it can be diveded into 4 layers:-
 -> CPU,GPU -> processors
 -> Memory(RAM) -> Volatile Memory
 -> DISK(HDD,SSD) -> Non-volatile Memory
--> iNPUT DEVICES:- Keyboard ,mouse any other device, microphone
+-> INPUT DEVICES:- Keyboard ,mouse any other device, microphone
 -> OUTPUT devices:- Display , Speaker  
 -> ROM -> FOR small programs like bootloaders
--> Network interface card
+-> Network interface card(wifi ,ethernet)
 
-2. System software layer (Low level softwares)
+2. System software layer(general purpose softwares) (Low level softwares)
 -> Operating system 
 -> Compilers
 -> Drivers specific for each device to be interfaced
--> Graphics API
+-> Graphics API pipeline
 
 3. Software using OS services directly (Mid level software)
 -> Browsers
 -> DBMS 
 -> Virtual machine softwares
 
-4. Application software ->(consumer facing products) For Developers 
+4. Application software(Problem specific) ->(consumer facing products)-> For Developers 
 -> WEB apps
 -> IOS apps
 -> desktop apps
