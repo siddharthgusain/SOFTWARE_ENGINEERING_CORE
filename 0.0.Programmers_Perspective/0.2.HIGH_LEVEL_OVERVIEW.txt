@@ -1,0 +1,30 @@
+Modern Computers Have layered architecture to make things isolated and hidden from users, broadly
+it can be diveded into 4 layers:- 
+1. Hardware Layer(Actual electronics devices)
+-> CPU,GPU -> processors
+-> Memory(RAM) -> Volatile Memory
+-> DISK(HDD,SSD) -> Non-volatile Memory
+-> iNPUT DEVICES:- Keyboard ,mouse any other device, microphone
+-> OUTPUT devices:- Display , Speaker  
+-> ROM -> FOR small programs like bootloaders
+-> Network interface card
+
+2. System software layer (Low level softwares)
+-> Operating system 
+-> Compilers
+-> Drivers specific for each device to be interfaced
+-> Graphics API
+
+3. Software using OS services directly (Mid level software)
+-> Browsers
+-> DBMS 
+-> Virtual machine softwares
+
+4. Application software ->(consumer facing products) For Developers 
+-> WEB apps
+-> IOS apps
+-> desktop apps
+-> Android apps
+
+NOTE:- Each layer has its own complexity , and it solves the problem for developers, like graphics pipeline 
+is very complex but it is hidden from developers they just need to declare the UI they want.
