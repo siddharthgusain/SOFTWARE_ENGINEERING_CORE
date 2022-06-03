@@ -1,6 +1,6 @@
 -> Display frame can be stored as 2-D matrix of pixels , also known as frame in terms of GPU 
 -> GPU the "ASIC" responsible for the frame computation and manipulating the pixels in the screen.
--> GPU has its own memory(VRAM) , also known as frame buffers.
+-> GPU has its own video memory(VRAM) , also known as frame buffers.
 -> GUI is actually frames which also recomputed very fast that it appears to be interactive.
 -> OUR EYES HAS PERESISTENCE OF VISION , IF THE FRAME MANIPULATION IS FASTER THAN THAT , THEN 
 IT APPEARS TO BE MOVING, LIKE VIDEOS,ANIMATION.
