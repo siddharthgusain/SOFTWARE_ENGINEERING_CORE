@@ -1,0 +1,19 @@
+-> Program =  data + instructions
+Instructions can be broadly categorised into :-
+1. Data transfer (from/to RAM or HDD)
+2. Data manipulation
+-> Logical operation
+-> Arithematic operation
+-> Shift operation
+3. Logical 
+-> if else 
+-> looping
+
+Instruction set architecture can be of two types:-
+1. CISC(Complex instructions set computer) -> General purpose Computer chips
+2. RISC(Reduced Instrcution set computer) -> Mobile , ASIC etc.
+3. Minimal instruction set computers (MISC)
+4. Very long instruction word (VLIW)
+5. Explicitly parallel instruction computing (EPIC)
+6. One instruction set computer (OISC)
+7. Zero instruction set computer (ZISC)
