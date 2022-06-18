@@ -1,12 +1,13 @@
 Modern Computers Have layered architecture to make things isolated and hidden from users, broadly
-it can be diveded into 4 layers:- 
+it can be divided into 4 layers:- 
 1. Hardware Layer(Actual electronics devices)
 -> CPU,GPU -> processors
+-> ROM -> FOR small programs like bootloaders
+-> Cache memory(inside cpu)
 -> Memory(RAM) -> Volatile Memory
 -> DISK(HDD,SSD) -> Non-volatile Memory
 -> INPUT DEVICES:- Keyboard ,mouse any other device, microphone
 -> OUTPUT devices:- Display , Speaker  
--> ROM -> FOR small programs like bootloaders
 -> Network interface card(wifi ,ethernet)
 
 2. System software layer(general purpose softwares) (Low level softwares)
