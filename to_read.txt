@@ -1,6 +1,2 @@
-https://www.quora.com/What-is-the-difference-between-a-compiler-and-an-OS
-https://www.quora.com/How-does-an-OS-work-with-a-compiler
-https://www.quora.com/How-does-a-different-OS-support-a-compiler
-https://www.quora.com/Can-we-say-OS-is-a-compiler
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
+-> Operating system read and notes
+-> Networking read and notes
