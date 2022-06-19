@@ -7,8 +7,9 @@ it can be divided into 4 layers:-
 -> Memory(RAM) -> Volatile Memory
 -> DISK(HDD,SSD) -> Non-volatile Memory
 -> INPUT DEVICES:- Keyboard ,mouse any other device, microphone
--> OUTPUT devices:- Display , Speaker  
+-> OUTPUT devices:- Display , Speaker, any other output device  
 -> Network interface card(wifi ,ethernet)
+-> Any other hardware module like web cam etc.
 
 2. System software layer(general purpose softwares) (Low level softwares)
 -> Operating system 
@@ -29,3 +30,11 @@ it can be divided into 4 layers:-
 
 NOTE:- Each layer has its own complexity , and it solves the problem for developers, like graphics pipeline 
 is very complex but it is hidden from developers they just need to declare the UI they want.
+
+-> At whatever abstraction we are working , its important to know the abstraction atleast one level down.
+For e.g :- 
+1. For web developers , we work on top of browsers , so its important to undertand how browser works.
+2. If we are making native desktop application, its important to know Operating system 
+3. If we are building operating system , its important to know the hardware architecture(COA) and device Drivers
+4. If we are working on device drivers , its important to know architecture of the device for which
+we are making the driver , example GPU driver , USB driver , joystick driver etc.

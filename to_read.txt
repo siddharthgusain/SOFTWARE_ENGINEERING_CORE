@@ -4,6 +4,3 @@ https://www.quora.com/How-does-a-different-OS-support-a-compiler
 https://www.quora.com/Can-we-say-OS-is-a-compiler
 https://www.youtube.com/watch?v=cNN_tTXABUA
 
-
-COA copy read -> put it into notes
-https://en.wikipedia.org/wiki/Assembly_language

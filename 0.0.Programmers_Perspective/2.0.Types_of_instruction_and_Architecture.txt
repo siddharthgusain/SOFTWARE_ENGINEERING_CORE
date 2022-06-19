@@ -1,4 +1,6 @@
 -> Program =  data + instructions
+-> Instructions depends on instruction set architecture of a particular CPU (e.g x86)
+
 Instructions can be broadly categorised into :-
 1. Data transfer (from/to RAM or HDD)
 2. Data manipulation
@@ -10,8 +12,8 @@ Instructions can be broadly categorised into :-
 -> looping
 
 Instruction set architecture(ISA) can be of many types:-
-1. CISC(Complex instructions set computer) -> General purpose Computer chips
-2. RISC(Reduced Instrcution set computer) -> Mobile , ASIC etc.
+1. CISC(Complex instructions set computer) -> General purpose Computer chips(x86  intel cpu)
+2. RISC(Reduced Instrcution set computer) -> Mobile , ASIC etc. (ARM)
 3. Minimal instruction set computers (MISC)
 4. Very long instruction word (VLIW)
 5. Explicitly parallel instruction computing (EPIC)
