@@ -1,0 +1,26 @@
+Problems during early days:-
+
+-> During the early days , computer chips are used to run only one program at a time.
+-> So each program has full access to computer hardware , like monitor , RAM , HDD etc.
+-> As time passed , people realise they can execute more than one program in RAM.
+-> RAM size , cpu speed keeps on increasing every year , so there is a need to utilize RAM properly
+-> Now To access hardware , same code will be written in all the programs 
+-> Synchronisation between programs was necessary to get desired result.
+
+Solution:-
+-> To solve each of these problem an software abstraction operating system was introduced.
+-> Each of these problem has a specific module in OS
+Some of the OS functionality:-
+1. Process Management 
+    -> Process scheduling
+    -> Process Synchronisation
+2. Deadlock handling
+3. Memory(RAM) Management
+4. Cache Management
+5. Disk Management(file system)
+6. Networking functionality(Network Stack)
+7. Security
+
+-> Early days operating system were small and less complex , currently OS does most of the hardware interaction
+and is highly optimised to do so.
+
