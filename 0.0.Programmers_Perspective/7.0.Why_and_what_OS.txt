@@ -5,7 +5,15 @@ Problems during early days:-
 -> As time passed , people realise they can execute more than one program in RAM.
 -> RAM size , cpu speed keeps on increasing every year , so there is a need to utilize RAM properly
 -> Now To access hardware , same code will be written in all the programs 
--> Synchronisation between programs was necessary to get desired result.
+-> Synchronisation between programs was necessary to get desired result,so Synchronisation routines should
+be written in all the programs that are being executed in RAM.
+
+Now , there was a need of priviledged software which can access hardware directly ,and can provide
+interface to other application programs to use the hardware , this gives rise to Operating system.
+
+Because of operating system , Softwares gets divided into two categories :-
+1. System software -> Have direct access to hardware 
+2. Application software -> Uses OS to access hardware
 
 Solution:-
 -> To solve each of these problem an software abstraction operating system was introduced.

@@ -1,2 +1,3 @@
--> Operating system read and notes
+-> Operating system book read and notes
 -> Networking read and notes
+https://www.quora.com/How-do-I-write-GUI-for-an-operating-system-What-programming-language-is-mostly-used-for-this-kind-of-stuff
