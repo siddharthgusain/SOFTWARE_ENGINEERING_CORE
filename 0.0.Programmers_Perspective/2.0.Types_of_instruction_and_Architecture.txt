@@ -11,6 +11,10 @@ Instructions can be broadly categorised into :-
 -> if else 
 -> looping
 
+-> NOTE:- ANY program we write in any language , it will be converted to machines instruction set only.
+-> Writing program in high level is only for being productive as the machine code is generated automatically 
+by softwares like compiler and assembler.
+
 Instruction set architecture(ISA) can be of many types:-
 1. CISC(Complex instructions set computer) -> General purpose Computer chips(x86  intel cpu)
 2. RISC(Reduced Instrcution set computer) -> Mobile , ASIC etc. (ARM)

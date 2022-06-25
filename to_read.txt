@@ -1,3 +1,13 @@
 -> Operating system book read and notes
 -> Networking read and notes
 https://www.quora.com/How-do-I-write-GUI-for-an-operating-system-What-programming-language-is-mostly-used-for-this-kind-of-stuff
+
+https://www.quora.com/How-does-the-operating-system-work-when-we-type-using-a-mouse
+
+https://www.futurelearn.com/info/courses/computer-systems/0/steps/53503
+
+https://stackoverflow.com/questions/15869502/how-does-the-operating-system-know-which-application-to-send-the-mouse-event-to
+
+https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/mouse.html
+
+https://www.youtube.com/watch?v=278DNcR-NUE

@@ -31,6 +31,10 @@ it can be divided into 4 layers:-
 NOTE:- Each layer has its own complexity , and it solves the problem for developers, like graphics pipeline 
 is very complex but it is hidden from developers they just need to declare the UI they want.
 
+-> Writing programs in high level has become very easy for developers nowadays because all the layers below
+the applciation layer is already built by big companies and is being maintained by them . E.g compiler , assembler
+operating system, driver.
+
 -> At whatever abstraction we are working , its important to know the abstraction atleast one level down.
 For e.g :- 
 1. For web developers , we work on top of browsers , so its important to undertand how browser works.
