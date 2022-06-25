@@ -1,6 +1,10 @@
+Programming in early computing hardwares:-
+->
+
 Problems during early days:-
 
 -> During the early days , computer chips are used to run only one program at a time.
+-> People used to write very simple programs which are run one at a time in RAM.
 -> So each program has full access to computer hardware , like monitor , RAM , HDD etc.
 -> As time passed , people realise they can execute more than one program in RAM.
 -> RAM size , cpu speed keeps on increasing every year , so there is a need to utilize RAM properly

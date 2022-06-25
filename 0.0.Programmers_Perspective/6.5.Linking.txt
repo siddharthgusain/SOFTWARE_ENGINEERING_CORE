@@ -1,0 +1,21 @@
+-> We have converted high level program to low level machine code or object code.
+-> But generally our code contains lots of library functions that we call inside out code, the body
+of these functions are not present in our program, they are precompiled and stored in some other location.
+E.g libc ---> standard C library.
+-> So while running thr program we need definition of these function so that when our program calls the routine
+CPU can go to the location of the routine.
+
+-> So there is a need of some other program which can "LINK" all these together.
+
+-> HERE "LINKER" a software which resolved the symbol present in application program comes into picture.
+
+LINKING CAN BE DONE AT:-
+1. Compile time :- When the source code is translated into machine code; at load time
+2. Load time:-  when the program is loaded into memory and executed by the loader
+3. Runtime :- when  application programs is running in RAM.
+
+-> Linkers play a crucial role in software development because they enable separate compilation. 
+-> Instead of organizing a large application as one monolithic source file, we can decompose it into 
+smaller, more manageable modules that can be modified and compiled separately. 
+-> When we change one of these modules, we simply recompile it and relink the application, without
+having to recompile the other files.
