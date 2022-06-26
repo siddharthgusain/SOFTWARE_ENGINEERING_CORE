@@ -1,0 +1,32 @@
+-> WE know modern programs user variety of standard and non standard libraries inside there source code.
+-> E.g :- standard C library , GUI library openGL library etc.
+-> There are two ways to add library function into your source code, as these library functions are written 
+by someone else but used by us in our source code 
+
+APPROACH 1:-
+-> One approach would be to have the compiler recognize calls to the standard functions and to generate the 
+appropriate code directly. 
+
+Disadvantage:- 
+-> Pascal, which provides a small set of standard functions, takes this approach, but it is not feasible for C, 
+because of the large number of standard functions defined by the C standard. It would add significant
+complexity to the compiler and would require a new compiler version each time a function was added, deleted, 
+or modified. To application programmers, however, this approach would be quite convenient because the standard functions would
+always be available.
+
+APPROACH 2:-
+-> Another approach would be to put all of the standard C functions in a single relocatable object module, 
+say, libc.o, that application programmers could link into their executables:
+:- unix> gcc main.c /usr/lib/libc.o
+This approach has the advantage that it would decouple the implementation of the standard functions from 
+the implementation of the compiler, and would still be reasonably convenient for programmers. 
+
+Disadvantages:- 
+1. A big disadvantage is that every executable file in a system would now contain a complete copy of the 
+collection of standard functions, which would be extremely wasteful of disk space. (On a typical system, libc.a is about 8 MB and libm.a is about
+1 MB.)
+2. Worse, each running program would now contain its own copy of these functions in memory, which would be 
+extremely wasteful of memory.
+3. Another big disadvantage is that any change to any standard function, no matter how small, would require 
+the library developer to recompile the entire source file, a time consuming operation that would complicate 
+the development and maintenance of the standard functions.

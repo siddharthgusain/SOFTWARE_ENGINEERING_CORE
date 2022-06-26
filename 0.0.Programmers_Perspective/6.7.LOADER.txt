@@ -1,0 +1,9 @@
+:-> To run an executable object file p, we can type its name to the Unix shell’s
+command line:
+:- unix> ./fileName
+-> Since fileName does not correspond to a built-in shell command, the shell assumes that fileName is an executable object file, which it runs for us by invoking some memory-
+resident operating system code known as the loader. 
+-> Any Unix program can invoke the loader by calling the "execve" function. 
+-> The loader copies the code and data in the executable object file from disk into memory, and then runs the
+program by jumping to its first instruction, or entry point. This process of copying the program into memory and 
+then running it is known as "loading".

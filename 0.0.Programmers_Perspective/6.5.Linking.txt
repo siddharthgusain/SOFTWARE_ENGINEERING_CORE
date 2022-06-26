@@ -2,7 +2,7 @@
 -> But generally our code contains lots of library functions that we call inside out code, the body
 of these functions are not present in our program, they are precompiled and stored in some other location.
 E.g libc ---> standard C library.
--> So while running thr program we need definition of these function so that when our program calls the routine
+-> So while running the program we need definition of these function so that when our program calls the routine
 CPU can go to the location of the routine.
 
 -> So there is a need of some other program which can "LINK" all these together.

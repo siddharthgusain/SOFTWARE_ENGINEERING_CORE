@@ -11,3 +11,9 @@ https://stackoverflow.com/questions/15869502/how-does-the-operating-system-know-
 https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/mouse.html
 
 https://www.youtube.com/watch?v=278DNcR-NUE
+
+https://www.quora.com/How-is-asynchronous-IO-implemented-in-programming-languages
+
+https://stackoverflow.com/questions/575974/asynchronous-operations-performance/576005#576005
+
+https://www.quora.com/What-is-asynchronous-programming
