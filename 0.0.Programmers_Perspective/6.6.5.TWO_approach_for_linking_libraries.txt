@@ -1,4 +1,4 @@
--> WE know modern programs user variety of standard and non standard libraries inside there source code.
+-> We know modern programs use variety of standard and non standard libraries inside there source code.
 -> E.g :- standard C library , GUI library openGL library etc.
 -> There are two ways to add library function into your source code, as these library functions are written 
 by someone else but used by us in our source code 
@@ -18,7 +18,7 @@ APPROACH 2:-
 -> Another approach would be to put all of the standard C functions in a single relocatable object module, 
 say, libc.o, that application programmers could link into their executables:
 :- unix> gcc main.c /usr/lib/libc.o
-This approach has the advantage that it would decouple the implementation of the standard functions from 
+This approach has the advantage that it would "decouple" the implementation of the standard functions from 
 the implementation of the compiler, and would still be reasonably convenient for programmers. 
 
 Disadvantages:- 

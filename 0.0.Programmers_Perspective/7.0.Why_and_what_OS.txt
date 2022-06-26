@@ -1,5 +1,9 @@
 Programming in early computing hardwares:-
-->
+-> Previously programs used to be small as memory used to to be small , and the whole program is loaded to the
+memory .As Memory size grows ,program size also increases. so whole program can't be loaded to the memory .
+-> The implementation of virtual memory by operating system solved this problem.
+
+https://en.wikipedia.org/wiki/Systems_programming
 
 Problems during early days:-
 

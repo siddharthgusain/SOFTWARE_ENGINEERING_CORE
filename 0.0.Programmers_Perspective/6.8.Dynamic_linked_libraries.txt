@@ -1,0 +1,25 @@
+ISSUES WITH STATIC LINKING :-
+1. Static libraries, like all software, need to be maintained and updated periodically.
+If application programmers want to use the most recent version of a library, they must somehow become 
+aware that the library has changed, and then explicitly relink their programs against the updated library
+
+2. Another issue is that almost every C program uses standard I/O functions such as printf and scanf. 
+At run time, the code for these functions is duplicated in the "code segment" of each running process. 
+On a typical system that is running 50–100 processes, this can be a significant waste of scarce memory system resources. 
+(An interesting property of memory is that it is always a scarce resource, regardless of how much there is in a system)
+
+SHARED LIBRARY 
+-> Shared libraries are modern innovations that address the disadvantages of static libraries. A shared library
+is an object module that, at run time, can be loaded at an arbitrary memory address and linked with a program 
+in memory.This process is known as dynamic linking and is performed by a program called a "dynamic linker".
+
+-> Shared libraries are also referred to as shared objects, and on Unix systems are typically denoted by the
+".so suffix". 
+-> Microsoft operating systems make heavy use of shared libraries, which they refer to as "DLLs" (dynamic link libraries)
+
+-> Shared libraries are “shared” in two different ways. First, in any given file
+system, there is exactly one .so file for a particular library. The code and data in
+this .sofile are shared by all of the executable object files that reference the library,
+as opposed to the contents of static libraries, which are copied and embedded in
+the executables that reference them. Second, a single copy of the .text section of
+a shared library in memory can be shared by different running processes. 
