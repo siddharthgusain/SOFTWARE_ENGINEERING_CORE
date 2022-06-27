@@ -1,9 +1,11 @@
 -> Now the program is present in memory(RAM) in terms of machine instruction set.
 -> Now CPU will fetch the program instructions one by one.
 -> FOr simplicity we are considering that the whole program is present in memory.Modern system doesnt work like
-that .they use virtual memory implementation.
+that ,they use virtual memory implementation.
 
-NOTE:- Right now we are talking about single threaded synchronous programs (like the programs in early computing days)
+NOTE:- Right now we are talking about single threaded synchronous programs (like the programs in early computing days).
+-> During early computing days , people used to load small programs into some memory and connect that memory to cpu , Cpu will 
+start executing the program from starting address of the RAM and the CPU goes through following cycle:----->
 
 -> Program counter(PC) is loaded with first instruction address.
 -> Instruction is FETCHED INTO IR(instruction register). ----> Fetch phase
@@ -24,3 +26,10 @@ WE HAVE PIPELINING HAZARDS LIKE:-
 3. WRITE-WRITE
 
 AND TO SOLVE these hazard we have smart assemblers and compiler.
+
+NOTE:- WE HAVE NOT TALKED ABOUT EVENT DRIVEN/ASYNCHRONOUS PROGRAMMING OR MULTITHREADED/MULTIPROCESS PROGRAM APPLICATIONS.
+-> CURRENTLY WE ARE ASSUMING GUI DOESNT EXIST OR DISPLAY DEVICES DOESNT EXIST.
+-> SO THE PROGRAM IS LOADED INTO RAM AND THEN THE EXECUTION BEGINS FROM STARTING POINT OF PROGRAM.
+
+BEN EATER:- 
+1. https://www.youtube.com/watch?v=35zLnS3fXeA

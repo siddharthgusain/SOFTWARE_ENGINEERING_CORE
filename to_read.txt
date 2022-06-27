@@ -17,3 +17,13 @@ https://www.quora.com/How-is-asynchronous-IO-implemented-in-programming-language
 https://stackoverflow.com/questions/575974/asynchronous-operations-performance/576005#576005
 
 https://www.quora.com/What-is-asynchronous-programming
+
+https://www.technologyuk.net/computing/software-development/software-design/event-driven-programming.shtml#:~:text=Event%2Ddriven%20programming%20is%20a,operating%20system%20or%20another%20program.
+
+https://www.quora.com/Is-an-operating-system-an-event-driven-program
+
+https://www.quora.com/What-is-an-event-loop-1
+
+https://en.wikipedia.org/wiki/Event-driven_programming
+
+https://softwareengineering.stackexchange.com/questions/223191/difference-between-event-loop-and-system-calls-interrupts

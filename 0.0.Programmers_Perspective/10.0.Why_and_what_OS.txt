@@ -52,3 +52,10 @@ applications).
 available resources, either because the software itself is performance critical or because even small 
 efficiency improvements directly transform into significant savings of time or money.
 
+-> We are generally working on high level application program due to following reasons:-
+1. The underlying software and hardware layers has been implemented in last 40 years(like PCB, operating system,drivers) and 
+users are already using these hardware and operating systems, so building everything from scratch is not productive and instead its better
+to make application software which solves some specific problem and make use of underlying abstractions like drivers, operating systems.
+2. Very lesss development time.
+3. Company Budget. 
+
