@@ -56,6 +56,6 @@ efficiency improvements directly transform into significant savings of time or m
 1. The underlying software and hardware layers has been implemented in last 40 years(like PCB, operating system,drivers) and 
 users are already using these hardware and operating systems, so building everything from scratch is not productive and instead its better
 to make application software which solves some specific problem and make use of underlying abstractions like drivers, operating systems.
-2. Very lesss development time.
-3. Company Budget. 
+2. VERY LESS DEVELOPMENT TIME
+3. COMPANY BUDGET. 
 
