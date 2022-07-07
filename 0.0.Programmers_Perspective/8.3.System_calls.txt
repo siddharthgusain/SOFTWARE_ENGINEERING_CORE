@@ -1,0 +1,12 @@
+-> system calls are ways to access kernel code from user program 
+-> System call is part of exception control flow called trap.
+-> We have already seen the assembly of user program containing system call.
+
+-> There are 100's of system calls available , here the list of linux system calls:-
+http://linasm.sourceforge.net/docs/syscalls/index.php
+
+NOTE:- there is difference btw system call and normal function call
+-> SYSTEM call changes the mode bit in program status word register of CPU.
+-> User program stack is not used for system call routine , it uses kernel stack.
+-> System call is an kind of exception control flow while function call is an normal "call" instruction
+which jumps to subroutine written by user inside "CODE SEGMENT" of process.

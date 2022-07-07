@@ -57,5 +57,7 @@ efficiency improvements directly transform into significant savings of time or m
 users are already using these hardware and operating systems, so building everything from scratch is not productive and instead its better
 to make application software which solves some specific problem and make use of underlying abstractions like drivers, operating systems.
 2. VERY LESS DEVELOPMENT TIME
-3. COMPANY BUDGET. 
+3. COMPANY BUDGET.
 
+-> The WHOLE IDEA of computing is based on abstraction , so that each generation can work on abstraction without
+worrying about the history of hardwares and system softwares.

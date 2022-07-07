@@ -1,0 +1,9 @@
+-> All devices connected to CPU uses some kind of interrupt which comes under exception control flow
+as studied earlier.
+-> Interrupt are hardware signals sens from hardware devices to CPU, they are handled by interrupt service
+routine defined in operating system.
+
+Below is the video demonstrating keyboard interrupt handling and working:-
+1. https://www.youtube.com/watch?v=dL0GO9SeBh0
+2. https://www.youtube.com/watch?v=wdgULBpRoXk
+3. https://www.youtube.com/watch?v=ewE8b7zzej0

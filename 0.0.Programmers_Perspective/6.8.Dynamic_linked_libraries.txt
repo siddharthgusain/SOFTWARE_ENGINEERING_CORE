@@ -11,7 +11,7 @@ On a typical system that is running 50–100 processes, this can be a significan
 SHARED LIBRARY 
 -> Shared libraries are modern innovations that address the disadvantages of static libraries. A shared library
 is an object module that, at run time, can be loaded at an arbitrary memory address and linked with a program 
-in memory.This process is known as dynamic linking and is performed by a program called a "dynamic linker".
+in memory.This process is known as "dynamic linking" and is performed by a program called a "dynamic linker".
 
 -> Shared libraries are also referred to as shared objects, and on Unix systems are typically denoted by the
 ".so suffix". 
