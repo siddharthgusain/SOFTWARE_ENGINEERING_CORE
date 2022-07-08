@@ -5,13 +5,7 @@ https://www.quora.com/How-does-OS-use-Multi%E2%80%93CPU-system
 https://www.youtube.com/watch?v=sSu66rBChK0
 https://en.wikipedia.org/wiki/Operating_system
 
-https://runestone.academy/ns/books/published/thinkcspy/GUIandEventDrivenProgramming/01_intro_gui.html
-
-https://www.quora.com/What-is-GUI-programming
-
 https://www.youtube.com/watch?v=dL0GO9SeBh0 -> events and events loop
-
-https://www.quora.com/How-do-I-write-GUI-for-an-operating-system-What-programming-language-is-mostly-used-for-this-kind-of-stuff
 
 https://www.quora.com/How-does-the-operating-system-work-when-we-type-using-a-mouse
 
@@ -39,27 +33,11 @@ https://en.wikipedia.org/wiki/Event-driven_programming
 
 https://softwareengineering.stackexchange.com/questions/223191/difference-between-event-loop-and-system-calls-interrupts
 
-https://techgenix.com/Server-Hardware-Explained-Part1/
-
-https://www.quora.com/What-should-I-know-before-learning-computer-graphics
-
-https://youtu.be/ptcHHXp1PEU -> GUI UNDER THE HOOD
-
-https://youtu.be/odjdWym0t4I -> GUI UNDER THE HOOD
-
 https://youtu.be/N0O5Uwc3C0o -> USB WORKING
 
 https://youtu.be/5lFnKYCZT5o --> virtual memory
 
-https://youtu.be/w1SB9Ry8_Jg -> keyboard inteerput
-
-https://youtu.be/7aXbh9VUB3U -> keyboard inteerput
-
-https://youtu.be/dL0GO9SeBh0 -> keyboard inteerput
-
-https://youtu.be/wdgULBpRoXk -> USB keyboard
-
 https://youtu.be/g_koa00MBLg -> hardware timers
 
-https://youtu.be/MCi7dCBhVpQ
+https://youtu.be/MCi7dCBhVpQ ---> SPI interface
 

@@ -7,7 +7,7 @@ Instructions can be broadly categorised into :-
 -> Logical operation
 -> Arithematic operation
 -> Shift operation
-3. Logical 
+3. Logical and control flow
 -> if else 
 -> looping
 

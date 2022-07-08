@@ -1,3 +1,21 @@
 1. https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh
+https://www.youtube.com/watch?v=l7rce6IQDWs
+https://www.youtube.com/watch?v=uqY3FMuMuRo
+https://www.youtube.com/watch?v=2iURr3NBprc&t=53s
+https://www.youtube.com/watch?v=BUTHtNrpwiI
 
 https://stackoverflow.com/questions/41137700/how-does-an-operating-system-draw-windows-on-the-screen
+
+https://www.sciencedirect.com/topics/computer-science/display-interface
+
+https://www.quora.com/What-should-I-know-before-learning-computer-graphics
+
+https://youtu.be/ptcHHXp1PEU -> GUI UNDER THE HOOD
+
+https://youtu.be/odjdWym0t4I -> GUI UNDER THE HOOD
+
+https://runestone.academy/ns/books/published/thinkcspy/GUIandEventDrivenProgramming/01_intro_gui.html
+
+https://www.quora.com/What-is-GUI-programming
+
+https://www.quora.com/How-do-I-write-GUI-for-an-operating-system-What-programming-language-is-mostly-used-for-this-kind-of-stuff

@@ -47,3 +47,9 @@ desktop environments or come separately, even as a set of loosely coupled utilit
 where data files are represented as if they were paper documents on a desk,
 and application programs similarly have graphical representations instead of being
 invoked by command names.
+
+NOTE:- Whether CUI or GUI both are softwares , that let users to interact with computers and access hardware.
+For developers CUI and GUI are not that usefull , system calls are usefull to access hardware.
+
+-> If we think about it , CUI has some GUI with which we interact , but character user interface is not a 
+fully fleged GUI with icons , button and all other GUI elements.
