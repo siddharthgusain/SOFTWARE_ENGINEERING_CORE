@@ -61,3 +61,6 @@ to make application software which solves some specific problem and make use of 
 
 -> The WHOLE IDEA of computing is based on abstraction , so that each generation can work on abstraction without
 worrying about the history of hardwares and system softwares.
+
+FIRSTLY WE WILL FOCUS MORE ON UNIPROCESSOR OR SINGLE CORE PROCESSOR,SO MACHINE INSTRUCTION OF ONLY ONE PROCESS
+WILL BE RUNNING IN CPU AT A TIME.(THERE WILL BE CONTEXT SWITCHING HANDLED BY OS).

@@ -1,9 +1,5 @@
 -> Networking read and notes -> https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW
-
-operating system on uniprocessor vs multiprocessor 
-https://www.quora.com/How-does-OS-use-Multi%E2%80%93CPU-system
-https://www.youtube.com/watch?v=sSu66rBChK0
-https://en.wikipedia.org/wiki/Operating_system
+https://www.youtube.com/watch?v=TNQsmPf24go -> internet
 
 https://www.youtube.com/watch?v=dL0GO9SeBh0 -> events and events loop
 
@@ -15,7 +11,7 @@ https://stackoverflow.com/questions/15869502/how-does-the-operating-system-know-
 
 https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/mouse.html
 
-https://www.youtube.com/watch?v=278DNcR-NUE
+https://www.youtube.com/watch?v=278DNcR-NUE ---> click event 
 
 https://www.quora.com/How-is-asynchronous-IO-implemented-in-programming-languages
 
@@ -33,11 +29,18 @@ https://en.wikipedia.org/wiki/Event-driven_programming
 
 https://softwareengineering.stackexchange.com/questions/223191/difference-between-event-loop-and-system-calls-interrupts
 
-https://youtu.be/N0O5Uwc3C0o -> USB WORKING
+https://youtu.be/N0O5Uwc3C0o -> USB DEVICE WORKING
 
 https://youtu.be/5lFnKYCZT5o --> virtual memory
 
 https://youtu.be/g_koa00MBLg -> hardware timers
 
 https://youtu.be/MCi7dCBhVpQ ---> SPI interface
+
+Interfacing with CPU + OS functions:-
+1. I/o -> Mouse , keyboard , display
+2. Harddisk , RAM
+3. Network interface card
+4. GPU 
+5. Camera / Microphone
 

@@ -1,0 +1,22 @@
+-> Schedulers are small routines written in Operating system kernel , which perform
+some basic task required to do process scheduling at different stages.
+
+There are 3 types of schedulers :-
+1. Long Term Scheduler (LTS) / Job Scheduler
+-> Responsible for picking and scheduling process from pool of process present
+and loads that process into RAM
+-> Controls the "degree of multiprogramming".
+-> It should take the mix of "CPU Bound" and "I/O bound" processes.
+
+2. Short Term Scheduler(MTS) / CPU Scheduler
+-> Selects from among the processes that are ready to execute and allocates the CPU to one of them
+-> The primary distinction between these two schedulers lies in frequency of execution.
+-> The short-term scheduler must select a new process for the CPU frequently. 
+A process may execute for only a few milliseconds before waiting for an I/O request. Often, the short-term scheduler executes at least once every
+100 milliseconds. 
+-> Because of the short time between executions, the short-term scheduler must be fast. 
+If it takes 10 milliseconds to decide to execute a process for 100 milliseconds, 
+then 10/(100 + 10) = 9 percent of the CPU is being used (wasted) simply for scheduling the work.
+
+3. Middle Term Scheduler
+-> For swapping btw RAM and harddisk.
