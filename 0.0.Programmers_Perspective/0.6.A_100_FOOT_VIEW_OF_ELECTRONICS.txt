@@ -1,0 +1,15 @@
+1. It all started with invention of semiconductor (silicon,Germanium).
+2. From semiconductor -> Diode(basic element)
+3. Diode -> Transistors(PNP,NPN,MOSFET) 
+3. Transistors -> Gates (Basic boolean circuit)(SSI)
+4. Combinational circuits -> ALU, DECODERS/Encoders, MUX/DEMUX,BASIC MATHS CIRCUIT.
+6. Sequential Circuit 
+    -> Flip flops -> basic memory elements -> registers -> RAM / ROM/CACHE (LSI)
+7. Other hardware circuits
+ -> NIC, GPU , Keyboard , Mouse ,Displays, Wifi , Bluetooth ,microphone, speaker.
+ -> Harddisk(mechanical device)
+
+-> To put all these independent components into one place , motherboards/PCB was invented (VLSI)
+-> All these components are interfaced to CPU by some standard connectors/ports standardized by IEEE.
+-> Interface/Port define , the pin structure and data transfer structure.
+

@@ -12,8 +12,8 @@ it can be divided into 4 layers:-
 -> Any other hardware module like web cam etc.
 -> ALL these components are independent , but they are connected/interfaced together inside PCB known as motherboard.
 
-2. System software layer(general purpose softwares) (Low level softwares)
--> Operating system 
+2. System software layer(general purpose softwares) (System level softwares)
+-> Operating system , loader , linker 
 -> Compilers
 -> Drivers specific for each device to be interfaced
 -> Graphics API pipeline
@@ -21,9 +21,9 @@ it can be divided into 4 layers:-
 3. Software using OS services directly (Mid level software)
 -> Browsers
 -> DBMS 
--> Virtual machine softwares
+-> Virtual machine softwares(Virtual Box Oracle)
 
-4. Application software(Problem specific) ->(consumer facing products)-> For Developers 
+4. Application software(Problem specific) ->(consumer facing products/Application software)-> For Developers 
 -> WEB apps
 -> IOS apps
 -> desktop apps

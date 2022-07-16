@@ -1,6 +1,18 @@
 -> Networking read and notes -> https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW
 https://www.youtube.com/watch?v=TNQsmPf24go -> internet
 
+<----------------------------------------------------------------------------------------------->
+
+https://en.wikipedia.org/wiki/Dynamic_loading
+
+https://www.quora.com/Systems-Programming/What-is-the-exact-difference-between-dynamic-loading-and-dynamic-linking/answer/Jeff-Darcy
+
+https://www.quora.com/Have-you-ever-programmed-directly-in-machine-code-rather-than-in-assembly-language
+
+https://www.quora.com/How-exactly-does-WebAssembly-work-under-the-hood-Is-it-getting-run-just-like-Assembly-is-directly-on-the-machine-as-machine-code-or-is-it-still-being-interpreted-somewhere-in-the-stack
+
+https://www.quora.com/Is-it-possible-to-do-asynchronous-programming-if-a-computer-has-only-one-core-in-its-only-processor-If-so-how
+
 https://www.youtube.com/watch?v=dL0GO9SeBh0 -> events and events loop
 
 https://www.quora.com/How-does-the-operating-system-work-when-we-type-using-a-mouse
@@ -29,18 +41,8 @@ https://en.wikipedia.org/wiki/Event-driven_programming
 
 https://softwareengineering.stackexchange.com/questions/223191/difference-between-event-loop-and-system-calls-interrupts
 
-https://youtu.be/N0O5Uwc3C0o -> USB DEVICE WORKING
-
 https://youtu.be/5lFnKYCZT5o --> virtual memory
 
-https://youtu.be/g_koa00MBLg -> hardware timers
+https://youtu.be/9tZmSFjoOm4 --> reverse egninerring
 
-https://youtu.be/MCi7dCBhVpQ ---> SPI interface
-
-Interfacing with CPU + OS functions:-
-1. I/o -> Mouse , keyboard , display
-2. Harddisk , RAM
-3. Network interface card
-4. GPU 
-5. Camera / Microphone
 

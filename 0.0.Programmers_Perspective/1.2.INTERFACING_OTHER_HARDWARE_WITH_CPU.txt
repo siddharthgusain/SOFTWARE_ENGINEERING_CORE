@@ -1,0 +1,30 @@
+KEYBOARD
+-> Keyboard is simplest input device that we use everyday.
+-> Keyboard has keys which can have threee states:-
+1. pressed
+2. hold
+3. Released
+
+-> Keyboard sends 8 bits(1 byte) corresponding to key pressed which can be read by CPU.
+-> Releasing a Key also sends two things:-
+1. Bits to say key is being Released
+2. Bits for the actual key 
+
+-> Keyboard also has Clock to synchronise the data sending.
+-> It gets interfaced with CPU with some connector e.g PS/2 , SPI , USB
+
+Now this keyboard gives interrupt signal to the interrupt key in CPU , and corresponding ISR
+is RUN that is generally part of operating system.
+
+MOUSE
+-> Mouse also sends the data in same way 
+
+RAM 
+-> RAM is interfaced with CPU via data and address lines
+-> RAM is made up of FLip flops which store 1 bit 
+
+-> ALL other computers are interfaced with some interface or PORT standardised by IEEE.
+-> ALL the ISR(interrupt service routines) are also written according to these specs . Generaly ,there are
+drivers shipped with each hardware component which is actually a small program which is written using
+IEEE specs and is called by operating system to receive data or send data to correposnding component
+E.g Keyboard driver, Mouse driver, GPU driver , Joystick driver etc
