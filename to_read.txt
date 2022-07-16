@@ -3,14 +3,6 @@ https://www.youtube.com/watch?v=TNQsmPf24go -> internet
 
 <----------------------------------------------------------------------------------------------->
 
-https://en.wikipedia.org/wiki/Dynamic_loading
-
-https://www.quora.com/Systems-Programming/What-is-the-exact-difference-between-dynamic-loading-and-dynamic-linking/answer/Jeff-Darcy
-
-https://www.quora.com/Have-you-ever-programmed-directly-in-machine-code-rather-than-in-assembly-language
-
-https://www.quora.com/How-exactly-does-WebAssembly-work-under-the-hood-Is-it-getting-run-just-like-Assembly-is-directly-on-the-machine-as-machine-code-or-is-it-still-being-interpreted-somewhere-in-the-stack
-
 https://www.quora.com/Is-it-possible-to-do-asynchronous-programming-if-a-computer-has-only-one-core-in-its-only-processor-If-so-how
 
 https://www.youtube.com/watch?v=dL0GO9SeBh0 -> events and events loop

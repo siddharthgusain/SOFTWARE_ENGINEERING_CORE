@@ -3,14 +3,14 @@
 of these functions are not present in our program, they are precompiled and stored in some other location.
 E.g libc ---> standard C library.
 -> So while running the program we need definition of these function so that when our program calls the routine
-CPU can go to the location of the routine.
+CPU can load the location of the routine into its program counter.
 
 -> So there is a need of some other program which can "LINK" all these together.
 
 -> HERE "LINKER" a software which resolved the symbol present in application program comes into picture.
 
 LINKING CAN BE DONE AT:-
-1. Compile time :- When the source code is translated into machine code; at load time
+1. Compile time :- When the source code is translated into machine code;
 2. Load time:-  when the program is loaded into memory and executed by the loader
 3. Runtime :- when  application programs is running in RAM.
 

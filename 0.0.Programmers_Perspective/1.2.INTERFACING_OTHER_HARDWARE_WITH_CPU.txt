@@ -28,3 +28,5 @@ RAM
 drivers shipped with each hardware component which is actually a small program which is written using
 IEEE specs and is called by operating system to receive data or send data to correposnding component
 E.g Keyboard driver, Mouse driver, GPU driver , Joystick driver etc
+
+-> NOTE:- All these interfacing is already done inside motherboard by companies like Apple, Dell, HP etc.

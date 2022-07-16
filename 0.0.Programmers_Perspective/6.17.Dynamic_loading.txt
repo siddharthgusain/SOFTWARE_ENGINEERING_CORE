@@ -1,0 +1,10 @@
+-> Dynamic loading is a mechanism by which a computer program can, at run time, load a library 
+(or other binary) into memory, retrieve the addresses of functions and variables contained in the 
+library, execute those functions or access those variables, and unload the library from memory.
+
+-> It is one of the 3 mechanisms by which a computer program can use some other software; 
+the other two are "static linking" and "dynamic linking". Unlike static linking and dynamic linking, 
+dynamic loading allows a computer program to start up in the absence of these libraries, 
+to discover available libraries, and to potentially gain additional functionality.
+
+-> https://www.quora.com/Systems-Programming/What-is-the-exact-difference-between-dynamic-loading-and-dynamic-linking/answer/Jeff-Darcy
