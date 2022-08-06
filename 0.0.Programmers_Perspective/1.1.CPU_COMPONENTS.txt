@@ -31,7 +31,7 @@ F Segment (FS). Pointer to more extra data ('F' comes after 'E').
 G Segment (GS). Pointer to still more extra data ('G' comes after 'F').
 -> PSW(program status word)
 
-5. CLOCK 
+5. CLOCK (for synchronisation)
 
 TYPES OF CPU :-
 1. SINGLE CORE -> Only one process/thread at a time (concurrency)

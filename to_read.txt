@@ -13,6 +13,8 @@ Network Interface card
 https://youtu.be/gfmRrPjnEw4 --> some assembly overview
 https://www.youtube.com/c/BenEater/videos 
 
+https://stackoverflow.com/questions/38237308/elf-format-is-elf-a-subset-of-o-so-or-is-elf-basically-the-entire-o-so --> out file , so file and executable difference
+
 https://www.quora.com/How-does-the-CPU-differentiates-between-data-instructions-and-addresses
 https://stackoverflow.com/questions/61338501/how-does-a-computer-distinguish-between-different-types-of-data
 
