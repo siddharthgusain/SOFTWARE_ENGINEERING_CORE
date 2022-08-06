@@ -5,16 +5,16 @@ PROCESSOR:-
 -> CPU(Multicore pipelined) +  Memory management unit (inside CPU)
 -> GPU(Graphics/pixel processing)
 
-BUS : conduction lines carrying data :-
+BUS : conduction lines carrying data(conducting tunnels in PCB) :-
 -> Data Bus 
 -> Address Bus
 -> Control bus
 
 MEMORY:- 
 (i) Volatile  
+-> Memory(RAM) 
 -> ROM -> FOR small programs like bootloaders
 -> Cache memory(inside cpu)
--> Memory(RAM) 
 (ii) Non volatile
 -> DISK(HDD,SSD)
 

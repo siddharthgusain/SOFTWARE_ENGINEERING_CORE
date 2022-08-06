@@ -1,0 +1,9 @@
+-> Every program in modern computer is stored in RAM where it is executed by cpu line by line.
+-> RAM interface contains address pins , data pins and control pins(READ or WRITE)
+-> RAM AND CPU interface is simple and is synchronised with clock 
+-> CPU puts Address on address bus which is connected to RAM and sends control signal to read or write from
+that address 
+-> Now this data can be sent to any other device like monitor , GPU ,speaker , network card hardware etc.
+-> At the starting , very small programs are directly put into RAM , and were written in binary directly.
+-> Then people started writing programs in assembly and the wrote assembler to convert the source code assembly
+to machine instruction set or executable.

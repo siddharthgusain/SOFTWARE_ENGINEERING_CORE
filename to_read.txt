@@ -6,12 +6,10 @@ hardware overview of basic component:-
 Keyboard 
 mouse
 Display + GPU
-RAM
 HDD
 Network Interface card
 
 https://youtu.be/gfmRrPjnEw4 --> some assembly overview
-https://www.youtube.com/c/BenEater/videos 
 
 https://stackoverflow.com/questions/38237308/elf-format-is-elf-a-subset-of-o-so-or-is-elf-basically-the-entire-o-so --> out file , so file and executable difference
 

@@ -3,7 +3,7 @@
 
 2. CACHE AND MMU
 
-3. CONTROL UNIT
+3. CONTROL UNIT(FOR READ and WRITE Signals)
 
 4. REGISTERS
 -> GPR(general purpose register)
