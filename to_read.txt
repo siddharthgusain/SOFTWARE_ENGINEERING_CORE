@@ -2,6 +2,68 @@
 https://www.youtube.com/watch?v=TNQsmPf24go -> internet
 
 <----------------------------------------------------------------------------------------------->
+hardware overview of basic component:-
+Keyboard 
+mouse
+Display + GPU
+RAM
+HDD
+Network Interface card
+
+https://youtu.be/gfmRrPjnEw4 --> some assembly overview
+https://www.youtube.com/c/BenEater/videos 
+
+https://www.quora.com/How-does-the-CPU-differentiates-between-data-instructions-and-addresses
+https://stackoverflow.com/questions/61338501/how-does-a-computer-distinguish-between-different-types-of-data
+
+https://youtu.be/or1dAmUO8k0?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> static linking
+
+https://youtu.be/pLy69V2F_8M?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> dynamic linking
+
+https://youtu.be/Wt4dxDNmDA8?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> working with libraries(polyglot programming)
+
+https://youtu.be/eSI4wctZUto?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb--> precompiler headers
+
+https://www.youtube.com/watch?v=yD47_hq75q0&list=WL&index=18&t=2249s --> event and dispatcher coding (cherno)
+
+https://math.hws.edu/javanotes/c1/s2.html ---> polling vs interrupt
+
+https://stackoverflow.com/questions/2611992/how-cpu-finds-isr-and-distinguishes-between-devices#:~:text=The%20CPU%20then%20uses%20this,CPU%20begins%20executing%20the%20ISR.
+
+https://www.quora.com/How-does-input-from-a-keyboard-get-to-the-processor
+
+https://en.wikipedia.org/wiki/Control_flow
+
+https://stackoverflow.com/questions/48110019/how-does-the-cpu-knows-which-interrupt-service-routine-to-run-against-a-hardware#:~:text=After%20the%20CPU%20acks%20the,and%20then%20continues%20from%20there.
+
+https://www.quora.com/How-does-a-CPU-know-when-it-receives-an-interrupt-signal
+https://www.sciencedirect.com/topics/engineering/interrupt-service-routine
+
+https://stackoverflow.com/questions/41533314/how-do-dynamically-typed-languages-work
+
+https://www.linkedin.com/pulse/how-interrupts-handled-processor-detailed-view-vasuki-shankar/?trk=public_profile_article_view
+
+https://superuser.com/questions/218179/can-someone-explain-to-me-how-the-cpu-finds-the-source-of-an-interrupt-in-os-the
+
+https://www.quora.com/How-do-I-call-one-programming-language-function-with-another-programming-language
+
+https://stackoverflow.com/questions/636841/how-do-multiple-languages-interact-in-one-project#:~:text=In%20the%20simple%20case%2C%20different,use%20a%20differnt%20type%20system.
+https://www.quora.com/How-does-event-driven-programming-work
+https://www.quora.com/How-can-a-piece-of-software-be-written-in-different-programming-languages
+
+https://www.reddit.com/r/learnprogramming/comments/8khdjq/how_can_software_be_written_in_multiple_languages/
+
+https://jserd.springeropen.com/articles/10.1186/s40411-017-0035-z
+
+https://softwareengineering.stackexchange.com/questions/267167/how-to-use-multiple-programming-languages-together-in-the-same-program
+
+https://conquercoding.com/programme-languages-work-together/
+
+https://www.computerworld.com/article/2467812/polyglot-programming----development-in-multiple-languages.html
+
+https://homepages.cwi.nl/~paulk/theses/MarcelToele.pdf
+
+https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming
 
 https://www.quora.com/Is-it-possible-to-do-asynchronous-programming-if-a-computer-has-only-one-core-in-its-only-processor-If-so-how
 
@@ -36,5 +98,9 @@ https://softwareengineering.stackexchange.com/questions/223191/difference-betwee
 https://youtu.be/5lFnKYCZT5o --> virtual memory
 
 https://youtu.be/9tZmSFjoOm4 --> reverse egninerring
+
+https://github.com/codecrafters-io/build-your-own-x --> ALL CORE SOFTWARES
+
+https://wiki.osdev.org/Main_Page
 
 

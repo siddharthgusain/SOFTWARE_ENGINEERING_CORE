@@ -21,3 +21,5 @@ to the screen behind the scenes.
 -> Understanding browser is must to understand where can we speed up the Web applications.
 
 RESOURCES:- https://www.baeldung.com/linux/gui
+
+https://stackoverflow.com/questions/2894943/how-does-a-gui-framework-work

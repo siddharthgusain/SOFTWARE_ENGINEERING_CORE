@@ -1,19 +1,32 @@
 Modern Computers Have layered architecture to make things isolated and hidden from users, broadly
 it can be divided into 4 layers:- 
 1. Hardware Layer(Actual electronics devices)
--> CPU,GPU -> processors
+PROCESSOR:-
+-> CPU(Multicore pipelined) +  Memory management unit (inside CPU)
+-> GPU(Graphics/pixel processing)
+
+MEMORY:- 
+(i) Volatile  
 -> ROM -> FOR small programs like bootloaders
--> Cache memory(inside cpu) , Memory management unit (inside CPU)
--> Memory(RAM) -> Volatile Memory
--> DISK(HDD,SSD) -> Non-volatile Memory
+-> Cache memory(inside cpu)
+-> Memory(RAM) 
+(ii) Non volatile
+-> DISK(HDD,SSD)
+
+I/0 DEVICES:-
 -> INPUT DEVICES:- Keyboard ,mouse any other device, microphone
--> OUTPUT devices:- Display , Speaker, any other output device  
+-> OUTPUT devices:- Display , Speaker, any other output device
+
+NETWORK DEVICE  
 -> Network interface card(wifi ,ethernet)
+
+OTHERS:- 
 -> Any other hardware module like web cam etc.
+
 -> ALL these components are independent , but they are connected/interfaced together inside PCB known as motherboard.
 
-2. System software layer(general purpose softwares) (System level softwares)
--> Operating system , loader , linker 
+2. System software layer(general purpose softwares) (System level softwares) -> For system developer
+-> Operating system , loader , linker  , bootloaders
 -> Compilers
 -> Drivers specific for each device to be interfaced
 -> Graphics API pipeline
@@ -21,9 +34,9 @@ it can be divided into 4 layers:-
 3. Software using OS services directly (Mid level software)
 -> Browsers
 -> DBMS 
--> Virtual machine softwares(Virtual Box Oracle)
+-> Virtual machine softwares(Virtual Box Oracle,JVM)
 
-4. Application software(Problem specific) ->(consumer facing products/Application software)-> For Developers 
+4. Application software(Problem specific) ->(consumer facing products/Application software)-> For Application Developers 
 -> WEB apps
 -> IOS apps
 -> desktop apps
@@ -38,7 +51,7 @@ operating system, driver.
 
 -> At whatever abstraction we are working , its important to know the abstraction atleast one level down.
 For e.g :- 
-1. For web developers , we work on top of browsers , so its important to undertand how browser works.
+1. For web developers , we work on top of browsers , so its important to understand how browser works.
 2. If we are making native desktop application, its important to know Operating system 
 3. If we are building operating system , its important to know the hardware architecture(COA) and device Drivers
 4. If we are working on device drivers , its important to know architecture of the device for which

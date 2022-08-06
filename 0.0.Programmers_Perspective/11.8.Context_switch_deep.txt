@@ -4,7 +4,7 @@ routine.
 The code of context switching inside kernel do this:-
 1. Save the current state of processor (register set, program counter , other registers)
 into RAM inside data structure known as PCB(process control block).
-2. Load the state of another process from RAM inside PCB, speciaaly program counter.
+2. Load the state of another process from RAM inside PCB, specially program counter.
 3. Execution of other process start.
 
 -> Context-switch time is pure overhead, because the system does no useful work while switching

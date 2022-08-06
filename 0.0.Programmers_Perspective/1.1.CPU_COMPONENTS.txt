@@ -32,3 +32,7 @@ G Segment (GS). Pointer to still more extra data ('G' comes after 'F').
 -> PSW(program status word)
 
 5. CLOCK 
+
+TYPES OF CPU :-
+1. SINGLE CORE -> Only one process/thread at a time (concurrency)
+2. MULTICORE -> Multiple process/threads at the same time(Concurrency + parallelism)
