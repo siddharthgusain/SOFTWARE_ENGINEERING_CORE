@@ -1,6 +1,6 @@
 KEYBOARD
 -> Keyboard is simplest input device that we use everyday.
--> Keyboard has keys which can have threee states:-
+-> Keyboard has keys which can have three states:-
 1. pressed
 2. hold
 3. Released
@@ -13,12 +13,13 @@ KEYBOARD
 -> Keyboard also has Clock to synchronise the data sending.
 -> It gets interfaced with CPU with some connector e.g PS/2 , SPI , USB
 -> Keyboard has its own chip to known as controller.
+
 If a keyboard is a separate peripheral system unit (such as in most modern desktop computers), the keyboard
 controller is not directly attached to the keys but receives scancodes from a microcontroller embedded in 
 the keyboard via some kind of serial interface. In this case, the controller usually also controls the 
 keyboard's LEDs by sending data back to the keyboard through the wire.
 
--> Now this keyboard controller gives interrupt signal to the interrupt key in CPU , and corresponding ISR
+-> Now this keyboard controller gives interrupt signal to the "Interrupt PIN"  in CPU , and corresponding ISR
 is RUN that is generally part of operating system.
 
 -> A "keyboard buffer" is a section of computer memory used to hold keystrokes before they are processed.

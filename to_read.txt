@@ -5,11 +5,13 @@ https://www.youtube.com/watch?v=TNQsmPf24go -> internet
 hardware overview of basic component:-
 Keyboard 
 mouse
-Display + GPU
 HDD
 Network Interface card
 
-https://youtu.be/gfmRrPjnEw4 --> some assembly overview
+
+https://math.hws.edu/javanotes/index.html
+
+https://www.google.com/search?q=how+does+is+the+address+if+vector+table+fixed+in+computers&rlz=1C1VDKB_enIN968IN968&sxsrf=ALiCzsZhNur0SSxnmGTYRG9H7UomttmcDg%3A1659894630677&ei=ZvvvYtuCKf6Vr7wP2LGR0AY&ved=0ahUKEwjbzc2upbX5AhX-yosBHdhYBGoQ4dUDCA4&uact=5&oq=how+does+is+the+address+if+vector+table+fixed+in+computers&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQ0xRY0xRgwRZoBHABeACAAacBiAGnAZIBAzAuMZgBAKABAcgBCMABAQ&sclient=gws-wiz
 
 https://stackoverflow.com/questions/38237308/elf-format-is-elf-a-subset-of-o-so-or-is-elf-basically-the-entire-o-so --> out file , so file and executable difference
 
@@ -26,8 +28,6 @@ https://youtu.be/eSI4wctZUto?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb--> precompi
 
 https://www.youtube.com/watch?v=yD47_hq75q0&list=WL&index=18&t=2249s --> event and dispatcher coding (cherno)
 
-https://math.hws.edu/javanotes/c1/s2.html ---> polling vs interrupt
-
 https://stackoverflow.com/questions/2611992/how-cpu-finds-isr-and-distinguishes-between-devices#:~:text=The%20CPU%20then%20uses%20this,CPU%20begins%20executing%20the%20ISR.
 
 https://www.quora.com/How-does-input-from-a-keyboard-get-to-the-processor
@@ -37,6 +37,7 @@ https://en.wikipedia.org/wiki/Control_flow
 https://stackoverflow.com/questions/48110019/how-does-the-cpu-knows-which-interrupt-service-routine-to-run-against-a-hardware#:~:text=After%20the%20CPU%20acks%20the,and%20then%20continues%20from%20there.
 
 https://www.quora.com/How-does-a-CPU-know-when-it-receives-an-interrupt-signal
+
 https://www.sciencedirect.com/topics/engineering/interrupt-service-routine
 
 https://stackoverflow.com/questions/41533314/how-do-dynamically-typed-languages-work
