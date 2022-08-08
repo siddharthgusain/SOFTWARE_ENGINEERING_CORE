@@ -1,0 +1,32 @@
+-> When we first power up a CPU , it goes to a particular address and start executing codecrafters
+line by line.
+-> Lets talk about early days when operating system software were not there.
+-> People used to load the whole program into RAM and run one program at a time.
+-> CPU is loaded with starting address of program from where it executes everything line by line.
+
+-> Then how the execution of program can be disturbed or changed?
+Here comes into picture interrupt , we will talk about hardware interrupts first.
+-> Each CPU has a 1 more more pins dedicated for interrupt signal which can be triggerred by any
+external device like , Keyboard , mouse , network card etc.
+
+-> Now the CPU hardware is designed in such a way that on receiving interrupt , it jumps to a predefinded
+location in RAM which contains interrupt vector table .
+
+-> Now how CPU gets these address ?
+Generally CPU has a register interrupt vector register which stores this address and this table can be modified
+by priviledged softwares like operating system.
+-> Generally the vector table is fixed at address 0x00000000.
+-> Vector address table is dependend on CPU and operating system design.
+-> Before OS , each program was in control of complete hardware and all the Interrupt service routine
+were part of program itself.
+-> Now All ISR are part of OS kernel and is written as low level routines in kernel itself and are used
+by application processes to interact with hardware, so OS provides kind of API(system calls)
+
+-> Each device can cause interrupt and for each inteerupt an  ISR is written in kernel whose address
+is present in interrrupt vector table known by CPU.
+
+-> Lets just assume ISR routines are present for each and every device present in our computer , although
+ISR also calls driver programs in order to communicate with the hardware.Lets just keep it simple 
+for the time being.
+
+NOTE:- Interrupts are the basis of asynchronous and GUI programming.
