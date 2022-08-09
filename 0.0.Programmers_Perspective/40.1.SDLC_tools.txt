@@ -6,3 +6,10 @@ E.G :-
 4. Production/deployment:- Jenkins, various cloud providers(aws,gcp,azure)
 5. Containerziation tools:- docker,kubernetes etc
 6. Collaboration tools:- git,github
+
+
+QUALITY OF SOFTWARE Design :- 
+1. Reusable + Modular code 
+2. Coupling between Components should be minimal
+3. Cohersion btw modules should be high
+4. Clean and Modular structure of Source code for scalability and maintainability

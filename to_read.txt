@@ -1,5 +1,7 @@
 https://math.hws.edu/javanotes/index.html
 
+Compileing and linking :-
+
 https://stackoverflow.com/questions/38237308/elf-format-is-elf-a-subset-of-o-so-or-is-elf-basically-the-entire-o-so --> out file , so file and executable difference
 
 https://youtu.be/or1dAmUO8k0?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> static linking
@@ -10,16 +12,13 @@ https://youtu.be/Wt4dxDNmDA8?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> working
 
 https://youtu.be/eSI4wctZUto?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb--> precompiler headers
 
-https://www.youtube.com/watch?v=yD47_hq75q0&list=WL&index=18&t=2249s --> event and dispatcher coding (cherno)
-
-https://en.wikipedia.org/wiki/Control_flow
-
+PolyGlot Programming:- 
 https://stackoverflow.com/questions/41533314/how-do-dynamically-typed-languages-work
 
 https://www.quora.com/How-do-I-call-one-programming-language-function-with-another-programming-language
 
 https://stackoverflow.com/questions/636841/how-do-multiple-languages-interact-in-one-project#:~:text=In%20the%20simple%20case%2C%20different,use%20a%20differnt%20type%20system.
-https://www.quora.com/How-does-event-driven-programming-work
+
 https://www.quora.com/How-can-a-piece-of-software-be-written-in-different-programming-languages
 
 https://www.reddit.com/r/learnprogramming/comments/8khdjq/how_can_software_be_written_in_multiple_languages/
@@ -36,17 +35,15 @@ https://homepages.cwi.nl/~paulk/theses/MarcelToele.pdf
 
 https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming
 
+Asynchronous Programming In Depth:-
+
 https://www.quora.com/Is-it-possible-to-do-asynchronous-programming-if-a-computer-has-only-one-core-in-its-only-processor-If-so-how
 
 https://www.youtube.com/watch?v=dL0GO9SeBh0 -> events and events loop
 
-https://www.quora.com/How-does-the-operating-system-work-when-we-type-using-a-mouse
-
-https://www.futurelearn.com/info/courses/computer-systems/0/steps/53503
+https://www.quora.com/How-does-event-driven-programming-work
 
 https://stackoverflow.com/questions/15869502/how-does-the-operating-system-know-which-application-to-send-the-mouse-event-to
-
-https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/mouse.html
 
 https://www.quora.com/How-is-asynchronous-IO-implemented-in-programming-languages
 
@@ -63,6 +60,9 @@ https://www.quora.com/What-is-an-event-loop-1
 https://en.wikipedia.org/wiki/Event-driven_programming
 
 https://softwareengineering.stackexchange.com/questions/223191/difference-between-event-loop-and-system-calls-interrupts
+
+https://www.youtube.com/watch?v=yD47_hq75q0&list=WL&index=18&t=2249s --> event and dispatcher coding (cherno)
+
 
 https://youtu.be/5lFnKYCZT5o --> virtual memory
 
