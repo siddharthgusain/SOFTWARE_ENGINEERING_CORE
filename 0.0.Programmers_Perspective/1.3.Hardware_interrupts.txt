@@ -15,7 +15,8 @@ location in RAM which contains interrupt vector table .
 -> Now how CPU gets these address ?
 Generally CPU has a register interrupt vector register which stores this address and this table can be modified
 by priviledged softwares like operating system.
--> Generally the vector table is fixed at address 0x00000000.
+On system reset, the vector table is fixed at address 0x00000000. Privileged software can write to the VTOR (vector table offset register)
+to relocate the vector table start address to a different memory location, in the range 0x00000080 to 0x3FFFFF80
 -> Vector address table is dependend on CPU and operating system design.
 -> Before OS , each program was in control of complete hardware and all the Interrupt service routine
 were part of program itself.
@@ -30,3 +31,18 @@ ISR also calls driver programs in order to communicate with the hardware.Lets ju
 for the time being.
 
 NOTE:- Interrupts are the basis of asynchronous and GUI programming.
+
+-> By the way, the software that does all the interrupt handling, handles communication with the user 
+and with hardware devices, and controls which thread is allowed to run is called the operating system.
+
+-> The operating system is the basic, essential software without which a computer would not be able to
+function. Other programs, such as word processors and Web browsers, are dependent upon the operating 
+system. 
+
+->Common desktop operating systems include Linux, various versions of Windows, and MacOS. 
+-> Operating systems for smartphones and tablets include Android and iOS.
+
+
+
+
+

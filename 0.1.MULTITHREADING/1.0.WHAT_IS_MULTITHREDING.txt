@@ -24,3 +24,4 @@ https://stackoverflow.com/questions/41647778/does-user-level-threads-take-advant
 
 https://youtu.be/wXBcwHwIt_I?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb--> threads
 https://youtu.be/oEx5vGNFrLk?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> timer and threads
+https://www.google.com/search?q=how+are+threads+executed+at+hardware+level&rlz=1C1VDKB_enIN968IN968&oq=how+are+threads+executed+at+hardware+level&aqs=chrome..69i57j33i160.12870j0j7&sourceid=chrome&ie=UTF-8

@@ -1,0 +1,13 @@
+-> The list of devices is entirely open ended, and computer systems are built so that they can easily 
+be expanded by adding new devices. 
+-> Somehow the CPU has to communicate with and control all these devices. The CPU can only do this by 
+executing machine language instructions (which is all it can do, period). 
+
+-> The way this works is that for each device in a system, there is a device driver, which consists 
+of software that the CPU executes when it has to deal with the device. 
+
+-> Installing a new device on a system generally has two steps:
+1. Plugging the device physically into the computer
+2. Installing the device driver software. 
+
+-> Without the device driver the actual physical device would be useless, since the CPU would not be able to communicate with it.
