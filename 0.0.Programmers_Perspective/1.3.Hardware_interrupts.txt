@@ -1,4 +1,4 @@
--> When we first power up a CPU , it goes to a particular address and start executing codecrafters
+-> When we first power up a CPU , it goes to a particular address and start executing code 
 line by line.
 -> Lets talk about early days when operating system software were not there.
 -> People used to load the whole program into RAM and run one program at a time.
@@ -6,11 +6,11 @@ line by line.
 
 -> Then how the execution of program can be disturbed or changed?
 Here comes into picture interrupt , we will talk about hardware interrupts first.
--> Each CPU has a 1 more more pins dedicated for interrupt signal which can be triggerred by any
+-> Each CPU has "1 or more pins" dedicated for interrupt signal which can be triggerred by any
 external device like , Keyboard , mouse , network card etc.
 
 -> Now the CPU hardware is designed in such a way that on receiving interrupt , it jumps to a predefinded
-location in RAM which contains interrupt vector table .
+location in RAM which contains "interrupt vector table"(IVT) .
 
 -> Now how CPU gets these address ?
 Generally CPU has a register interrupt vector register which stores this address and this table can be modified
@@ -23,8 +23,8 @@ were part of program itself.
 -> Now All ISR are part of OS kernel and is written as low level routines in kernel itself and are used
 by application processes to interact with hardware, so OS provides kind of API(system calls)
 
--> Each device can cause interrupt and for each inteerupt an  ISR is written in kernel whose address
-is present in interrrupt vector table known by CPU.
+-> Each device can cause interrupt and for each interrupt has an ISR that is written in kernel whose address
+is present in interrrupt vector table which is known by CPU.
 
 -> Lets just assume ISR routines are present for each and every device present in our computer , although
 ISR also calls driver programs in order to communicate with the hardware.Lets just keep it simple 
@@ -39,7 +39,7 @@ and with hardware devices, and controls which thread is allowed to run is called
 function. Other programs, such as word processors and Web browsers, are dependent upon the operating 
 system. 
 
-->Common desktop operating systems include Linux, various versions of Windows, and MacOS. 
+-> Common desktop operating systems include Linux, various versions of Windows, and MacOS. 
 -> Operating systems for smartphones and tablets include Android and iOS.
 
 
