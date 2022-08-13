@@ -21,7 +21,7 @@ and not care about memory management that much.
 -> Also The source code was compiled to intermediate code known as bytecode which is not the assembly code
 , it is architecture independent representation of java source code
 -> There was need of software which convert this bytecode to actual machine code according to architecture 
-so virtual machine was introduced to do this, it was written in C only.
+so JAVA Virtual Machine(JVM) was introduced to do this, it was written in C only.
 
 JAVASCRIPT ERA
 -> Now the operating system infrastructure was in place , and new fields like content sharing over web was

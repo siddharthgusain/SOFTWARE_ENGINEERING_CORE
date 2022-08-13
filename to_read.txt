@@ -2,8 +2,6 @@ https://math.hws.edu/javanotes/index.html
 
 Compileing and linking :-
 
-https://stackoverflow.com/questions/38237308/elf-format-is-elf-a-subset-of-o-so-or-is-elf-basically-the-entire-o-so --> out file , so file and executable difference
-
 https://youtu.be/or1dAmUO8k0?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> static linking
 
 https://youtu.be/pLy69V2F_8M?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> dynamic linking

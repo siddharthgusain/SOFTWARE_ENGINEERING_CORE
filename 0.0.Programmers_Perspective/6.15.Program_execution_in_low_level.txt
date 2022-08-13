@@ -1,6 +1,6 @@
 -> Now the program is present in memory(RAM) in terms of machine instruction set.
 -> Now CPU will fetch the program instructions one by one.
--> FOr simplicity we are considering that the whole program is present in memory.Modern system doesnt work like
+-> For simplicity we are considering that the whole program is present in memory.Modern system doesnt work like
 that ,they use virtual memory implementation.
 
 NOTE:- Right now we are talking about single threaded synchronous programs (like the programs in early computing days).
