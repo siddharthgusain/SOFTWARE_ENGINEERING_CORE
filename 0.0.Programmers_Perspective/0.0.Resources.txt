@@ -1,2 +1,4 @@
 1. https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ
 2. https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
+
+3. https://github.com/codecrafters-io/build-your-own-x -->BUILD YOUR OWN  CORE SOFTWARES
