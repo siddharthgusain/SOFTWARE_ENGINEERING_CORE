@@ -1,5 +1,8 @@
 https://math.hws.edu/javanotes/index.html
 
+https://youtu.be/5lFnKYCZT5o --> virtual memory
+https://wiki.osdev.org/Main_Page
+
 Asynchronous Programming In Depth:-
 
 https://www.quora.com/Is-it-possible-to-do-asynchronous-programming-if-a-computer-has-only-one-core-in-its-only-processor-If-so-how
@@ -28,13 +31,6 @@ https://softwareengineering.stackexchange.com/questions/223191/difference-betwee
 
 https://www.youtube.com/watch?v=yD47_hq75q0&list=WL&index=18&t=2249s --> event and dispatcher coding (cherno)
 
-
-https://youtu.be/5lFnKYCZT5o --> virtual memory
-
-https://youtu.be/9tZmSFjoOm4 --> reverse egninerring
-
-
-https://wiki.osdev.org/Main_Page
 
 
 
