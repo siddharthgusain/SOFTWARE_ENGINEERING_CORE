@@ -1,16 +1,9 @@
 https://math.hws.edu/javanotes/index.html
 
-Compileing and linking :-
-
-https://youtu.be/or1dAmUO8k0?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> static linking
-
-https://youtu.be/pLy69V2F_8M?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> dynamic linking
+PolyGlot Programming:- 
 
 https://youtu.be/Wt4dxDNmDA8?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> working with libraries(polyglot programming)
 
-https://youtu.be/eSI4wctZUto?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb--> precompiler headers
-
-PolyGlot Programming:- 
 https://stackoverflow.com/questions/41533314/how-do-dynamically-typed-languages-work
 
 https://www.quora.com/How-do-I-call-one-programming-language-function-with-another-programming-language

@@ -21,3 +21,12 @@ https://runestone.academy/ns/books/published/thinkcspy/GUIandEventDrivenProgramm
 https://www.quora.com/What-is-GUI-programming
 
 https://www.quora.com/How-do-I-write-GUI-for-an-operating-system-What-programming-language-is-mostly-used-for-this-kind-of-stuff
+
+https://medium.datadriveninvestor.com/how-gui-applications-work-internally-4a7d1d5de793
+
+
+https://stackoverflow.com/questions/2894943/how-does-a-gui-framework-work#:~:text=A%20GUI%20framework%20like%20Qt,ll%20need%20to%20manipulate%20them.
+
+https://www.reddit.com/r/learnprogramming/comments/1ie44o/gui_how_do_gui_toolkits_work_how_do_programs_that/
+
+https://www.google.com/search?q=how+does+a+gui+library+works+internally&rlz=1C1VDKB_enIN968IN968&oq=how+does+a+gui+library+works+internally&aqs=chrome..69i57j33i160.12165j0j7&sourceid=chrome&ie=UTF-8
