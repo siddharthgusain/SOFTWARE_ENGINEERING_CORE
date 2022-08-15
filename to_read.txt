@@ -1,7 +1,6 @@
 https://math.hws.edu/javanotes/index.html
 
 https://youtu.be/5lFnKYCZT5o --> virtual memory
-https://wiki.osdev.org/Main_Page
 
 Asynchronous Programming In Depth:-
 
