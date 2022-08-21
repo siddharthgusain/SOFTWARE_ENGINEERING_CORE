@@ -29,6 +29,7 @@ Data Segment (DS). Pointer to the data ('D' comes after 'C').
 Extra Segment (ES). Pointer to extra data ('E' stands for 'Extra').
 F Segment (FS). Pointer to more extra data ('F' comes after 'E').
 G Segment (GS). Pointer to still more extra data ('G' comes after 'F').
+
 -> PSW(program status word)
 
 5. CLOCK (for synchronisation)
