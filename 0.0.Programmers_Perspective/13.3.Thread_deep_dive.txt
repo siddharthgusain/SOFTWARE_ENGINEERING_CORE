@@ -1,0 +1,12 @@
+-> CPU can have single or multiple cores.
+-> Now if a process is single threaded then doesnt matter if we run it on single core or multiple core CPU
+, it can do one thing at a time , so concurrency or actual parallelism is not possible
+-> Another way is a process forks a new process and run some functions into it (Done by modern browser).
+-> Forking is heavy and CPU intensive procedure as well as memory intensive(remember memory is always scarce)
+
+Other way is threads :-
+1. Thread could be considered as control flows within a process, generally a process has single control flow 
+and all the code is executed one after another.
+2. Threads divide the whole process into multiple execution flow which are indepenedent of each Other.
+3. Thus this gives rise to concurrency issue which we will learn later 
+4. Multithreading in single core processor doesn't mean actual parallelism , only concurrency is there.
