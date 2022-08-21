@@ -30,7 +30,7 @@ is present in interrrupt vector table which is known by CPU.
 ISR also calls driver programs in order to communicate with the hardware.Lets just keep it simple 
 for the time being.
 
-NOTE:- Interrupts are the basis of asynchronous and GUI programming.
+NOTE:- Interrupts are the basics of asynchronous and GUI programming.
 
 -> By the way, the software that does all the interrupt handling, handles communication with the user 
 and with hardware devices, and controls which thread is allowed to run is called the operating system.
