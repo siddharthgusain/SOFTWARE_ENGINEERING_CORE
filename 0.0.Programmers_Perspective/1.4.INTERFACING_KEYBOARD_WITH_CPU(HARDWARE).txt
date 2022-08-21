@@ -26,10 +26,10 @@ is RUN that is generally part of operating system.
 -> Keyboard buffers have long been used in command-line processing. As a user enters a command, they see it
 echoed on their terminal and can edit it before it is processed by the computer.
 
--> ALL other computers are interfaced with some interface or PORT standardised by IEEE.
+-> ALL other components are interfaced with some interface or PORT standardised by IEEE.
 -> ALL the ISR(interrupt service routines) are also written according to these specs . Generally ,there are
 drivers shipped with each hardware component which is actually a small program which is written using
-IEEE specs and is called by operating system to receive data or send data to correposnding component
+IEEE specs and is called by operating system to receive data or send data to corresponding component
 E.g Keyboard driver, Mouse driver, GPU driver , Joystick driver etc
 
 -> NOTE:- All these interfacing is already done inside motherboard by companies like Apple, Dell, HP etc.

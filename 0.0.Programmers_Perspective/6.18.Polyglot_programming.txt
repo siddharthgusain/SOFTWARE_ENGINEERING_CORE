@@ -1,4 +1,4 @@
-WHAT IS PolyGlot programming ?
+WHAT is PolyGlot programming ?
 -> Polyglot means more than one type of language.
 -> In fairly large projects the source code contains multiple languages.
 -> E.g Chrome is build with C++, javscript , html etc
