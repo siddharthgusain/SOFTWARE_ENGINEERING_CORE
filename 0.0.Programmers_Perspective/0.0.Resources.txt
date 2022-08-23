@@ -2,3 +2,4 @@
 2. https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
 
 3. https://github.com/codecrafters-io/build-your-own-x -->BUILD YOUR OWN  CORE SOFTWARES
+4. https://wiki.osdev.org/Main_Page
