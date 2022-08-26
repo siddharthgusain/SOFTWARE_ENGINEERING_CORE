@@ -10,3 +10,14 @@ and all the code is executed one after another.
 2. Threads divide the whole process into multiple execution flow which are independent of each Other.
 3. Thus this gives rise to concurrency issue which we will learn later 
 4. Multithreading in single core processor doesn't mean actual parallelism , only concurrency is there.
+
+-> Our discussion so far has treated threads in a generic sense. However, support for threads may be provided 
+either at the user level, for user threads, or by the kernel, for kernel threads. User threads are supported 
+above the kernel and are managed without kernel support, whereas kernel threads are supported and managed 
+directly by the operating system. Virtually all contemporary operating systems — including Windows, Linux, 
+Mac OS X, and Solaris — support kernel threads.
+
+NOTE:-
+Ultimately, a relationship must exist between user threads and kernel threads. In this section, we look at 
+three common ways of establishing such a relationship: the many-to-one model, the one-to-one model, and 
+the many-to-many model.
