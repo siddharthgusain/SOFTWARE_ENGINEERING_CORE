@@ -21,7 +21,7 @@ even if it is one after another.
 
 
 https://stackoverflow.com/questions/41647778/does-user-level-threads-take-advantage-of-multiprocessing#:~:text=It%20simply%20means%20that%20we,done%20for%20user%2Dlevel%20threads%20.
-
+https://stackoverflow.com/questions/535648/implementing-a-c-threading-library-in-c
 https://youtu.be/wXBcwHwIt_I?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb--> threads
 https://youtu.be/oEx5vGNFrLk?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> timer and threads
 https://linuxnasm.be/examples/interproces-communication/345-raw-linux-threads-with-syscalls
