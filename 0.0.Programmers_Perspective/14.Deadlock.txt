@@ -1,0 +1,21 @@
+Deadlock is known as infinite waiting.
+Consition for deadlock to occur:-
+1. Mutual exclusion
+2. Hold and wait 
+3. No preemption
+4. Circular wait
+
+1. Deadlock ignorance
+-> Ostrich approach
+
+2. Deadlock prevention
+-> Disable necessary condition for deadlock
+
+3. Deadlock avoidance 
+State -> safe and unsafe State
+
+4. Deadlock detecttion :- Bankers algorithm
+
+5. Deadlock recovery :- 
+-> Resources -> preemption or rollback
+-> Processes :- Kill or kill all
