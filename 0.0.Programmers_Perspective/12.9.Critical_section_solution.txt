@@ -1,0 +1,7 @@
+1. Lock 
+2. TSL(Test set Lock)
+3. Peterson's solution
+4. Semaphores(software resource provided by OS)-
+    -> Counting Semaphores
+    -> Mutex/Binary Semaphore
+5. Monitors
