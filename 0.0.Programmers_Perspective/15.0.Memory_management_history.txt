@@ -1,0 +1,17 @@
+By memory we mean RAM (Random access memory).
+-> In early days of computing when opearting system were not there, each program can easily access memory by simple
+assembly instructionn like Mov R1, MEM[1000]. But Opearting system abstracted the access of Main memory by writing 
+all the code to manage memory in its kernel and let application program access memory by system calls.
+
+-> Memory management also gives protection from invalid memory access and isolation btw two or more programs.
+(using virtual memory).
+
+-> Memory management is done with help of hardware as well as kernel code.
+
+-> Main memory and the registers built into the processor itself are the only
+general-purpose storage that the CPU can access directly. There are machine
+instructions that take memory addresses as arguments, but none that take disk
+addresses. Therefore, any instructions in execution, and any data being used
+by the instructions, must be in one of these direct-access storage devices. If the
+data are not in memory, they must be moved there before the CPU can operate
+on them
