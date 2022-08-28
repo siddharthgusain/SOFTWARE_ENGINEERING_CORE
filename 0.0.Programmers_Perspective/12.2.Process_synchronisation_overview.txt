@@ -1,0 +1,13 @@
+What and why synchronisation?
+* Indepenedent processes :- completed isolated process
+* Cooperative processes :- processes sharing resources(either hardware and software)
+
+Independent processes dont need synchronisation , but coopertive processes do .
+
+E.g , Browser application is multi-process application which shares resources and also shares data btw each other 
+like browser process shares events and data with renderer process(Blink) in chrome.
+
+IPC also known as inter-process communication means communication between processes 
+
+Note:- 1. Processes can be within same computer or different computers(communicating through network)
+2. We will keep our discussion to processes within same computer for now. 
