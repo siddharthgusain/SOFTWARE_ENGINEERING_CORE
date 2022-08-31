@@ -1,0 +1,8 @@
+When it comes to memory management , i t is combined effort of hardware + OS code.
+There are two types of addresses :-
+1. Logical address:- address present in CPU registers are all Logical addresses that is address relative to 
+current running program considering program to be present as a whole in RAM.
+2. Physical address :- the actuall memory location inside RAM.
+
+The conversion is done by hardware IC MMU(Memory Management Unit)  along with Kernel code which maintains
+segment table or page table for each process.
