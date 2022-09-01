@@ -32,7 +32,4 @@ https://www.youtube.com/watch?v=yD47_hq75q0&list=WL&index=18&t=2249s --> event a
 
 
 
-
-----------------------------------------------------------
--> Networking read and notes -> https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW
-https://www.youtube.com/watch?v=TNQsmPf24go -> internet
+NOTE:-  https://github.com/codecrafters-io/build-your-own-x --> BUILD YOUR OWN  CORE SOFTWARES
