@@ -1,7 +1,5 @@
 https://math.hws.edu/javanotes/index.html
 
-https://youtu.be/5lFnKYCZT5o --> virtual memory
-
 Asynchronous Programming In Depth:-
 
 https://www.quora.com/Is-it-possible-to-do-asynchronous-programming-if-a-computer-has-only-one-core-in-its-only-processor-If-so-how
