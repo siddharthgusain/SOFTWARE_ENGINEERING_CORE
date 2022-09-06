@@ -15,3 +15,4 @@ Things to keep in mind while learning software development:-
 2. Understand Software design /architecture and project structure(Folder structure,file structure, design patterns , coupling/cohersion )
 3. Understand the build process of that software development (E.g Web apps build process, Android/IOS application build process  etc)
 4. Understand Already available tools for building that kind of application(e.g Android Studio, X-code , visual studio code)
+5. Read Other people code(open source) to understand project architecture and programming best practices.
