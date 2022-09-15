@@ -20,7 +20,7 @@ Things to keep in mind while learning software development:-
 
 WHAT TO LEARN:-
 1. DS + ALGOS + MATH -> For basic logic building and optimization 
-2. OOPS + Design pattern -> For software architecture, best coding practices , building your own libraries
+2. OOPS + Design pattern -> For software architecture, best coding practices , building your own libraries and complex softwares with large sourcecode
 3. Core(COA,OS,Compiler, CN , DBMS) -> To understand system and abstraction, so that any new abstraction is 
-easy too understand
+easy too understand and how it works behind the scenes
 4. System design -> Aggregating All above together to build scalable softwares
