@@ -53,3 +53,5 @@
 27. https://github.com/karanpratapsingh/system-design
 
 28. https://www.youtube.com/c/ConceptCoding/videos
+
+29. https://www.linkedin.com/posts/ansh-_backend-systemdesign-medium-activity-6976408543654494208-gpnm/?utm_source=share&utm_medium=member_android
