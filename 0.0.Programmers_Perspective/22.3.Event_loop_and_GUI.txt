@@ -1,0 +1,17 @@
+-> An event loop is often times the “main” of a program that handles events. If you 
+have written a program you know that it will exit when it is done. Programs that run 
+indefinitely like UI applications, video games, web servers, etc will have some form of 
+an event loop. They can come in different flavors such as being a polling loop 
+(check if there is an event every time it loops) or it can be handled via blocks and 
+something triggers it to come and do it's job.
+
+-> For instance, imagine you have a program running a UI. If it's idle and you look at your running processes 
+it's likely not going to be eating up a ton of processing time by continually looping. It can either be utterly 
+silent or it may be taking up a fraction of a percent of the CPUs time. But if you go and hit a button the program 
+is going to wake up and do something. This is ran by an event loop. Clicking that button fired an event which got
+processed by the event loop which called the buttons onClick event handler.
+
+-> They're fairly primitive, but they're highly useful.
+
+-> EVENT LOOP and interrupts are the basis of GUI programs.
+-> Note:- event loop is also a code written in GUI framwork of any other process environment like JVM or JS engine
