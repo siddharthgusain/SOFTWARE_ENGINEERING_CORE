@@ -1,5 +1,3 @@
-https://math.hws.edu/javanotes/index.html
-
 Asynchronous Programming In Depth:-
 
 https://www.quora.com/Is-it-possible-to-do-asynchronous-programming-if-a-computer-has-only-one-core-in-its-only-processor-If-so-how
