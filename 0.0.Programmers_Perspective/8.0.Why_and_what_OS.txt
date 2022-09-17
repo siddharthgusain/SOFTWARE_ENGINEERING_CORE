@@ -84,7 +84,7 @@ and programs to play with.
 -> There is no absolute path you have to take when creating an OS. Once you get your initial system up and running 
 (and you do this by finding appropriate tutorials), you choose the path you want to take next. 
 
--> Your OS is exactly that--yours. You have ultimate control, and the sky's the limit!
+-> Your OS is exactly that's yours. You have ultimate control, and the sky's the limit!
 
 <-------------------->
 A HARD TRUTH 
