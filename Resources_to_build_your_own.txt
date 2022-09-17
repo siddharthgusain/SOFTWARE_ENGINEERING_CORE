@@ -1,10 +1,10 @@
+NOTE:-  https://github.com/codecrafters-io/build-your-own-x
+
+
+
 Asynchronous Programming In Depth:-
 
-https://www.quora.com/Is-it-possible-to-do-asynchronous-programming-if-a-computer-has-only-one-core-in-its-only-processor-If-so-how
-
 https://www.youtube.com/watch?v=dL0GO9SeBh0 -> events and events loop
-
-https://www.quora.com/How-does-event-driven-programming-work
 
 https://stackoverflow.com/questions/15869502/how-does-the-operating-system-know-which-application-to-send-the-mouse-event-to
 
@@ -26,6 +26,3 @@ https://softwareengineering.stackexchange.com/questions/223191/difference-betwee
 
 https://www.youtube.com/watch?v=yD47_hq75q0&list=WL&index=18&t=2249s --> event and dispatcher coding (cherno)
 
-
-
-NOTE:-  https://github.com/codecrafters-io/build-your-own-x --> BUILD YOUR OWN  CORE SOFTWARES

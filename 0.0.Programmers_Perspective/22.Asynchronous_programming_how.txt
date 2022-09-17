@@ -1,0 +1,37 @@
+THINGS TO KEEP IN MIND:-
+1. Heart of Asynchronous programming is events and interrupts.
+2. Asynchronous programming is achieved with help of OS ,interrupt and ISR and synchronous event loop.
+3. Every user program runs line by line until there is interrupt period.
+4. Asynchronous programming have event loop code , task queue data structure and stack
+
+-> Asynchronous programming is typically done at a low level with assembler or "bare-metal" C/C++ code, 
+or by using a Real Time Operating System (RTOS). On a higher-level the Operating System itself is handling the
+interrupts for you. But every key you press and every mouse action you do is triggering an interrupt. 
+ 
+->In general, all asynchronous inputs (user or otherwise) are managed with interrupts.
+
+SOME GENERAL EVENT DRIVEN SYSTEM PROPERTIES:-
+
+-> Event driven programs or systems consist of an event framework that is responsible for generating and distributing
+events, and client code that executes in response to the events.
+
+-> Event driven systems can have a wide range of implementations. At one extreme, events and other elements of the 
+event framework, such as event queues, may have explicit representations that can be manipulated by the program code. 
+At the other extreme, the event framework may consist only of the threads and event signaling provided by the 
+operating system.
+
+-> The Windows operating system provides a good example of a relatively sophisticated event system. Windows provides 
+most of the framework but an application is responsible for a calling few different functions for the framework to 
+operate correctly. Windows uses the term “message” rather than “event.”
+
+-> At a basic level, Windows application code consists of “window” objects that receive messages and can send 
+messages to other window objects. The code for a window primarily consists of the code to handle messages, i.e., 
+events. The event framework handles most of the work of managing messages and invoking the correct window function
+for the window.
+
+-> Although the framework handles many of the details and variations of the event queuing and dispatching, 
+the application is responsible for calling a few framework functions in order to execute the framework code. 
+It is also responsible for the final step of calling a particular function for a particular event/message. 
+This approach requires a bit of boilerplate code in the application but provides a lot of flexibility for an 
+application when dealing with the framework.
+
