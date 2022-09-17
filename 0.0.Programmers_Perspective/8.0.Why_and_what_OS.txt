@@ -85,3 +85,11 @@ and programs to play with.
 (and you do this by finding appropriate tutorials), you choose the path you want to take next. 
 
 -> Your OS is exactly that--yours. You have ultimate control, and the sky's the limit!
+
+<-------------------->
+A HARD TRUTH 
+-> No one who isn't already a seasoned developer with years of experience in several languages and environments should even 
+be considering OS Dev yet. 
+
+-> A decade of programming, including a few years of low-level coding in assembly language and/or
+a systems language such as C, is pretty much the minimum necessary to even understand the topic well enough to work in it.
