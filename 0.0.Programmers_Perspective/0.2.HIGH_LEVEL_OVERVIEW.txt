@@ -1,6 +1,7 @@
 Modern Computers Have layered architecture to make things isolated and hidden from users, broadly
 it can be divided into 4 layers:- 
 1. Hardware Layer(Actual electronics devices)
+
 PROCESSOR:-
 -> CPU(Multicore pipelined) +  Memory management unit (inside CPU)
 -> GPU(Graphics/pixel processing)
