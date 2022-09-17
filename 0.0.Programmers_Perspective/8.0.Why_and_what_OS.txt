@@ -64,3 +64,24 @@ worrying about the history of hardwares and system softwares.
 
 FIRSTLY WE WILL FOCUS MORE ON UNIPROCESSOR OR SINGLE CORE PROCESSOR,SO MACHINE INSTRUCTION OF ONLY ONE PROCESS
 WILL BE RUNNING IN CPU AT A TIME.(THERE WILL BE CONTEXT SWITCHING HANDLED BY OS).
+
+Why Making an operating system is hard??? 
+
+-> First of all, developing an operating system is probably one of the most challenging things you can do on 
+a computer.
+
+-> Composing an operating system requires a lot of knowledge about several complex areas within computer science. 
+
+You need to understand how hardware works and be able to read and write the complex assembly language as well as a 
+higher-level language (such as C, C++, or Pascal).
+
+-> There is nothing like the feeling of accomplishment when you, finally, after hours of struggling, solve the problem. 
+And after some time you are able to look back and see all of the things you've created from scratch. 
+
+-> Your handwritten system is able to boot, performs magic against the hardware, and gives the user a user interface 
+and programs to play with.
+
+-> There is no absolute path you have to take when creating an OS. Once you get your initial system up and running 
+(and you do this by finding appropriate tutorials), you choose the path you want to take next. 
+
+-> Your OS is exactly that--yours. You have ultimate control, and the sky's the limit!
