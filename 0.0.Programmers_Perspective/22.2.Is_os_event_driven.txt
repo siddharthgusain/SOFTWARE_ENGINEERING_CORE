@@ -1,0 +1,37 @@
+-> To answer this, you’d first have to understand what Event-driven programming really is. And the reality is that 
+most operating systems are only partly event-driven.
+
+-> Event-driven means you’ll have a main loop that is listening to events and then handles each event when it gets a
+chance. This is a common practice for GUI applications where you have plenty of events from buttons, textboxes and 
+other controls but not every process is event-driven. And yes, interrupts are also considered events but an operating 
+system will do it’s work even if it doesn’t get any interrupts. After all, it needs to initialize memory and all 
+connected devices and start up various drivers and other processes.
+
+-> Now, the thing is that those drivers and other processes can be event-driven but the operating system is only 
+responsible for managing them all. It gets events from those other drivers and processes only when it is 
+multithreading in some way. Otherwise, it has no need to wait for events as it just executes a task and
+then waits for it to finish.
+
+-> In the old MS-DOS era, when multitasking was still uncommon, you would generally use interrupt-driven programming. 
+DOS would load the operating system and various drivers and then execute the commandline shell which would wait for 
+keyboard events. But this shell is not part of the operating system itself, technically speaking.
+
+-> In the DOS era, to get a keyboard input, you would ask the keyboard driver for it’s status through an interrupt 
+which would then respond with a result. This is not event-driven but is a form of polling. And polling is often used
+by operating systems as it reads the hardware. But through polling you can actually generate events if you like. 
+You keep polling the system and if something changes, you add an event to the event queue. And another loop that’s 
+running at the same time would read the event queue and thus respond to events. Thus, that’s event-driven. But it 
+also means you’re dealing with a multithreaded environment…
+
+-> In a single-threaded system, you would just start polling and process immediately as you don’t have separate 
+threads to do the handling of those events. You can still set up something event-like by linking each polled result 
+to some callback function but this is outside the scope of event-driven programming. In event-driven programming, 
+you’re not dealing with the polling mechanism and how events are put in the queue. You only focus on retrieving 
+events from the queue to process them.
+
+-> Operating systems do far more than this. So while event-driven programming can be part of an operating system, 
+it doesn’t mean the operating system itself is event-driven. After all, the operating system is more event-driving 
+by generating the events that drive the applications running in it…
+
+-> And event-driving explains why we talk about drivers for all hardware components. The operating system drives, 
+applications are driven… It’s a syntax-thingie…

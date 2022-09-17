@@ -6,8 +6,6 @@ Asynchronous Programming In Depth:-
 
 https://www.youtube.com/watch?v=dL0GO9SeBh0 -> events and events loop
 
-https://stackoverflow.com/questions/15869502/how-does-the-operating-system-know-which-application-to-send-the-mouse-event-to
-
 https://www.quora.com/How-is-asynchronous-IO-implemented-in-programming-languages
 
 https://stackoverflow.com/questions/575974/asynchronous-operations-performance/576005#576005
