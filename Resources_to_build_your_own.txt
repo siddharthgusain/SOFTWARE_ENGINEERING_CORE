@@ -1,12 +1,1 @@
 NOTE:-  https://github.com/codecrafters-io/build-your-own-x
-
-
-
-Asynchronous Programming In Depth:-
-
-https://www.youtube.com/watch?v=dL0GO9SeBh0 -> events and events loop
-
-https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw/playlists
-
-https://www.youtube.com/watch?v=yD47_hq75q0&list=WL&index=18&t=2249s --> event and dispatcher coding (cherno)
-

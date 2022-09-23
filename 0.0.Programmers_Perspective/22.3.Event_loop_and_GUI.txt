@@ -14,4 +14,4 @@ processed by the event loop which called the buttons onClick event handler.
 -> They're fairly primitive, but they're highly useful.
 
 -> EVENT LOOP and interrupts are the basis of GUI programs.
--> Note:- event loop is also a code written in GUI framwork of any other process environment like JVM or JS engine
+-> Note:- event loop is also a code written in GUI framework of any other process environment like JVM or JS engine
