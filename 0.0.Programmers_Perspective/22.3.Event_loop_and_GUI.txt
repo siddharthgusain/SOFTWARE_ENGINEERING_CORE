@@ -15,3 +15,6 @@ processed by the event loop which called the buttons onClick event handler.
 
 -> EVENT LOOP and interrupts are the basis of GUI programs.
 -> Note:- event loop is also a code written in GUI framework of any other process environment like JVM or JS engine
+
+NOTE:- GUI itself is loaded by kernel , as it is not part of kernel , it is another process or program written
+to handle display and graphics. We will discuss more into asynchronous programming in GUI part of OS.
