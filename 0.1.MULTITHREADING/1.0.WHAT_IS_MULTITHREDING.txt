@@ -1,10 +1,11 @@
--> Multithreading is a way of creating multiple light weight process(LWP) called threads.
+-> Multithreading is a way of creating multiple light weight process(LWP)[Multiple Execution Unit inside one process] 
+called threads.
 -> Threads can be "user level" and "kernel level".
 -> User level threads are managed by User library and Kernel level threads are managed by OS.
 -> Without multithreading , programs are executed in "serial order", i.e All the instructions
 in the program is executed in the same order as they appear in Program.
 -> with multithreading , each function can be made indepedent to each other.
-->Threads allow multiple functions to execute "concurrently".
+-> Threads allow multiple functions to execute "concurrently".
 -> Multithreading can give rise to some issues of synchronisation.
 
 CONCURRENCY VS PARALLELISM
@@ -18,18 +19,3 @@ For example, multitasking on a single-core machine.
 Note:- Even is multithreading , context switching happens so fast that it appears as parrallel
 execution, anything that happens in "less than 300ms" is appeared to us as parrallel execution 
 even if it is one after another.
-
-
-https://stackoverflow.com/questions/41647778/does-user-level-threads-take-advantage-of-multiprocessing#:~:text=It%20simply%20means%20that%20we,done%20for%20user%2Dlevel%20threads%20.
-https://stackoverflow.com/questions/535648/implementing-a-c-threading-library-in-c
-https://youtu.be/wXBcwHwIt_I?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb--> threads
-https://youtu.be/oEx5vGNFrLk?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> timer and threads
-https://linuxnasm.be/examples/interproces-communication/345-raw-linux-threads-with-syscalls
-https://stackoverflow.com/questions/714905/is-it-possible-to-create-threads-without-system-calls-in-linux-x86-gas-assembly
-https://www.quora.com/How-is-a-code-divided-between-multiple-threads-in-assembly-language
-https://homolog.us/blogs/tech/2018/04/04/threading-assembly-language/
-https://forums.anandtech.com/threads/multi-threading-at-the-assembly-level.2458023/
-https://tousu.in/qa/?qa=203781/multithreading-is-it-possible-to-create-threads-without-system-calls-in-linux-x86-gas-assembly
-https://www.di.fc.ul.pt/~fmartins/en/vasconcelos.martins_multithreaded-tal_files/vasconcelos.martins-multithreaded-tal.pdf
-https://linuxnasm.be/examples/interproces-communication/345-raw-linux-threads-with-syscalls
-https://www.google.com/search?q=how+are+threads+executed+at+hardware+level&rlz=1C1VDKB_enIN968IN968&oq=how+are+threads+executed+at+hardware+level&aqs=chrome..69i57j33i160.12870j0j7&sourceid=chrome&ie=UTF-8
