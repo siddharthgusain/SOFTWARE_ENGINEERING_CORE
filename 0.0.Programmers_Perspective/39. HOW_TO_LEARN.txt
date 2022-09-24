@@ -29,3 +29,8 @@ WHAT TO LEARN:-
 3. Core(COA,OS,Compiler, CN , DBMS) -> To understand system and abstraction, so that any new abstraction is 
 easy too understand and how it works behind the scenes
 4. System design -> Aggregating All above together to build scalable softwares
+
+HOW TO LEARN ANY CONCEPT :-
+1. FIND THE WHY IT EXISTS ---> 30% (concept clearance)
+2. FIND HOW IT SOLVES THE problem ---> 30%(concept clearance)
+3. SEE IT PRACTICAL IMPLEMENTATION(Maybe code or something) ---> 40% (concept clearance)
