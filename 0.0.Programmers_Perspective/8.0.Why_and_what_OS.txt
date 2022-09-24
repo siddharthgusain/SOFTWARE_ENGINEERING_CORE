@@ -5,7 +5,7 @@ memory .As Memory size grows ,program size also increases. so whole program can'
 
 Problems during early days:-
 
--> During the early days , computer chips are used to run only one program at a time.
+-> During the early days , computer chips are used to run only one program at a time.(Batch processing)
 -> People used to write very simple programs which are run one at a time in RAM.
 -> So each program has full access to computer hardware , like monitor , RAM , HDD etc.
 -> As time passed , people realise they can execute more than one program in RAM.

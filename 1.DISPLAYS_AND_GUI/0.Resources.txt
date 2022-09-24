@@ -18,6 +18,8 @@ https://youtu.be/ptcHHXp1PEU -> GUI UNDER THE HOOD
 
 https://youtu.be/odjdWym0t4I -> GUI UNDER THE HOOD
 
+https://www.quora.com/How-is-the-GUI-of-an-operating-system-created
+
 https://runestone.academy/ns/books/published/thinkcspy/GUIandEventDrivenProgramming/01_intro_gui.html
 
 https://www.quora.com/What-is-GUI-programming
