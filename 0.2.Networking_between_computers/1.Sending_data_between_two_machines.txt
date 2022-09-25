@@ -1,0 +1,22 @@
+-> We have talked about computer system in details including various hardware and software abstraction that is present 
+to build an user centric application/ program.
+
+-> But what if we want to send data(any type) from one machine to another machine.
+
+-> Sending data from one machine to another machine also contains a lot of abstraction.
+
+-> Broadly speaking:-
+1. Physical/hardware infrastructure.
+2. Software infrastructure and protocols.
+
+Physical Infra:-
+1. Wires :- fibre optic cables , ethernet cable , copper cable etc.
+2. ISP(localised internet providers)
+3. Routers
+4. Data centers(Servers storing data accessible to everyone)
+5. Network Interface card(Chip designed for sending data packets)
+
+Software Infra:-
+1. Protocols implementation at various abstraction
+2. Various application programs 
+3. Theortical model of layers defining protocols.
