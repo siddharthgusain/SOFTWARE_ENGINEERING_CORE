@@ -4,6 +4,9 @@ https://www.youtube.com/watch?v=uqY3FMuMuRo
 https://www.youtube.com/watch?v=2iURr3NBprc&t=53s
 https://www.youtube.com/watch?v=BUTHtNrpwiI
 
+https://www.raywenderlich.com/books/metal-by-tutorials/v2.0/chapters/1-hello-metal
+
+
 https://en.wikipedia.org/wiki/Graphics_pipeline
 
 https://en.wikipedia.org/wiki/Graphical_user_interface

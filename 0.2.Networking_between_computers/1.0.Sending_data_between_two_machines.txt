@@ -17,6 +17,6 @@ Physical Infra:-
 5. Network Interface card(Chip designed for sending data packets)
 
 Software Infra:-
-1. Protocols implementation at various abstraction
+1. Protocols implementation at various abstraction(like ar operating system level , at application level , at firmware level)
 2. Various application programs 
 3. Theortical model of layers defining protocols.
