@@ -1,0 +1,8 @@
+-> As Computers were becoming more popular , people decided to leverage them to send data from one machine to other machine
+-> Operating system were also at there mature stage.
+-> Networking started with send small documents to modern day social media , video streaming , text messaging.
+-> The abstraction behind a simple application that is sending data from one machine required , operating system network stack
+or system calls , network interface hardware or NIC.
+-> Protocols are implemented at various levels we will discuss each layer along with implementation.
+-> Most of the largest tech firm are internet based right now.
+-> Because of the speed of data sending , internet has become main source to communicate over the world.
