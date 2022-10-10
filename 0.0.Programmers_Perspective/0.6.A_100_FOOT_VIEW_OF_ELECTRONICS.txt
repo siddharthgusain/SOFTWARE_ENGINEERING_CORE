@@ -11,5 +11,10 @@
 
 -> To put all these independent components into one place , motherboards/PCB was invented (VLSI)
 -> All these components are interfaced to CPU by some standard connectors/ports standardized by IEEE.
--> Interface/Port define , the pin structure and data transfer structure.
+-> Interface/Port define , the pin structure and data transfer structure so that drivers and operating system
+can be written according to that specification.
+
+-> Each component of a computer system is unique in nature and to interface it with CPU , some kind of interface
+harware like I/O interface is required to isolate CPU and the component and also it defined how to transfer data 
+btw each other.
 

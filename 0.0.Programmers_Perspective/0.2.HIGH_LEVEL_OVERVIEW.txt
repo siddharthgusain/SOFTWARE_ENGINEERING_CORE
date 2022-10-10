@@ -16,6 +16,7 @@ MEMORY:-
 -> Memory(RAM) 
 -> ROM -> FOR small programs like bootloaders
 -> Cache memory(inside cpu)
+
 (ii) Non volatile
 -> DISK(HDD,SSD)
 
