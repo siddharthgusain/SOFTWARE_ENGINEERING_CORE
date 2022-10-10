@@ -25,7 +25,7 @@ Instruction set architecture(ISA) can be of many types:-
 7. Zero instruction set computer (ZISC)
 
 At hardware level parallelism can be achieved with :-
-1. Pipelining(Multiple Execution unit/Stages in one CPU)[Instructioon level parallelism]
+1. Pipelining(Multiple Execution unit/Stages in one CPU)[Instruction level parallelism]
 2. Multicore processors (Multiple core in single CPU)
 3. Multiple processors(Multiple processor)
 

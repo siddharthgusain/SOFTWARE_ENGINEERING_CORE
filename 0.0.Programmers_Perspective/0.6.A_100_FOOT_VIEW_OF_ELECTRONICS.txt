@@ -15,6 +15,6 @@
 can be written according to that specification.
 
 -> Each component of a computer system is unique in nature and to interface it with CPU , some kind of interface
-harware like I/O interface is required to isolate CPU and the component and also it defined how to transfer data 
+harware like I/O interface is required to isolate CPU and the component and also it defines how to transfer data 
 btw each other.
 
