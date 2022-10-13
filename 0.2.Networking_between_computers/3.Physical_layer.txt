@@ -1,0 +1,22 @@
+Physical Layer Transmission Medium:-
+Guided (Wired):-
+1. Twisted pair cable
+2. Coaxial cable
+3. Optical Fibre
+
+UnGuided(Wireless):-
+1. Radio waves
+2. Microwaves
+3. Infrared
+4. Satellite
+
+
+Switching : Creating temperory connection btw devices
+Type:-
+1. Circuit Switching
+-> Telephones systems
+
+2. Packet Switching
+Types:
+i. Datagram :- internet
+ii. Virtual circuit :- ATM networks
