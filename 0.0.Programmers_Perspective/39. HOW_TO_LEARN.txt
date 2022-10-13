@@ -9,6 +9,13 @@ try to learn the API exposed by OS to work on top of it
 6. Use google properly to find already existing solution (Reusability) but understand it properly.
 7. Learn the basics really well -> keep on exploring new features of "existing solution" along with using it.
 
+NOTE:- Operating system is in direct control of hardware and contains code that can be used as a API/system calls 
+by the application software.As an application developer we define what are the services we need from OS , how it 
+is controlled is done by kernel code.
+-> As an application developer we dont care about how to communicate with hardware , its done at the operating system
+along with device drivers and hardware interfaces.
+-> Its important to know what is the input to API and whats it output.
+-> Going deep dive into the systems could be interesting but not required for application development.
 
 Things to keep in mind while learning software development:-
 1. Learn the language basic in which u will write the software + best practices(code reusability and readability)
