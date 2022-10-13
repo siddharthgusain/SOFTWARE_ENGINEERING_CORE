@@ -1,0 +1,43 @@
+We will follow bottom-up approach:-
+
+1. Physical Layer:
+-> Mostly deals with signals and encoding
+-> Responsible of movement of individual bits in terms of signal.
+-> Physical topology is defined here.
+-> Various types of digital encoding like :- manchester , differential menchester
+-> Part of Network interface card
+
+2. Data link Layer
+-> Framing is done here.
+-> Part of Network interface card chip
+-> Error control at the frame level
+-> Physical addressing by adding headers(Mac address)
+-> Hop to hop delivery
+
+3. Network Layer
+-> Software Layer
+-> Part of operating system network stack
+-> Responsible for source host to destination host delivery
+-> IP address takes place here(Logical addressing)
+-> Routing takes place here
+-> Fragmentation takes place here
+
+4. Transport Layer
+-> Software Layer
+-> Part of operating system network stack
+-> Responsible for process to process delivery
+-> Process port number is added here.
+-> Segmentation and reassembly takes place here
+-> Connection control , error control
+
+5. Session Layer
+-> Dialog control and synchronisation
+-> Part of application software like chrome.
+
+6. Presentation Layer
+-> Translation, compression , encryption 
+-> Part of application software like chrome.
+
+7. application Layer
+-> User interface and user directly intracts with this
+-> Part of application software
