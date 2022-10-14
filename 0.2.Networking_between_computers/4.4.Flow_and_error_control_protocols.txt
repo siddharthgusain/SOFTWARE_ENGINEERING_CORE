@@ -1,0 +1,19 @@
+-> Flow control:- Set of procedures used to restrict the amount of data that sender can send before waiting
+for acknowledgment
+
+-> These Protocols are implemented as a part of driver and operating system network stack
+Various types of channels are:-
+1. Noiseless
+-> Simplest Protocol
+-> stop and wait Protocol
+
+2. Noisy channels
+-> Stop and wait ARQ
+-> GO back N ARQ
+-> Selective Repeat ARQ
+
+
+Error detection
+1. parity
+2. Checksum
+3. CRC(cyclic redundancy check)
