@@ -1,0 +1,22 @@
+DLL has two sublayers
+1. Logic link Control(LLC) :- for flow and error Control
+2. Multiple Access control(MAC):- Multiple access resolution
+
+-> When multiple computer nodes are using the same channel MAC protocols are used to allot channel
+to the node
+
+1. RANDOM Access
+-> ALOHA
+-> CSMA
+-> CSMA/CD
+-> CDMA/CA 
+
+2. CONTROL Access
+-> RESERVATION
+-> POLLING
+-> TOKEN PASSING
+
+3. CHANNELISATION
+-> FDMA
+-> TDMA
+-> CDMA
