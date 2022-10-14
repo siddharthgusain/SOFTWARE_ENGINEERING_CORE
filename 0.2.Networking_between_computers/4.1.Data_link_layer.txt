@@ -1,0 +1,15 @@
+-> Data link layer is mostly implemented inside network interface card(NIC) and it is responsible to 
+provide services to network layer 
+
+-> Most important role of DLL is FRAMING
+-> Packing segment into frames by added headers and trailers is job of DLL.
+
+Two types of framing:-
+1. Fixed size framing
+2. Variable size framing
+
+Variable size framing is done using:-
+1. Byte stuffing
+2. Bit stuffing
+
+Second most important role of DLL is flow and error control.
