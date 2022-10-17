@@ -1,4 +1,4 @@
 -> Private members are "never" inherited
 -> Visibility mode specifies whether the members of base class goes to private or public section of 
 derived class
--> Only protected and public members can be inherited. 
+-> Only "protected and public" members can be inherited. 
