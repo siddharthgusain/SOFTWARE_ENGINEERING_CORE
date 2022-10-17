@@ -58,6 +58,7 @@ int main()
 {
     // size of main function is reduced because of OOP , so this follows modularity
     Result student1;
+
     student1.set_roll_number(1);
     student1.set_marks(80, 100);
     student1.display_data();
