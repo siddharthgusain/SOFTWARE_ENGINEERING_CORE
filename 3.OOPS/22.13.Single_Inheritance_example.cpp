@@ -40,5 +40,5 @@ int main()
     return 0;
 }
 
-// Very imp:- size of car1 object is equivalent to all the data members in base class + its own data members
+// Very imp:- size of car1 object is equivalent to all the data members in parent classes + its own data members
 //  But some of these data members are not accessible by this object as they are not inherited
