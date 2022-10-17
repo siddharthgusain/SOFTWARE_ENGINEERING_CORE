@@ -3,6 +3,7 @@ is created (this is done by compiler though);
 -> We have talked about constructor overloading
 -> If Parent class only have default constructor , its not mandatory for child class to 
 have constructor
--> But in case parent class have parameterized constructor , then derived class should have constrcutor 
-which pass the argument to parent class constrcutor;(Like in react we call super() from our class)
--> If we create a child class object -> first Parent class constrcutor is called then child class
+-> But in case parent class have parameterized constructor , then derived class should have constructor 
+which pass the argument to parent class constructor;(Like in react we call "super()" from our class)
+
+-> If we create a child class object -> first Parent class constructor is called then child class

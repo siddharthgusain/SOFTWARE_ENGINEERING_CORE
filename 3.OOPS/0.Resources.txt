@@ -1,6 +1,5 @@
 1. https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
-2. https://roadmap.sh/software-design-architecture 
-3. https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/ 
+2. https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/ 
 
 https://youtu.be/oIV2KchSyGQ --> Virtual functions
 https://youtu.be/UWAdd13EfM8 --> interface
