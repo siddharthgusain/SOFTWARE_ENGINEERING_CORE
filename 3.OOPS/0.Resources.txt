@@ -7,8 +7,6 @@ https://youtu.be/UWAdd13EfM8 --> interface
 https://youtu.be/6OVQ8nh3KP0 --> Visibility
 https://youtu.be/1nfuYMXjZsA --> Constructor member initilizer list
 https://youtu.be/mS9755gF66w --> operator and overloading
-https://youtu.be/Z_hPJ_EhceI --> this keyword
-https://youtu.be/BvR1Pgzzr38 --> copying and copy constructors
 https://youtu.be/jELbKhGkEi0 --> virtual destructor
 https://youtu.be/PPup1yeU45I --> singleton class
 

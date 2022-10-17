@@ -13,11 +13,13 @@ public:
 
 Student::Student() // default constructor definition
 {
+    std::cout << "default constructor is called" << std::endl;
     this->marks = 0;
 }
 
 Student::Student(Student &s) // copy constructor definition
 {
+    std::cout << "Copy constructor is called" << std::endl;
     this->marks = s.marks;
 }
 
