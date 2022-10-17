@@ -5,6 +5,7 @@ being fundamentally altered by object-oriented programming.
 
 => Programmer A creates a class. Perhaps it’s something like the Distance class, with a complete
 set of member functions for arithmetic operations on a user-defined data type.
+
 => Programmer B likes the Distance class but thinks it could be improved by using signed 
 distances. The solution is to create a new class, like DistSign in the ENGLEN example, that 
 is derived from Distance but incorporates the extensions necessary to implement signed distances.
@@ -26,7 +27,7 @@ somewhere in between.
 ==> In any case OOP is making the programming scene more flexible and
 at the same time more complex.
 
-E.g:- -> React is a tool , webApps are application
+E.g:- -> React is a tool , WEBApps are application
 -> Android OS and libraries are general software tools , actual android app are applications that are 
 specific for some problem.
--> nodejs is a tool , actual backend services are specific applications
+-> Nodejs is a tool , actual backend services are specific applications
