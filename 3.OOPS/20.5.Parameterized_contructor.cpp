@@ -11,7 +11,7 @@ public:
 
 Student::Student(int marks) // Parametrized constructor definition
 {
-    std::cout << "called" << std::endl;
+    std::cout << "parameterized constructor called" << std::endl;
     this->marks = marks;
 }
 
