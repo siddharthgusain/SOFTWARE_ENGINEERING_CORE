@@ -9,7 +9,7 @@ public:
     };
     Parent(int data)
     {
-        std::cout << "default constructor of parent called" << data << std::endl;
+        std::cout << "Parameterized constructor of parent called==>" << data << std::endl;
     }
 };
 
@@ -22,14 +22,14 @@ public:
     };
     Child(int data) : Parent(data) // this syntax is quite new , it is calling base class constructor
     {
-        std::cout << "default constructor of child called" << data << std::endl;
+        std::cout << "Parameterized constructor of child called==>" << data << std::endl;
     }
 };
 
 int main()
 {
     Child c1;     // default constrcutor called (Parent -> child)
-    Child c2(10); // paremeterized constructor called (Parent-> child)
+    Child c2(10); // parameterized constructor called (Parent-> child)
     return 0;
 }
 
