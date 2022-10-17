@@ -35,9 +35,9 @@ int main()
     ptr->display(); // display() of Base is called
     ptr->show();    // show() of Base is called
 
-    ptr = &d;
+    ptr = &d;       // assigning address of type "Derived" to pointer of type "Base"
     ptr->display(); // base display() is called
-    ptr->show();    // *derived show() is called*
+    ptr->show();    // *derived show() is called* , without virtual keyword base show() would be called
 
     d.display(); // derived display() is called
     d.show();    // derived show() is called
