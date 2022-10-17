@@ -1,5 +1,7 @@
 1. https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
 2. https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/ 
 
+https://www.youtube.com/watch?v=XI7zep97c-Y --> SOLID
+https://www.youtube.com/watch?v=-T0H--a8WnY&list=PLTCrU9sGybuq3Jz51xfT3mA2BIVNDHwIV&index=1 --> SOLID
 https://youtu.be/PPup1yeU45I --> singleton class
 

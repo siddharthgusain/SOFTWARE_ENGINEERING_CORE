@@ -4,7 +4,7 @@ well , then we need inheritance.
 E.g:- Class Student , Class Engineer , where Engineercinherits from Student
 
 -> Assocation is different from inheritance , association is used when we have two diffrent classes
-but we donmt want some of the perperties of one class inm another but still there is a relationship
+but "we don't want some of the perperties of one class" in another but still there is a relationship
 that exists btw these classes i.e "HAS-A" relationship
 E.g class BOOK , class Page , Page doesnt want properties of BOOK and vice versa but BOOK HAS-A Page
 
