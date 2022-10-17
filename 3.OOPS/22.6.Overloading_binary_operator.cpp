@@ -20,7 +20,7 @@ Student Student::operator+(Student &obj)
 {
     Student s;
     std::cout << this->marks << " " << obj.marks << std::endl;
-    s.marks = this->marks + obj.marks; // "this" is a pointer to first arguement, obj points to second argrument
+    s.marks = this->marks + obj.marks; // "this" is a pointer to "first" operand, obj points to "second" operand
     return s;
 }
 
