@@ -38,7 +38,7 @@ int main()
 {
     Multiple_Constructor obj1; // Default called
     obj1.set_data(50);
-    Multiple_Constructor obj2(100);  // Parameterized calledf
-    Multiple_Constructor obj3(obj1); // Copy constrcutor called
+    Multiple_Constructor obj2(100);  // Parameterized called
+    Multiple_Constructor obj3(obj1); // Copy constructor called
     return 0;
 }

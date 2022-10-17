@@ -5,8 +5,8 @@ class Student
     int marks;
 
 public:
-    Student();           // default constructor declaration
-    Student(Student &s); // copy constructor declaration
+    Student();                 // default constructor declaration
+    Student(const Student &s); // copy constructor declaration
     int get_marks();
     void set_marks(int marks);
 };
@@ -17,7 +17,7 @@ Student::Student() // default constructor definition
     this->marks = 0;
 }
 
-Student::Student(Student &s) // copy constructor definition
+Student::Student(const Student &s) // copy constructor definition
 {
     std::cout << "Copy constructor is called" << std::endl;
     this->marks = s.marks;
