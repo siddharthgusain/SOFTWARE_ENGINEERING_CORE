@@ -11,7 +11,7 @@ public:
 
 Student::Student() // default constructor definition
 {
-    std::cout << "called" << std::endl;
+    std::cout << "default constructor is called" << std::endl;
     marks = 0;
 }
 
