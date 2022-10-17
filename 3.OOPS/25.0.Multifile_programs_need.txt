@@ -1,15 +1,21 @@
 -> The programs that we were writing till now were only single file which gets compiled
 and executed in CPU.(pretty starightforward).
+
 ->But as we go from 10 lines of code to million lines of code it is very importent to manage the 
 source code by breaking in into chunks or into different files and directory.
+
 -> Multifile programs are easy to manage and scale where each file may be library, headers or
 some constant file etc.
+
 -> With multifile programs , there is need of some software which can bundle them and compile
 them and link them into one final object code which can be executed by CPU.
+
 -> To Design multifile programs we divide the whole software into managable modules and add feature without much 
 modification to already existing source code.
 
 -> Writing source code into single file could be easy in starting , but people starts contributing to the project and features starts to add
 up , writing into single file won't give a person to work in isolation to other plus managing single file programs is very hard and bug prone.
--> Thats why we need proper architecure of software project and a proper build system . Although in the end it gets bundled to single file or 
-executable but at developer level or source code level , its important to maintain the source code properly.
+
+-> Thats why we need "proper architecure of software project and a proper build system". 
+Although in the end it gets bundled to single file or executable but at developer level or 
+source code level , its important to maintain the source code properly.
