@@ -31,7 +31,7 @@ int main()
     return 0;
 }
 
-/* Note:- virtual interheritance increases the size of object created by Child ,
-this over head is information needed to avoid duplication genrally virtual pointers
-We will talk abt virtual table , virtual pointers in next section
+/* Note:- virtual inheritance increases the size of object created by Child ,
+this over head is information needed to avoid duplication generally virtual pointers
+We will talk aboutt virtual table , virtual pointers in next section
 */
