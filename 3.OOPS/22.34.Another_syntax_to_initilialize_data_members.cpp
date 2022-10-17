@@ -6,7 +6,7 @@ class Test
     int b;
 
 public:
-    Test(int data1, int data2) : a(data2), b(data1){}; // another syntax
+    Test(int data1, int data2) : a(data2), b(data1){}; // another syntax known as member initializeer list
     void display_data()
     {
         std::cout << this->a << " " << this->b;

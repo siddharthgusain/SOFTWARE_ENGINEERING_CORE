@@ -3,7 +3,6 @@
 
 https://youtu.be/oIV2KchSyGQ --> Virtual functions
 https://youtu.be/UWAdd13EfM8 --> interface
-https://youtu.be/1nfuYMXjZsA --> Constructor member initilizer list
 https://youtu.be/jELbKhGkEi0 --> virtual destructor
 https://youtu.be/PPup1yeU45I --> singleton class
 
