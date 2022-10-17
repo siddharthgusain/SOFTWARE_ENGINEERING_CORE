@@ -2,7 +2,7 @@
 
 class Parent
 {
-    int private_member; // will not be inheriteds
+    int private_member; // will not be inherited
 
 protected:
     int protected_member; // will be inherited
