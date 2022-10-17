@@ -17,7 +17,7 @@ void Employee::setSalary(int salary)
 float get_income_tax(Employee e)
 {
     float income_tax;
-    income_tax = 0.3 * e.salary;
+    income_tax = 0.3 * e.salary; // accesing private variable "salary"
     return income_tax;
 }
 
