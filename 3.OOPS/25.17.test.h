@@ -5,6 +5,6 @@ private:
     int b;
 
 public:
-    My_header();
+    My_header(int a, int b);
     int add();
 };
