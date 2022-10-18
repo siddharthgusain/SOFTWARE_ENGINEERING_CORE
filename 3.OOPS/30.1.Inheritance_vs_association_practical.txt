@@ -1,0 +1,14 @@
+-> Inheritance, as its name implies, involves inheriting attributes and behaviors from other classes. In this case, there is
+a true parent/child relationship.The child (or subclass) inherits directly from the parent
+(or superclass).
+
+-> Composition involves using other classes to build more complex classes—a sort of as-
+sembly.
+
+->There is no parent/child relationship in this case. Basically, complex objects are
+composed of other objects. Composition represents a "HAS-A" relationship. 
+
+-> For example, a "Car has an engine". Both the engine and the car are separate, potentially standalone ob-
+jects.
+
+-> However, "the car is a complex object that contains (has an) engine object". 
