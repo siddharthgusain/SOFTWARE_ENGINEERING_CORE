@@ -42,17 +42,23 @@ public:
     }
 };
 
-class Invoice_DAO
+class Invoice_DAO // interface
 {
-    Invoice_Calculator invoice;
-
 public:
-    Invoice_DAO(Invoice_Calculator invoice)
-    {
-        this->invoice = invoice;
-    }
+    virtual void save(Invoice_Calculator invoice) = 0;
+};
 
-    void save_to_db()
+class Database_invoice_DAO : public Invoice_DAO
+{
+    void save(Invoice_Calculator invoice) // overriding base class function
+    {
+        // save to db
+    }
+};
+
+class File_invoice_DAO : public Invoice_DAO
+{
+    void save(Invoice_Calculator invoice) // overriding base class function
     {
         // save to db
     }
@@ -75,7 +81,6 @@ public:
     }
 };
 
-/*
-We divided the classes to multiple SRP classes for better
-maintainability
-*/
+// class should be able to extention but not for modification
+// it is very usefull if a code is already live and tested then new classes can be extended
+// from already tested classes
