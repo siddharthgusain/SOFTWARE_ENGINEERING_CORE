@@ -1,1 +1,8 @@
-SOLID , DRY ,YAGNI
+-> As the name susggest design principles are set of way to write flexible and maintainable code
+that is very important for large enterprise softwares having millions of lines of code.
+
+Some of the principles that we should know are :-
+1. Composition over inheritance
+2. SOLID
+3. DRY
+4. YAGNI
