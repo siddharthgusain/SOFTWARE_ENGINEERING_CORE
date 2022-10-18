@@ -8,5 +8,5 @@ D: Dependency Inversion
 -> SOLID are principles for writing flexible and maintainable code
 -> While designing classes these principles should be kept in mind 
 
-DRY :- Donot repeat yourself
+DRY :- Do not repeat yourself(Avoid redundancy)
 YAGNI:- You aren't gonna need it
