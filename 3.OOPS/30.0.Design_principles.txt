@@ -6,3 +6,5 @@ Some of the principles that we should know are :-
 2. SOLID
 3. DRY
 4. YAGNI
+
+Note:- Always design or write code keeping future possiblilities 
