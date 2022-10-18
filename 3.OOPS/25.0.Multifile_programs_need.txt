@@ -16,6 +16,7 @@ modification to already existing source code.
 -> Writing source code into single file could be easy in starting , but people starts contributing to the project and features starts to add
 up , writing into single file won't give a person to work in isolation to other plus managing single file programs is very hard and bug prone.
 
--> Thats why we need "proper architecure of software project and a proper build system". 
-Although in the end it gets bundled to single file or executable but at developer level or 
+-> Thats why we need "proper architecure of software project and a proper build system/tools". 
+
+-> Although in the end it gets bundled to single file or executable but at developer level or 
 source code level , its important to maintain the source code properly.
