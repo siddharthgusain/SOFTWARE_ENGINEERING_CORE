@@ -24,7 +24,7 @@ Programmer B creates a specialized version of this class, the DistSign class. Pr
 and D create applications. A is a "tool developer", and C and D are "applications developers". B is
 somewhere in between. 
 
-==> In any case OOP is making the programming scene more flexible and
+==> In any case OOP is making the programming more flexible and
 at the same time more complex.
 
 E.g:- -> React is a tool , WEBApps are application

@@ -9,7 +9,7 @@ public:
     {
         this->private_variable = 0;
     }
-    friend class B; // B is friend of A so B can access private variable of class A
+    friend class B; // B is friend of A so B can access "private variable" of class A
 };
 
 class B
