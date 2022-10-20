@@ -1,0 +1,26 @@
+What is Fragmentation?
+-> Dividing data into fragments in network layer before passing the data to Data link layer 
+is called Fragmentation.
+
+Why Fragmentation?
+-> Each network or link imposes some maximum size on its packets. These limits have various causes:-
+1. Hardware (e.g., the size of an Ethernet frame).
+2. Operating system (e.g., all buffers are 512 bytes)
+3. Protocols (e.g., the number of bits in the packet length field)
+4. Compliance with some (inter)national standard
+5. Desire to reduce error-induced retransmissions to some level.
+6. Desire to prevent one packet from occupying the channel too long.
+
+Note:- 
+-> Transport layer will make "segment" keeping in mind the size of frame in DLL and network layer.
+-> So , actually there is not fragmentation in "sender's side"
+-> Fragmentation is done at routers, as router could be connected to various channels having different "MTU"
+
+Lets discuss MTU and MSS:- 
+-> MTU stands for maximum transimission unit at data link layer
+-> MSS stands for maximum segment size at transport layer.
+
+Some points about fragmentation :-
+1. Fragmentation is done at routers not at the source
+2. Framents are reasembled at "destination" not at the routers.
+3. Each fragment can be uniquely identified with fields present in IP "header".
