@@ -2,3 +2,8 @@
 -> Transport layer is implemented inside os kernel
 -> Segmentation , error control and flow control takes place at transport layer
 -> Transport layer is responsible for delivering packet to proper process within a machine.
+
+
+Transport layer has two major protocols:-
+1. TCP(Transmission control protocol) 
+2. UDP(User datagram protocol)
