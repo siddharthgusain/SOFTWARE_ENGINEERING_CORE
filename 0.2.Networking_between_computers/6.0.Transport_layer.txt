@@ -1,0 +1,4 @@
+-> Transport layer is the most important layer which directly provides services to application layer.
+-> Transport layer is implemented inside os kernel
+-> Segmentation , error control and flow control takes place at transport layer
+-> Transport layer is responsible for delivering packet to proper process within a machine.
