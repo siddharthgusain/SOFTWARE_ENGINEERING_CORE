@@ -1,0 +1,19 @@
+IP addressing can be of two types :-
+1. Classfull
+2. ClassLess
+
+CLASSFULL ADDRESSING
+-> 2^32 IPV4 addresses are classified into classes 
+
+Class A:- starts with "0" as first bit
+Class B:- starts with "10" as first two bits
+Class C:- starts with "110" as first three bits
+Class D:- starts with "1110" as first four bits
+Class E:- start with "1111" as first four bits
+
+CLASSLESS INTERDOMAIN ROUTING(CIDR)
+-> A chunk of addresses known as blocks are used 
+-> a.b.c.d/n --> n is number of bits for network ID
+
+Subnetting :- Dividing a large network into smaller networks
+Supernettting:- aggregating multiple small networks into one supernet

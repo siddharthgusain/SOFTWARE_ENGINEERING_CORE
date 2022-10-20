@@ -1,0 +1,19 @@
+ICMP stands for Internet control message protocol.
+
+-> Used for Error handling or feedback messaging.
+
+ERROR HANDLING:-
+1. TTL exceed
+2. Source quench
+3. Paramter Problem
+4. Destination unreachable.
+5. Source redirect
+
+ECHO AND REPLY:-
+1. Echo req and reply --> used by Ping(packet internet Groper)
+2. Router Solicitation
+3. Network mask request and reply
+4. Time stamp request and reply
+
+
+-> TraceRoute application use ICMP protocol at network layer.
