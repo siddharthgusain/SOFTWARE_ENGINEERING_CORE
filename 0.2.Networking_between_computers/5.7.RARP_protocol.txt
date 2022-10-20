@@ -1,0 +1,8 @@
+RARP stands for Reverse Address Resolution Protocol
+
+-> Used to get IP address if MAC address is known
+-> Generally when a new Machine is connected to router it gets it IP address with RARP.
+
+There are alternatives to RARP --> BOOTP and DHCP(used currently) 
+-> Both these Protocol are application layer Protocol
+-> DHCP allows giving dynamic IPs from pool of IPs available

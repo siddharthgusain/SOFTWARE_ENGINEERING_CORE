@@ -1,0 +1,10 @@
+ARP stands for address resolution protocol.
+
+-> It is used to get MAC address of a machine if its IP address is known.
+-> ARP request is broadcasting 
+-> Response is unicast
+Used when:-
+1. Host want MAC of other Host
+2. Host wants MAC address of router
+3. Router wants MAC address of other router.
+4. Router wants MAC address of host.
