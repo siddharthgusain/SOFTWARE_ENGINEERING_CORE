@@ -1,0 +1,6 @@
+-> The most important protocol used at network layer is IP(internet protocol), there are other protocol
+as well, will talk about them in next sections.
+
+-> Currently We have two types of IP protocol "headers":-
+1. Ipv4 ---> 32 bit IP addresses.
+2. IpV6 ---> 128 bits IP addresses.
