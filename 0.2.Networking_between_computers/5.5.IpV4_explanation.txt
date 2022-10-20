@@ -1,0 +1,16 @@
+1. HL:- header length(4bits) -> (0 --> 15) "number" possible
+2. Version:- v4 or v6
+3. Identificcation:- use to uniquely identify each datagram(packet)
+4. Flag:- i. Not used
+          ii. DF(dont fragment) --> usefull for fragmentation
+          iii. MF(More Fragment) --> usefull for fragmentation
+5. Fragment Offset:- How many bytes are ahead of a fragment , usefull for reassembly algorithm at reciever
+6. TTL(Time to live):- To define max hops or restrict hops --> to prevent infinite loop
+7. Protocol:- To define protocol like UDP , TCP , IGMP, ICMP
+8. Header Checksum:-for Error detection at network layer
+9. Source and destination IP addresses
+10. Options 
+-> Single Byte :- No Operation, End of Operation
+-> MultiByte :- Record Route , Strict Source Route , Loose source route , Timestamp
+11. Total length:- Header + data length
+12. Type of service:- Used for Quality of service headers
