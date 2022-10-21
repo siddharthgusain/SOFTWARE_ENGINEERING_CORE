@@ -1,0 +1,7 @@
+-> DNS stands for "domain name system"
+-> DNS is application layer protocol which uses UDP headers in transport layer as there is only
+request and reply involved
+-> DNS works at port "53" i.e destination port number in UDP header should be 53.
+-> It is in-band
+-> It uses UDP so it is connectionless
+-> It is stateless as well.

@@ -1,0 +1,8 @@
+-> Application layer is what a user interacts with 
+-> Browsers , Mail clients like Thunderbird are all example of application layer
+-> Some of the most imporatnt application layer protocols are:-
+1. DNS
+2. HTTP/HTTPS
+3. SMTP/POP3/IMAP
+4. FTP
+ 
