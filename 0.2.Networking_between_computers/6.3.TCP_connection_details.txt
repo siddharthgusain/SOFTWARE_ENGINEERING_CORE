@@ -1,0 +1,10 @@
+-> TCP is connection oriented which means some resources like RAM ,CPU etc are reserved ar both sender
+and reciever side.
+
+-> TCP keeps track of each byte also known as stream oriented
+
+-> TCP connection works in three phases:-
+1. Connection establishment
+2. Data transfer
+3. Connection termination
+
