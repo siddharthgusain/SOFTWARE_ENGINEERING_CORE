@@ -7,3 +7,4 @@
 Transport layer has two major protocols:-
 1. TCP(Transmission control protocol) 
 2. UDP(User datagram protocol)
+3. SCTP(Stream control transmission protocol)

@@ -1,0 +1,34 @@
+-> Most imporatant part of transport layer is to uniquely identify a process within a machine
+-> Port number helps in uniquely idendifying process
+-> Port number is assigned by operating system to each process connecting to some network
+
+1. Source and destination port:- 16 bits number
+-> Total ports possible 0 to 65535 =  65536 ports possible
+Ports are categorizeed by IANA:-
+i. Well known  ports -> 0-1023
+ii. Reserved ports -> 1024-49151
+iii. For public use -> remaining
+
+To uniquely identify a process two things are rquired IP + port also known as "socket" => 48 bit number
+
+2. Sequence number:- To uniquely identify segments made by TCP protocol
+
+3. Header length:- size of Header
+
+4. Acknowlegment number :- Sequence number of bytes expected next by reciever
+
+5. Flags bits :-
+i. SYN , ACK, FIN :- used for TCP connection and termination phase
+ii. URG :- To send urgent data before already send data
+iii. PSH:- Push the segment to application layer even if size is less than MSS(maximum segment size)
+i.v RST:- Reset if something wrong with connection
+
+6. Advertisement window:- For flow control in transport layer(only in TCP not in UDP)
+
+7. Checksum field:- For error control
+
+8. Options:-
+i. Timestamp
+ii. Window size extention
+iii. Paramter negotiation
+iv. Padding
