@@ -1,0 +1,17 @@
+-> Electronic mail service uses two protocols:-
+1. To push message :- SMTP
+2. To pull message:- POP3, IMAP
+
+-> Both are connection oriented as they use TCP in transport layer
+-> Email is Like sending File but we can't use FTP , because for FTP both client and server should online at the same time.
+-> Both are In-band
+-> SMTP is stateless and POP3 is stateful
+-> SMTP and POP3 are pure text base but MIME is used to extend its capabilities
+
+-> SMTP works at port number 25
+-> POP3 works at port number 110 
+-> IMAP works a tport number 143
+
+SMTP:- simple mail transfer protocols
+POP3:- Post office protocol
+IMAP:- internet message access protocol
