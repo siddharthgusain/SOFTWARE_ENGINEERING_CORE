@@ -2,7 +2,7 @@ THINGS TO KEEP IN MIND:-
 1. Heart of Asynchronous programming is events and interrupts.
 2. Asynchronous programming is achieved with help of OS ,interrupt and ISR and synchronous event loop.
 3. Every user program runs line by line until there is interrupt period.
-4. Asynchronous programming have event loop code , task queue data structure and stack
+4. Asynchronous programming have event loop code , "task queue" data structure and stack
 
 -> Asynchronous programming is typically done at a low level with assembler or "bare-metal" C/C++ code, 
 or by using a Real Time Operating System (RTOS). On a higher-level the Operating System itself is handling the
