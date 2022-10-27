@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=BUTHtNrpwiI
 
 2. https://www.comp.nus.edu.sg/~cs3249/lecture/window%20systems.pdf --> windowing system
 
+3. https://jichu4n.com/tag/technical-notes/
+
+4. https://www.cs.cmu.edu/~bam/pub/uimsCRCrevised_C360X_CH48.pdf
+
 https://www.raywenderlich.com/books/metal-by-tutorials/v2.0/chapters/1-hello-metal
 
 
