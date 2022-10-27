@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=uqY3FMuMuRo
 https://www.youtube.com/watch?v=2iURr3NBprc&t=53s
 https://www.youtube.com/watch?v=BUTHtNrpwiI
 
+2. https://www.comp.nus.edu.sg/~cs3249/lecture/window%20systems.pdf --> windowing system
+
 https://www.raywenderlich.com/books/metal-by-tutorials/v2.0/chapters/1-hello-metal
 
 
