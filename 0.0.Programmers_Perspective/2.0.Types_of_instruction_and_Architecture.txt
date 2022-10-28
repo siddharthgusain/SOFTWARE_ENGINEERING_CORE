@@ -26,8 +26,8 @@ Instruction set architecture(ISA) can be of many types:-
 
 At hardware level parallelism can be achieved with :-
 1. Pipelining(Multiple Execution unit/Stages in one CPU)[Instruction level parallelism]
-2. Multicore processors (Multiple core in single CPU)
-3. Multiple processors(Multiple processor)
+2. Multicore processors (Multiple core in single CPU) --> personal Computers
+3. Multiple processors(Multiple processor) --> Server machines
 
 At software level parallelism can be viewed as:-
 1. Multiprocessing(fork())

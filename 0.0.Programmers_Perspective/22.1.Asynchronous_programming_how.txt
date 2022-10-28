@@ -8,7 +8,7 @@ THINGS TO KEEP IN MIND:-
 or by using a Real Time Operating System (RTOS). On a higher-level the Operating System itself is handling the
 interrupts for you. But every key you press and every mouse action you do is triggering an interrupt. 
  
-->In general, all asynchronous inputs (user or otherwise) are managed with interrupts.
+-> In general, all asynchronous inputs (user or otherwise) are managed with interrupts.
 
 SOME GENERAL EVENT DRIVEN SYSTEM PROPERTIES:-
 
