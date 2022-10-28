@@ -36,7 +36,7 @@ OTHERS:-
 -> Operating system , loader , linker  , bootloaders
 -> Compilers
 -> Drivers specific for each device to be interfaced
--> Graphics API pipeline
+-> Graphics API pipeline(OPEN GL)
 
 3. Software using OS services directly (Mid level software)
 -> Browsers
