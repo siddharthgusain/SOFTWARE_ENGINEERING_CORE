@@ -57,3 +57,5 @@
 29. https://www.linkedin.com/posts/ansh-_backend-systemdesign-medium-activity-6976408543654494208-gpnm/?utm_source=share&utm_medium=member_android
 
 30. https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
+
+31. https://www.linkedin.com/posts/akmishra2901_systemdesign-notes-ugcPost-6993833447622406145-h_b_/?utm_source=share&utm_medium=member_android

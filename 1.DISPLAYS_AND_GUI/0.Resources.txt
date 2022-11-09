@@ -1,3 +1,5 @@
+VVVVIMP:---> https://en.m.wikipedia.org/wiki/Event_(computing)
+
 1. https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh
 https://www.youtube.com/watch?v=l7rce6IQDWs
 https://www.youtube.com/watch?v=uqY3FMuMuRo
@@ -5,6 +7,8 @@ https://www.youtube.com/watch?v=2iURr3NBprc&t=53s
 https://www.youtube.com/watch?v=BUTHtNrpwiI
 
 2. https://www.comp.nus.edu.sg/~cs3249/lecture/window%20systems.pdf --> windowing system
+
+https://stackoverflow.com/questions/6399676/how-does-opengl-work-at-the-lowest-level
 
 3. https://jichu4n.com/tag/technical-notes/
 
