@@ -1,5 +1,0 @@
--> Libraries provides reusablity of code and modularity 
--> They can be shared between developers to get the task done in lesser time.
--> Writing the same function everytime when we create a new program could be tiresome,
-so better make a library and reuse it everytime.
--> E.g npm libraries,GUI libraries.

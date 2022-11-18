@@ -10,3 +10,11 @@ functions are precompiled in "libc" and is linked to our program in linking phas
 NOTE:-  GCC COMPILER DOES EVERYTHING FOR US ,i.e COMPILATION -> ASSEMBLY -> LINKING.
 6.SO IN ANY LIBRARY WE GENERALLY FIND FUNCTIONS WHICH ARE ESSENTIAL IN EVERY PROGRAM .E.G "printf",
 "scanf", file manipulation function , Some math related functions(pow,sqrt) etc.
+
+
+NEED OF LIBRARY
+-> Libraries provides reusablity of code and modularity 
+-> They can be shared between developers to get the task done in lesser time.
+-> Writing the same function everytime when we create a new program could be tiresome,
+so better make a library and reuse it everytime.
+-> E.g npm libraries,GUI libraries.
