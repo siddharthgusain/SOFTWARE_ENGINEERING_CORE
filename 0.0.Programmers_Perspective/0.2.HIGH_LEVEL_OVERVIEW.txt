@@ -20,6 +20,9 @@ MEMORY:-
 (ii) Non volatile
 -> DISK(HDD,SSD)
 
+(iii) External Storages
+-> USB , SD CARD etc.
+
 I/0 DEVICES:-
 -> INPUT DEVICES:- Keyboard ,mouse any other device, microphone
 -> OUTPUT devices:- Display , Speaker, any other output device
@@ -30,7 +33,8 @@ NETWORK DEVICE
 OTHERS:- 
 -> Any other hardware module like web cam etc.
 
--> ALL these components are independent , but they are connected/interfaced together inside PCB known as motherboard.
+-> ALL these components are independent , but they are connected/interfaced together inside PCB 
+known as motherboard.
 
 2. System software layer(general purpose softwares) (System level softwares) -> For system developer
 -> Operating system , loader , linker  , bootloaders
