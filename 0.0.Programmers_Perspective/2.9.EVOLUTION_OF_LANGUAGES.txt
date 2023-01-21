@@ -26,7 +26,7 @@ so JAVA Virtual Machine(JVM) was introduced to do this, it was written in C only
 JAVASCRIPT ERA
 -> Now the operating system infrastructure was in place , and new fields like content sharing over web was
 going on, Softwares like browser were built in C++ to show web pages that were static.
-->Now Javscript was developed for web , which itself run  on some software known as Javascript Engine written
+->Now Javascript was developed for web , which itself run  on some software known as Javascript Engine written
 in C++ only.
 
 Other languages were also there like python, Ruby , Rust etc.
