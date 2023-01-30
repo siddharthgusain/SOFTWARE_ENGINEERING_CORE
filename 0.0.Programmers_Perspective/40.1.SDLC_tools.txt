@@ -5,7 +5,7 @@ E.G :-
 3. Testing :- selenium,apache jmeter etc
 4. Production/deployment:- Jenkins, various cloud providers(aws,gcp,azure)
 5. Containerziation tools:- docker,kubernetes etc
-6. Collaboration tools:- git,github
+6. Collaboration tools/Version Control System:- git,github/gitlab
 
 
 QUALITY OF SOFTWARE Design :- 
