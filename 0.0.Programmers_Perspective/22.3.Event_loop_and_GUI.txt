@@ -9,12 +9,12 @@ something triggers it to come and do it's job.
 it's likely not going to be eating up a ton of processing time by continually looping. It can either be utterly 
 silent or it may be taking up a fraction of a percent of the CPUs time. But if you go and hit a button the program 
 is going to wake up and do something. This is ran by an event loop. Clicking that button fired an event which got
-processed by the event loop which called the buttons onClick event handler.
+processed by the event loop which called the buttons "onClick event handler".
 
 -> They're fairly primitive, but they're highly useful.
 
--> EVENT LOOP and interrupts are the basis of GUI programs.
--> Note:- event loop is also a code written in GUI framework of any other process environment like JVM or JS engine
+-> "EVENT LOOP and interrupts are the basis of GUI programs".
+-> Note:- Event loop is also a code written in GUI framework of any other process environment like JVM or JS engine
 
 NOTE:- GUI itself is loaded by kernel , as it is not part of kernel , it is another process or program written
 to handle display and graphics. We will discuss more into asynchronous programming in GUI part of OS.
