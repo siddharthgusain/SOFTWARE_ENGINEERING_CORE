@@ -6,7 +6,7 @@ THINGS TO KEEP IN MIND:-
 
 -> Asynchronous programming is typically done at a low level with assembler or "bare-metal" C/C++ code, 
 or by using a Real Time Operating System (RTOS). On a higher-level the Operating System itself is handling the
-interrupts for you. But every key you press and every mouse action you do is triggering an interrupt. 
+interrupts for you. But "Every key you press and Every mouse action you do is triggering an interrupt."
  
 -> In general, all asynchronous inputs (user or otherwise) are managed with interrupts.
 
