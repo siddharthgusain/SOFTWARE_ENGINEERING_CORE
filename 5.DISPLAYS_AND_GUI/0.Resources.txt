@@ -1,5 +1,8 @@
 VVVVIMP:---> https://en.m.wikipedia.org/wiki/Event_(computing)
 
+https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/
+
+
 1. https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh
 https://www.youtube.com/watch?v=l7rce6IQDWs
 https://www.youtube.com/watch?v=uqY3FMuMuRo

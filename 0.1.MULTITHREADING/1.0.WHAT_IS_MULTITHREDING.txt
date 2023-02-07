@@ -3,8 +3,8 @@ called threads.
 -> Threads can be "user level" and "kernel level".
 -> User level threads are managed by User library and Kernel level threads are managed by OS.
 -> Without multithreading , programs are executed in "serial order", i.e All the instructions
-in the program is executed in the same order as they appear in Program.
--> with multithreading , each function can be made indepedent to each other.
+in the program is "Executed in the same order as they appear in Program".
+-> With multithreading , Each function can be made indepedent to each other(indepedent execution unit).
 -> Threads allow multiple functions to execute "concurrently".
 -> Multithreading can give rise to some issues of synchronisation.
 
