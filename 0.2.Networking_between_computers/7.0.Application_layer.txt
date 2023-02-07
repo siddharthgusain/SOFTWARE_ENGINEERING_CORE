@@ -5,4 +5,4 @@
 2. HTTP/HTTPS
 3. SMTP/POP3/IMAP
 4. FTP
- 
+5. WS/WSS(Websockets) 
