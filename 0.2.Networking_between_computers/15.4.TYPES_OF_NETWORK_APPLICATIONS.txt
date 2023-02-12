@@ -1,0 +1,21 @@
+->  One type is an implementation whose  operation  is  specified  in  a  protocol  standard,  such  as  an 
+RFC  or  some other  standards  document;  such  an  application  is  sometimes  referred  to  as
+“open,”  since  the  rules  specifying  its  operation  are  known  to  all.  For  such  an implementation, 
+the client and server programs must conform to the rules dictated by the RFC.
+
+-> If one developer writes  code  for  the  client  program  and  another  developer  writes  code  for  the
+server program, and both developers carefully follow the rules of the RFC, then the two programs will be able 
+to interoperate. Indeed, many of today’s network applications  involve  communication  between  client  and  
+server  programs  that have been created by independent developers
+
+
+---------------------------------------------------------------------------------------------------------------------
+2. The  other  type  of  network  application  is  a  proprietary  network  application.In this case the client 
+and server programs employ an application-layer protocol that has not been  openly  published  in  an  RFC  or  elsewhere.
+
+-> A single  developer creates both the client and server programs, and the developer has complete control over 
+what goes in the code. But because the code does not implement  an  open  protocol,  other  independent  developers  
+will  not  be  able  to develop code that interoperates with the application.
+
+
+

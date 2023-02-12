@@ -10,7 +10,7 @@
 
 -> SMTP works at port number 25
 -> POP3 works at port number 110 
--> IMAP works a tport number 143
+-> IMAP works at port number 143
 
 SMTP:- simple mail transfer protocols
 POP3:- Post office protocol
