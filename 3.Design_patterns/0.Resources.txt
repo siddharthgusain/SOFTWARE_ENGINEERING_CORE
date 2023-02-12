@@ -2,3 +2,7 @@
 2. https://www.youtube.com/playlist?list=PLliXPok7ZonlZJuAN0hvUnf5ovFepjxU0
 3. https://www.youtube.com/playlist?list=PLF206E906175C7E07
 4. https://www.youtube.com/playlist?list=PLT2NrqLzZng3YMek58eVZVkBiW3NyVSef
+
+https://youtu.be/PPup1yeU45I --> singleton class
+
+https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/ 
