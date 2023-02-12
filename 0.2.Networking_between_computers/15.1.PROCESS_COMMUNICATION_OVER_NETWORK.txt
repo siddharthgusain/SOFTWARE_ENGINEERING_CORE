@@ -1,0 +1,16 @@
+-> Before building network application, we also need a basic understanding of
+how the programs, running in multiple end systems, communicate with each other.
+
+-> In the jargon of operating systems, it is not actually programs but "processes" that
+communicate. 
+
+-> A process can be thought of as a program that is running within an end system. When processes are running 
+on the same end system, they can communicate with each other with interprocess communication, using rules that are
+governed by the end system’s operating system.
+
+-> "But networking  we are not particularly interested in how processes in the same host communicate, but instead in
+how processes running on different hosts (with potentially different operating systems) communicate".
+
+-> A process sends messages into, and receives messages from, the network through a software
+interface called a SOCKET(IP + PORT =  48 bit number).
+
