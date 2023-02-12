@@ -1,0 +1,25 @@
+->  In particular, an application-layer protocol defines:
+1. The types of messages exchanged, for example, request messages and response
+messages.
+2. The syntax of the various message types, such as the fields in the message and
+how the fields are delineated.
+3. The semantics of the fields, that is, the meaning of the information in the fields
+4. Rules for determining when and how a process sends messages and responds to
+messages.
+
+
+NOTE:- Some application-layer protocols are specified in RFCs and are therefore in the public
+domain.
+
+-> For example, the Web’s application-layer protocol, HTTP (the HyperText Transfer Protocol [RFC 2616]), 
+is available as an RFC. 
+
+-> "If a BROWSER DEVELOPER follows the  rules  of  the  HTTP RFC,  the  browser  will  be  able  to  retrieve Web  
+pages  from  any WEB SERVER that has also followed the rules of the HTTP RFC.
+
+-> Many other application-layer protocols are proprietary and intentionally not available in the public
+domain. 
+
+-> For example, "SKYPE" uses proprietary application-layer protocols
+
+-> New public domain and proprietary Internet applications are being developed everyday
