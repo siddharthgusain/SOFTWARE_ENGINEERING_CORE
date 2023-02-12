@@ -1,7 +1,9 @@
--> TCP is connection oriented which means some resources like RAM ,CPU etc are reserved ar both sender
-and reciever side.
+-> TCP is "connection oriented" which means "some resources like RAM ,CPU etc are reserved ar both sender
+and reciever machine.
 
 -> TCP keeps track of each byte also known as stream oriented
+
+-> TCP layer is part of operating system code inside network stack
 
 -> TCP connection works in three phases:-
 1. Connection establishment
