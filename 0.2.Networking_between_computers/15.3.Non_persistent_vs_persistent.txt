@@ -1,0 +1,13 @@
+-> NON PERSITENT CONNECTION (HTTP 1.0)
+-> If a web page has 4 image references , 4 different TCP connection will be made to get those images
+
+-> PERSISTENT CONNECTION (HTTP 1.1 ONWARDS)
+-> With persistent connections, the server leaves the TCP connection open after
+sending a response. 
+-> Subsequent requests and responses between the "SAME CLIENT and
+SERVER" can be sent over the same connection.
+
+-> Typically, the HTTP server closes a connection when it isn’t used for a certain time (a configurable timeout interval).
+Also known as TCP timer management algorithm(JCOBSON ALGORITHM).
+
+-> The default mode of HTTP uses persistent connections with pipelining.
