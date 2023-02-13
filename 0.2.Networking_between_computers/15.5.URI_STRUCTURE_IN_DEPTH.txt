@@ -1,0 +1,38 @@
+URI:- Uniform Resource Indentifier
+Structure:- protocol
+-> A Uniform Resource Identifier (URI) is a unique sequence of characters that identifies a logical or 
+physical resource used by web technologies.
+
+URI is of two types :-
+1. URL :- Some URIs provide a means of locating and retrieving information resources on a network 
+(either on the Internet or on another private network, such as a computer filesystem or an Intranet); 
+-> These are Uniform Resource Locators (URLs).
+-> A URL provides the location of the resource
+
+2. URN:-  Other URIs provide only a unique name, without a means of locating or retrieving the resource or 
+information about it, these are Uniform Resource Names (URNs)
+
+Important Point to note:-
+1. The web technologies that use URIs are "NOT LIMITED TO WEB BROWSERS". 
+2. URIs are used to identify anything described using the Resource Description Framework (RDF).
+
+URI SYNTAX :-
+* URI = scheme ":" ["//" authority] path ["?" query] ["#" fragment]
+* The authority component consists of subcomponents:
+-> authority = [userinfo "@"] host [":" port]
+-> Examples of popular schemes include http, https, ftp, mailto, file, data and irc. 
+-> URI schemes should be registered with the Internet Assigned Numbers Authority (IANA), 
+although "Non-registered schemes are used in practice". Any connection string that we use in databases is a non
+registered Scheme.
+
+------------------------------------------------------------------------------
+Examples URL:-
+1. https://en.wikipedia.org/wiki/Uniform_Resource_Identifier
+2. redis://replica.fyndx0-common-redis.l0msme.aps1.cache.amazonaws.com:6379/6?decode_responses=true&is_elasticache=true&ssl=true&tls=true
+3. chrome://bookmarks/ -> Chrome URL
+4. file:///D:/SID%20BACKUP/Personal%20%20Documents/FYND/Offer%20Letter%20-Siddharth%20Gusain_signed.pdf -> local file
+5. git://github.com/user/project-name.git -> github ssh URI
+6. mailto:jsmith@example.com?subject=A%20Test&body=My%20idea%20is%3A%20%0A --> mailto used in anchor tag
+7. ws:<hierarchical part> -> web sockets
+
+

@@ -15,11 +15,11 @@ domain.
 is available as an RFC. 
 
 -> "If a BROWSER DEVELOPER follows the  rules  of  the  HTTP RFC,  the  browser  will  be  able  to  retrieve Web  
-pages  from  any WEB SERVER that has also followed the rules of the HTTP RFC.
+pages  from  any WEB SERVER that has also followed the rules of the HTTP RFC".
 
 -> Many other application-layer protocols are proprietary and intentionally not available in the public
-domain. 
+domain. E.g :- redis URI , mongodb URI , Database URI and many other protocols
 
--> For example, "SKYPE" uses proprietary application-layer protocols
+-> For example, "SKYPE" uses "proprietary application-layer protocols"
 
 -> New public domain and proprietary Internet applications are being developed everyday

@@ -10,12 +10,14 @@ server  programs  that have been created by independent developers
 
 
 ---------------------------------------------------------------------------------------------------------------------
-2. The  other  type  of  network  application  is  a  proprietary  network  application.In this case the client 
+2. The  other  type  of  network  application  is  a  "Proprietary  network  application".In this case the client 
 and server programs employ an application-layer protocol that has not been  openly  published  in  an  RFC  or  elsewhere.
 
 -> A single  developer creates both the client and server programs, and the developer has complete control over 
 what goes in the code. But because the code does not implement  an  open  protocol,  other  independent  developers  
 will  not  be  able  to develop code that interoperates with the application.
+
+-> That is why inmtegrating with these propritary application is hard if they dont use "open" protocols present in RFC
 
 
 
