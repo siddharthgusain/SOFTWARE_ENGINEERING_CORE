@@ -20,19 +20,19 @@ URI SYNTAX :-
 * URI = scheme ":" ["//" authority] path ["?" query] ["#" fragment]
 * The authority component consists of subcomponents:
 -> authority = [userinfo "@"] host [":" port]
--> Examples of popular schemes include http, https, ftp, mailto, file, data and irc. 
+-> Examples of popular schemes include http, https, ftp, mailto, file, data , irc , ws, wss. 
 -> URI schemes should be registered with the Internet Assigned Numbers Authority (IANA), 
-although "Non-registered schemes are used in practice". Any connection string that we use in databases is a non
+although "Non-registered schemes are used in practice" Like Any connection string that we use in databases is a non
 registered Scheme.
 
 ------------------------------------------------------------------------------
 Examples URL:-
-1. https://en.wikipedia.org/wiki/Uniform_Resource_Identifier
-2. redis://replica.fyndx0-common-redis.l0msme.aps1.cache.amazonaws.com:6379/6?decode_responses=true&is_elasticache=true&ssl=true&tls=true
+1. https://en.wikipedia.org/wiki/Uniform_Resource_Identifier --> HTTPS url
+2. redis://replica.fyndx0-common-redis.l0msme.aps1.cache.amazonaws.com:6379/6?decode_responses=true&is_elasticache=true&ssl=true&tls=true --> redis connection URI
 3. chrome://bookmarks/ -> Chrome URL
 4. file:///D:/SID%20BACKUP/Personal%20%20Documents/FYND/Offer%20Letter%20-Siddharth%20Gusain_signed.pdf -> local file
 5. git://github.com/user/project-name.git -> github ssh URI
 6. mailto:jsmith@example.com?subject=A%20Test&body=My%20idea%20is%3A%20%0A --> mailto used in anchor tag
-7. ws:<hierarchical part> -> web sockets
+7. ws:<hierarchical part> -> web sockets URI
 
 
