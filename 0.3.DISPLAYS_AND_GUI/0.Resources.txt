@@ -60,3 +60,13 @@ https://www.youtube.com/c/TheChernoProject/videos
 https://www.youtube.com/watch?v=3fTVUqILuYw&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&index=15
 
 https://www.youtube.com/watch?v=HS1Kp1WJWBU&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&index=16
+
+https://www.codeproject.com/Tips/1035362/Simple-Window-With-Assembly
+
+https://www.quora.com/Can-you-make-a-GUI-using-assembly-language
+
+https://stackoverflow.com/questions/2637436/assembly-gui#:~:text=You%20can%20create%20GUI%20applications,OS%20with%20graphical%20user%20interface
+
+https://en.m.wikipedia.org/wiki/History_of_the_graphical_user_interface
+
+http://web.mit.edu/6.005/www/fa15/

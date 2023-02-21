@@ -1,5 +1,5 @@
 THINGS TO KEEP IN MIND:-
-1. Heart of Asynchronous programming is events and interrupts.
+1. Heart of Asynchronous programming is "events and interrupts".
 2. Asynchronous programming is achieved with help of OS ,interrupt and ISR and synchronous event loop.
 3. Every user program runs line by line until there is interrupt period.
 4. Asynchronous programming have event loop code , "task queue" data structure and stack
@@ -12,7 +12,7 @@ interrupts for you. But "Every key you press and Every mouse action you do is tr
 
 SOME GENERAL EVENT DRIVEN SYSTEM PROPERTIES:-
 
--> Event driven programs or systems consist of an event framework that is responsible for generating and distributing
+-> Event driven programs or systems consist of an "EVENT FRAMEWORK" that is responsible for generating and distributing
 events, and client code that executes in response to the events.
 
 -> Event driven systems can have a wide range of implementations. At one extreme, events and other elements of the 

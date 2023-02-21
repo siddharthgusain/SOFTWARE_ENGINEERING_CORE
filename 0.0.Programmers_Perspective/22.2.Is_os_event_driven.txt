@@ -14,7 +14,7 @@ then waits for it to finish.
 
 -> In the old MS-DOS era, when multitasking was still uncommon, you would generally use interrupt-driven programming. 
 DOS would load the operating system and various drivers and then execute the commandline shell which would wait for 
-keyboard events. But this shell is not part of the operating system itself, technically speaking.
+keyboard events. But "this shell is not part of the operating system itself, technically speaking".
 
 -> In the DOS era, to get a keyboard input, you would ask the keyboard driver for it’s status through an interrupt 
 which would then respond with a result. This is not event-driven but is a form of polling. And polling is often used
@@ -23,15 +23,17 @@ You keep polling the system and if something changes, you add an event to the ev
 running at the same time would read the event queue and thus respond to events. Thus, that’s event-driven. But it 
 also means you’re dealing with a multithreaded environment…
 
--> In a single-threaded system, you would just start polling and process immediately as you don’t have separate 
+-> In a single-threaded system(LIKE JS ENGINE), you would just start polling and process immediately as you don’t have separate 
 threads to do the handling of those events. You can still set up something event-like by linking each polled result 
 to some callback function but this is outside the scope of event-driven programming. In event-driven programming, 
 you’re not dealing with the polling mechanism and how events are put in the queue. You only focus on retrieving 
 events from the queue to process them.
 
 -> Operating systems do far more than this. So while event-driven programming can be part of an operating system, 
-it doesn’t mean the operating system itself is event-driven. After all, the operating system is more event-driving 
-by generating the events that drive the applications running in it…
+it doesn’t mean the operating system itself is event-driven. 
 
--> And event-driving explains why we talk about drivers for all hardware components. The operating system drives, 
-applications are driven… It’s a syntax-thingie…
+-> "After all, the operating system is more EVENT DRIVING by generating the events that drive the applications running in it"
+
+-> And event-driving explains why we talk about drivers for all hardware components. 
+
+-> The OPERATING SYSTEM DRIVES, APPLICATIONS are DRIVEN… It’s a syntax-thingie…
