@@ -2,7 +2,7 @@
 E.G :- 
 1. Designing :- Adobe tools, figma,sketch
 2. Development :- frameworks(react,angular etc),libraries,bundlers like webpack,IDE
-3. Testing :- selenium,apache jmeter etc
+3. Testing :- selenium,apache jmeter, Jest etc
 4. Production/deployment:- Jenkins, various cloud providers(aws,gcp,azure)
 5. Containerziation tools:- docker,kubernetes etc
 6. Collaboration tools/Version Control System:- git,github/gitlab
