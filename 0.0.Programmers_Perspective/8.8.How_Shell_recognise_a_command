@@ -2,7 +2,9 @@
 variables.
 
 -> E.g ls , pwd - these are also known as shell commands , these are inbuilt OS files in which
-instructions are written like listing files in the directory.
+instructions are written like listing files in the directory . These files are always present at a particular directory that could
+be different for different OS. But Every shell program(CLI) checks first the local directory and then the environment variable
+registry to find external programs like "git","node","docker","npm".
 
 -> External Programs like g++ , java compiler , git cli , node cli should be included
 in environement variable so that shell can run them using the location given in PATH variable
