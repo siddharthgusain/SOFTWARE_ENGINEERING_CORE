@@ -8,9 +8,11 @@ it may easily be replaced with another similar application, for most operating s
 -> Some popular shells :-
 Window :- powershell
 Linux :- Bash(bourne again shell)
+MacOS:- Zsh
 
 -> Most operating system shells fall into one of two categories – 
-command-line and graphical.
+Command-line and Graphical.
+
 -> Command line shells provide a command-line interface (CLI) to the operating system,
 while graphical shells provide a graphical user interface (GUI).
 -> Other possibilities, although not so common, include voice user interface and 
@@ -40,8 +42,9 @@ restarted.
 (GRAPHICAL SHELLS)
 -> A graphical user interface (GUI) provides means for manipulating programs graphically,
 by allowing for operations such as opening, closing, moving and resizing windows,
-as well as switching focus between windows. Graphical shells may be included with
-desktop environments or come separately, even as a set of loosely coupled utilities.
+as well as switching focus between windows. 
+
+-> Graphical shells may be included with desktop environments or come separately, even as a set of loosely coupled utilities.
 
 -> Most graphical user interfaces develop the metaphor of an "electronic desktop",
 where data files are represented as if they were paper documents on a desk,
@@ -51,5 +54,5 @@ invoked by command names.
 NOTE:- Whether CUI or GUI both are softwares , that let users to interact with computers and access hardware.
 For developers CUI and GUI are not that usefull , system calls are usefull to access hardware.
 
--> If we think about it , CUI has some GUI with which we interact , but character user interface is not a 
-fully fleged GUI with icons , button and all other GUI elements.
+-> If we think about it , CUI has some GUI with which we interact , but "Character user interface is NOT a 
+fully fleged GUI with icons , button and all other GUI elements".
