@@ -1,6 +1,6 @@
 -> Your eye and brain retain a visual impression for about 1/30 of a second.
 (The exact time depends on the brightness of the image.) 
-This ability to retain an image is known as persistence of vision.
+This ability to retain an image is known as "PERSISTENCE OF VISION".
 
 ->  Persistence of vision is the optical phenomenon where the illusion of motion 
 is created because the brain interprets multiple still images as one. 
@@ -15,4 +15,5 @@ digital video.
 
 -> The frame rate is the number of images that a computer, video game console, 
 video player, or other device sends to the display every second. 
-Meanwhile, the refresh rate is how fast the display can actually show those frames.
+
+-> Meanwhile, the refresh rate is how fast the display can actually show those frames.
