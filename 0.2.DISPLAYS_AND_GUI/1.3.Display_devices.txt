@@ -1,7 +1,7 @@
 -> Display frame can be stored as 2-D matrix of pixels , also known as frame in terms of GPU 
 -> GPU the "ASIC" responsible for the frame computation and manipulating the pixels in the screen.
 -> GPU has its own video memory(VRAM) , also known as frame buffers.
--> GUI is actually frames which also recomputed very fast that it appears to be interactive.
+-> GUI is actually frames which is also recomputed very fast that it appears to be interactive.
 -> OUR EYES HAS PERESISTENCE OF VISION , IF THE FRAME MANIPULATION IS FASTER THAN THAT , THEN 
 IT APPEARS TO BE MOVING, LIKE VIDEOS,ANIMATION.
 -> CPU is slow for this manipulation thats why an ASIC is made that is GPU to compute frames and interact 
@@ -22,6 +22,5 @@ E.G:- TKINTER IN PYTHON , JAVA FRAMEWORKS ETC.
 -> EACH "GUI PROGRAM" HAS EVENT LOOP.
 
 -> AS GPU is contantly sending FRAME to display device, "REFRESH RATE OF DISPLAYS MATTERS A LOT".
-NOTE :- (The refresh rate of your display refers to how many times per second the display 
-is able to draw a new frame)
+NOTE :- (The refresh rate of your display refers to how many times per second the display is able to draw a new frame)
 
