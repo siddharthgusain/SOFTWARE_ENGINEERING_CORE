@@ -1,0 +1,20 @@
+-> Shell is another program that could be considered as part of operating system but can be easily replaced with other 
+shell softwares.
+
+Shells are mainly of two types :-
+1. command line
+2. Graphical
+
+-> Both are softwares that are part of operating system.
+
+-> Command line interface / shell is easier to implement as it takes character input from keyboard like input device and 
+runs corresponding command/file/program.
+
+-> E.g :- powershell , bash , Zsh
+
+> node index.js :- Here "node" is program that will be forked(fork()) by shell and "index.js" is the input to the node process.
+
+-> Graphical user interface are also softwares which are not part of operating system but are delivered with operating system as a bundle
+-> When Kernel is loaded into Memory(RAM) , it loades the GUI code of operating system.
+
+-> We will discuss various parts of GUI layer of operating system.

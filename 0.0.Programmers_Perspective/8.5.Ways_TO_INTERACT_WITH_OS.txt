@@ -15,6 +15,7 @@ Command-line and Graphical.
 
 -> Command line shells provide a command-line interface (CLI) to the operating system,
 while graphical shells provide a graphical user interface (GUI).
+
 -> Other possibilities, although not so common, include voice user interface and 
 various implementations of a text-based user interface (TUI) that are not CLI.
 The relative merits of CLI- and GUI-based shells are often debated.
