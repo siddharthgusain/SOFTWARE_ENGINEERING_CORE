@@ -20,6 +20,6 @@ to the screen behind the scenes.
 -> Browser itself is a complex software written in C++ which does a lot of abstraction to web developers.
 -> Understanding browser is must to understand where can we speed up the Web applications.
 
-RESOURCES:- https://www.baeldung.com/linux/gui
-
-https://stackoverflow.com/questions/2894943/how-does-a-gui-framework-work
+RESOURCES:- 
+1. https://www.baeldung.com/linux/gui
+2. https://stackoverflow.com/questions/2894943/how-does-a-gui-framework-work
