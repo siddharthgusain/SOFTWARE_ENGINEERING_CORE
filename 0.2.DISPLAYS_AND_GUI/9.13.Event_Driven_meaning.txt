@@ -1,10 +1,10 @@
--> All the programs that we write while solving algorithm questions are sequential programs that runs and 
+-> All the programs that we write while "SOLVING ALGORITHM QUESTIONS" are sequential programs that runs and 
 terminates after completion.
 
 -> Any GUI software is a software that is infinitely running (until user explicitly closes it) and user interacts with the
 GUI frames with "EVENTS" that could be from any I/O device like keyboard , mouse , network adaptor etc.
 
--> To run some code on this EVENTS , we as developer writes "CALLBACK FUNCTIONS".
+-> To run some code on happening of these "EVENTS" , we as developer writes "CALLBACK FUNCTIONS".
 
 -> In programming and software design, an event is an action or occurrence recognized by software, often originating 
 "ASYNCHRONOUSLY" from the external environment, that may be handled by the software. Computer events can be generated or 

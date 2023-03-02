@@ -2,15 +2,15 @@
 shell softwares.
 
 Shells are mainly of two types :-
-1. command line
-2. Graphical
+1. Command line Shell
+2. Graphical Shell
 
 -> Both are softwares that are part of operating system.
 
 -> Command line interface / shell is easier to implement as it takes character input from keyboard like input device and 
 runs corresponding command/file/program.
 
--> E.g :- powershell , bash , Zsh
+-> E.g :- powershell(Windows) , bash(Linux) , Zsh(MacOS)
 
 > node index.js :- Here "node" is program that will be forked(fork()) by shell and "index.js" is the input to the node process.
 

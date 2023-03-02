@@ -14,7 +14,7 @@ Consition for deadlock to occur:-
 3. Deadlock avoidance 
 State -> safe and unsafe State
 
-4. Deadlock detecttion :- Bankers algorithm
+4. Deadlock detection :- Bankers algorithm
 
 5. Deadlock recovery :- 
 -> Resources -> preemption or rollback
