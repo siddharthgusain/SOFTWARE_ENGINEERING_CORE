@@ -17,7 +17,7 @@ and server programs employ an application-layer protocol that has not been  open
 what goes in the code. But because the code does not implement  an  open  protocol,  other  independent  developers  
 will  not  be  able  to develop code that interoperates with the application.
 
--> That is why inmtegrating with these propritary application is hard if they dont use "open" protocols present in RFC
+-> That is why integrating with these "propritary application" is hard if they dont use "open" protocols present in RFC
 
 
 

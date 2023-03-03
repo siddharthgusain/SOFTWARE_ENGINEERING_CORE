@@ -3,12 +3,12 @@
 2. Peer to peer(P2P)
 
 CLIENT SERVER ARCHITECTURE :- 
--> In a client-server architecture, there is an always-on host, called the server,
+-> In a client-server architecture, there is an "ALWAYS-ON" host, called the server,
 which services requests from many other hosts, called clients
 -> Note that with  the  client-server  architecture,  clients  do  not  directly  communicate  with  each
 other. for example, in the Web application, two browsers do not directly communicate
 -> Another characteristic of the client-server architecture is that the server has a
-"fixed", well-known address, called an IP address 
+"FIXED", WELL KNOWN ADDRESS, called an "IP address" 
 
 ->  Because the server has a fixed, well-known address, and because the server is always on, a
 client can always contact the server by sending a packet to the server’s IP address.
@@ -16,9 +16,9 @@ Some of the better-known applications with a client-server architecture include 
 "Web, FTP, Telnet, and e-mail".
 
 -> Often in a client-server application, a "single-server host is incapable of keeping up
-with all the requests from clients that's why scaling of backend infrastruture comes into picture(load balancing etc)"
+with all the requests from clients that's why "SCALING OF BACKEND INFRASTUCTURE COMES INTO PICTURE(load balancing etc)"
 
--> In Client server , there is a centralization of data. As many clients are connecting to same server.
+-> In Client server , there is a "CENTRALIZATION OF DATA"". As many clients are connecting to same server.
 
 PEER TO PEER:- 
 -> In a P2P architecture, there is minimal (or no) reliance on dedicated servers in

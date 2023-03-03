@@ -13,7 +13,7 @@ URI is of two types :-
 information about it, these are Uniform Resource Names (URNs)
 
 Important Point to note:-
-1. The web technologies that use URIs are "NOT LIMITED TO WEB BROWSERS". 
+1. The web technologies that use URIs are "NOT LIMITED TO WEB BROWSERS" like database URI etc
 2. URIs are used to identify anything described using the Resource Description Framework (RDF).
 
 URI SYNTAX :-
@@ -22,7 +22,7 @@ URI SYNTAX :-
 -> authority = [userinfo "@"] host [":" port]
 -> Examples of popular schemes include http, https, ftp, mailto, file, data , irc , ws, wss. 
 -> URI schemes should be registered with the Internet Assigned Numbers Authority (IANA), 
-although "Non-registered schemes are used in practice" Like Any connection string that we use in databases is a non
+although "Non-registered schemes are used in practice" Like Any "connection string" that we use in databases is a non
 registered Scheme.
 
 ------------------------------------------------------------------------------

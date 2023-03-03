@@ -8,8 +8,7 @@ how the fields are delineated.
 messages.
 
 
-NOTE:- Some application-layer protocols are specified in RFCs and are therefore in the public
-domain.
+NOTE:- Some application-layer protocols are specified in RFCs and are therefore in the "PUBLIC DOMAIN".
 
 -> For example, the Web’s application-layer protocol, HTTP (the HyperText Transfer Protocol [RFC 2616]), 
 is available as an RFC. 

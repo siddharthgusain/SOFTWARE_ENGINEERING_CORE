@@ -6,6 +6,6 @@
 -> Subsequent requests and responses between the "SAME CLIENT and SERVER" can be sent over the same connection.
 
 -> Typically, the HTTP server closes a connection when it isn’t used for a certain time (a configurable timeout interval).
-Also known as TCP timer management algorithm(JCOBSON ALGORITHM).
+Also known as TCP timer management algorithm(JACOBSON ALGORITHM).
 
 -> The default mode of HTTP uses persistent connections with pipelining.
