@@ -1,7 +1,7 @@
 -> CPU has various components inside it .
 1. ALU AND DATA PATH UNIT(DATA BUS AND ADDRESS BUS)
 
-2. CACHE AND MMU(Memory Management Unit )
+2. CACHE AND MMU(Memory Management Unit)
 
 3. CONTROL UNIT(FOR READ and WRITE Signals)
 
