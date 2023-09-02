@@ -1,3 +1,5 @@
 1. https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ
 2. https://wiki.osdev.org/Main_Page
 3. OS:- https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw --> Write your own Operating System
+4. BUILD YOUR OWN FROM SCRATCH :- https://github.com/codecrafters-io/build-your-own-x
+5. https://github.com/hackclub/putting-the-you-in-cpu

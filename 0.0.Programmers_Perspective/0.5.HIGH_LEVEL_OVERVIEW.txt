@@ -1,9 +1,10 @@
 Modern Computers Have layered architecture to make things isolated and hidden from users, broadly
 it can be divided into 4 layers:- 
+
 1. Hardware Layer(Actual electronics devices)
 
 PROCESSOR:-
--> CPU(Multicore pipelined) +  Memory management unit (inside CPU)
+-> CPU(Multi Core Pipelined Processors) +  Memory management unit (inside CPU)
 -> GPU(Graphics/pixel processing)
 
 BUS : conduction lines carrying data(conducting tunnels in PCB) :-
@@ -14,13 +15,13 @@ BUS : conduction lines carrying data(conducting tunnels in PCB) :-
 MEMORY:- 
 (i) Volatile  
 -> Memory(RAM) 
--> ROM -> FOR small programs like bootloaders
+-> ROM -> FOR small programs like boot-loaders
 -> Cache memory(inside cpu)
 
 (ii) Non volatile
 -> DISK(HDD,SSD)
 
-(iii) External Storages
+(iii) External Storages(Non volatile)
 -> USB , SD CARD etc.
 
 I/0 DEVICES:-
@@ -37,7 +38,7 @@ OTHERS:-
 known as motherboard.
 
 2. System software layer(general purpose softwares) (System level softwares) -> For system developer
--> Operating system , loader , linker  , bootloaders
+-> Operating system , loader , linker  , boot-loaders
 -> Compilers
 -> Drivers specific for each device to be interfaced
 -> Graphics API pipeline(OPEN GL)
@@ -60,7 +61,7 @@ is very complex but it is hidden from developers they just need to declare the U
 the application layer is already built by big companies and is being maintained by them . E.g compiler , assembler
 operating system, driver.
 
--> At whatever abstraction we are working , its important to know the abstraction atleast one level down.
+-> At whatever abstraction we are working , its important to know the abstraction at least one level down.
 For e.g :- 
 1. For web developers , we work on top of browsers , so its important to understand how browser works.
 2. If we are making native desktop application, its important to know Operating system 

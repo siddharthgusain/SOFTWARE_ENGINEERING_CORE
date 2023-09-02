@@ -10,12 +10,12 @@ KEYBOARD
 1. Bits to say key is being Released
 2. Bits for the actual key 
 
--> Keyboard also has Clock to synchronise the data sending.
+-> Keyboard also has Clock to synchronize the data sending.
 -> It gets interfaced with CPU with some connector e.g PS/2 , SPI , USB
--> Keyboard has its own chip to known as controller.
+-> Keyboard has its own chip known as controller.
 
 If a keyboard is a separate peripheral system unit (such as in most modern desktop computers), the keyboard
-controller is not directly attached to the keys but receives scancodes from a microcontroller embedded in 
+controller is not directly attached to the keys but receives scan codes from a micro-controller embedded in 
 the keyboard via some kind of serial interface. In this case, the controller usually also controls the 
 keyboard's LEDs by sending data back to the keyboard through the wire.
 
@@ -26,10 +26,11 @@ is RUN that is generally part of operating system.
 -> Keyboard buffers have long been used in command-line processing. As a user enters a command, they see it
 echoed on their terminal and can edit it before it is processed by the computer.
 
--> ALL other components are interfaced with some interface or PORT standardised by IEEE.
+-> ALL other components are interfaced with some interface or PORT standardized by IEEE.
 -> ALL the ISR(interrupt service routines) are also written according to these specs . Generally ,there are
 drivers shipped with each hardware component which is actually a small program which is written using
-IEEE specs and is called by operating system to receive data or send data to corresponding component
+IEEE specs and is called by operating system to receive data or send data to corresponding hardware component.
+
 E.g Keyboard driver, Mouse driver, GPU driver , Joystick driver etc
 
 -> NOTE:- All these interfacing is already done inside motherboard by companies like Apple, Dell, HP etc.

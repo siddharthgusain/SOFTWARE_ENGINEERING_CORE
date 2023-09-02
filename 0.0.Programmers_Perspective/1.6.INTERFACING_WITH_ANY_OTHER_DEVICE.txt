@@ -11,3 +11,4 @@ of software that the CPU executes when it has to deal with the device.
 2. Installing the device driver software. 
 
 -> Without the device driver the actual physical device would be useless, since the CPU would not be able to communicate with it.
+-> Whoever company is building device will also make the driver for the hardware(firmware) , so that it can communicate with OS
