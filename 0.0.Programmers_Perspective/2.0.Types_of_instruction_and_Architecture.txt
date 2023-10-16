@@ -1,7 +1,7 @@
 -> Program =  data + instructions
 -> Instructions depends on instruction set architecture of a particular CPU (e.g x86)
 
-Instructions can be broadly categorised into :-
+Instructions can be broadly categorized into :-
 1. Data transfer (from/to RAM or HDD)
 2. Data manipulation
 -> Logical operation
@@ -17,7 +17,7 @@ by softwares like compiler and assembler.
 
 Instruction set architecture(ISA) can be of many types:-
 1. CISC(Complex instructions set computer) -> General purpose Computer chips(x86  intel cpu)
-2. RISC(Reduced Instrcution set computer) -> Mobile , ASIC etc. (ARM)
+2. RISC(Reduced Instruction set computer) -> Mobile , ASIC etc. (ARM)
 3. Minimal instruction set computers (MISC)
 4. Very long instruction word (VLIW)
 5. Explicitly parallel instruction computing (EPIC)
@@ -27,7 +27,7 @@ Instruction set architecture(ISA) can be of many types:-
 At hardware level parallelism can be achieved with :-
 1. Pipelining(Multiple Execution unit/Stages in one CPU)[Instruction level parallelism]
 2. Multicore processors (Multiple core in single CPU) --> personal Computers
-3. Multiple processors(Multiple processor) --> Server machines
+3. Multiple processors with MultiCores --> Server machines
 
 At software level parallelism can be viewed as:-
 1. Multiprocessing(fork())

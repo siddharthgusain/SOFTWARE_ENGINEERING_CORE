@@ -12,11 +12,11 @@ C ERA
 
 C++ ERA
 -> It came as an successor to C with OOPS syntax inside it for production level softwares.
--> It became very propular for Operating system and Game engine development.
+-> It became very popular for Operating system and Game engine development.
 
 NEED FOR GARBAGE COLLECTOR LANGUAGES AND PORTABILITY
 JAVA ERA
--> Java was introducted in which garbage collection was written , to let developer focus on there logic
+-> Java was introduced in which garbage collection was written , to let developer focus on there logic
 and not care about memory management that much.
 -> Also The source code was compiled to intermediate code known as bytecode which is not the assembly code
 , it is architecture independent representation of java source code

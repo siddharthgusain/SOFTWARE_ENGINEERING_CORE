@@ -7,14 +7,14 @@ PROCESSOR:-
 -> CPU(Multi Core Pipelined Processors) +  Memory management unit (inside CPU)
 -> GPU(Graphics/pixel processing)
 
-BUS : conduction lines carrying data(conducting tunnels in PCB) :-
+BUS : conduction lines carrying data/Digital Signals (conducting tunnels in PCB) :-
 -> Data Bus 
 -> Address Bus
 -> Control bus
 
 MEMORY:- 
 (i) Volatile  
--> Memory(RAM) 
+-> Memory(RAM) :- Where All Application Programs as well as Operating system code is present
 -> ROM -> FOR small programs like boot-loaders
 -> Cache memory(inside cpu)
 
@@ -25,7 +25,7 @@ MEMORY:-
 -> USB , SD CARD etc.
 
 I/0 DEVICES:-
--> INPUT DEVICES:- Keyboard ,mouse any other device, microphone
+-> INPUT DEVICES:- Keyboard ,mouse any other device, microphone, Camera
 -> OUTPUT devices:- Display , Speaker, any other output device
 
 NETWORK DEVICE  
