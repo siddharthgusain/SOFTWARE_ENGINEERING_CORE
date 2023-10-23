@@ -19,7 +19,7 @@ in memory.This process is known as "dynamic linking" and is performed by a progr
 
 -> Shared libraries are “shared” in two different ways. First, in any given file
 system, there is exactly one .so file for a particular library. The code and data in
-this .sofile are shared by all of the executable object files that reference the library,
+this .so file are shared by all of the executable object files that reference the library,
 as opposed to the contents of static libraries, which are copied and embedded in
 the executables that reference them. Second, a single copy of the .text section of
 a shared library in memory can be shared by different running processes. 

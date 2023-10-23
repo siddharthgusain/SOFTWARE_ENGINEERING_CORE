@@ -1,12 +1,12 @@
 WHAT is PolyGlot programming ?
 -> Polyglot means more than one type of language.
 -> In fairly large projects the source code contains multiple languages.
--> E.g Chrome is build with C++, javscript , html etc
+-> E.g Chrome is build with C++, javascript , html etc
 -> Some parts are written in different languages in most of the big projects.
 
 But how a project can contain source code with different languages ?
 -> On a high level thinking , each source code is finally compiled or interpreted into machine 
-instruction set , it doesn't matter if it is written in different lanaguages. 
+instruction set , it doesn't matter if it is written in different languages. 
 -> Building different parts of a large project with different languages is highly complex procedure
 but in the end everything is compiled into machine code.
 
