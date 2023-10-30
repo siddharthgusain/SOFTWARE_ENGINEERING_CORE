@@ -19,4 +19,4 @@ If it takes 10 milliseconds to decide to execute a process for 100 milliseconds,
 then 10/(100 + 10) = 9 percent of the CPU is being used (wasted) simply for scheduling the work.
 
 3. Middle Term Scheduler
--> For swapping btw RAM and harddisk.
+-> For swapping btw RAM and hard-disk.

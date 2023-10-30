@@ -1,8 +1,8 @@
-What and why synchronisation?
-* Indepenedent processes :- completed isolated process
+What and why synchronization?
+* Independent processes :- completed isolated process
 * Cooperative processes :- processes sharing resources(either hardware and software)
 
-Independent processes dont need synchronisation , but coopertive processes do .
+Independent processes don't need synchronization , but cooperative processes do .
 
 E.g , Browser application is multi-process application which shares resources and also shares data btw each other 
 like browser process shares events and data with renderer process(Blink) in chrome.

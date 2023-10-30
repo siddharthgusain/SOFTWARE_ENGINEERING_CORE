@@ -8,13 +8,13 @@ Problems during early days:-
 -> During the early days , computer chips are used to run only one program at a time.(Batch processing)
 -> People used to write very simple programs which are run one at a time in RAM.
 -> So each program has full access to computer hardware , like monitor , RAM , HDD etc.
--> As time passed , people realise they can execute more than one program in RAM.
+-> As time passed , people realize they can execute more than one program in RAM.
 -> RAM size , cpu speed keeps on increasing every year , so there is a need to utilize RAM properly
 -> Now To access hardware , same code will be written in all the programs 
--> Synchronisation between programs was necessary to get desired result,so Synchronisation routines should
+-> Synchronization between programs was necessary to get desired result,so Synchronization routines should
 be written in all the programs that are being executed in RAM.
 
-Now , there was a need of priviledged software which can access hardware directly ,and can provide
+Now , there was a need of privileged software which can access hardware directly ,and can provide
 interface to other application programs to use the hardware , this gives rise to Operating system.
 
 Because of operating system , Softwares gets divided into two categories :-
@@ -27,7 +27,7 @@ Solution:-
 Some of the OS functionality:-
 1. Process Management 
     -> Process scheduling
-    -> Process Synchronisation
+    -> Process Synchronization
 2. Deadlock handling
 3. Memory(RAM) Management
 4. Cache Management
@@ -36,7 +36,7 @@ Some of the OS functionality:-
 7. Security
 
 -> Early days operating system were small and less complex , currently OS does most of the hardware interaction
-and is highly optimised to do so.
+and is highly optimized to do so.
 
 SYSTEM Programming VS APPLICATION Programming:- 
 
@@ -62,7 +62,7 @@ to make application software which solves some specific problem and make use of 
 -> The WHOLE IDEA of computing is based on abstraction , so that each generation can work on abstraction without
 worrying about the history of hardwares and system softwares.
 
-FIRSTLY WE WILL FOCUS MORE ON UNIPROCESSOR OR SINGLE CORE PROCESSOR,SO MACHINE INSTRUCTION OF ONLY ONE PROCESS
+FIRSTLY WE WILL FOCUS MORE ON UNI-PROCESSOR OR SINGLE CORE PROCESSOR,SO MACHINE INSTRUCTION OF ONLY ONE PROCESS
 WILL BE RUNNING IN CPU AT A TIME.(THERE WILL BE CONTEXT SWITCHING HANDLED BY OS).
 
 Why Making an operating system is hard??? 
