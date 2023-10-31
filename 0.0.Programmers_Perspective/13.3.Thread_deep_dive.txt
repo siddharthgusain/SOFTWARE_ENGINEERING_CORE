@@ -1,6 +1,6 @@
 -> CPU can have single or multiple cores.
 -> Now if a process is single threaded then doesn't matter if we run it on single core or multiple core CPU
-, it can do one thing at a time , so concurrency or actual parallelism is not possible
+, it can do one thing at a time , so "concurrency or actual parallelism is not possible"
 -> Another way is a process forks a new process and run some functions into it (Done by modern browser).
 -> Forking is heavy and CPU intensive procedure as well as memory intensive(remember memory is always scarce)
 

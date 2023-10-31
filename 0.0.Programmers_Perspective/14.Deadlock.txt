@@ -1,5 +1,5 @@
 Deadlock is known as infinite waiting.
-Consition for deadlock to occur:-
+Conditions for deadlock to occur:-
 1. Mutual exclusion
 2. Hold and wait 
 3. No preemption
