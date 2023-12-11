@@ -1,6 +1,6 @@
 By memory we mean RAM (Random access memory).
--> In early days of computing when opearting system were not there, each program can easily access memory by simple
-assembly instructionn like Mov R1, MEM[1000]. But Opearting system abstracted the access of Main memory by writing 
+-> In early days of computing when operating system were not there, each program can easily access memory by simple
+assembly instruction like Mov R1, MEM[1000]. But Operating system abstracted the access of Main memory by writing 
 all the code to manage memory in its kernel and let application program access memory by system calls.
 
 -> Memory management also gives protection from invalid memory access and isolation btw two or more programs.

@@ -68,3 +68,5 @@ For e.g :-
 3. If we are building operating system , its important to know the hardware architecture(COA) and device Drivers
 4. If we are working on device drivers , its important to know architecture of the device for which
 we are making the driver , example GPU driver , USB driver , joystick driver etc.
+
+-> Always Stick to First principles to understand any layer of abstraction
