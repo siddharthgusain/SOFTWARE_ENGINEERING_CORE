@@ -1,4 +1,4 @@
-1. Dont try to build already existing solution from scratch 
+1. Don't try to build already existing solution from scratch 
 2. Try to use already existing solution like software tools and frameworks(Git,devtools,react,webpack etc).
 3. Learn in terms of abstraction as most of the solution/softwares had been built before , 
    work on top of it to remain relevant to current time.
@@ -33,7 +33,7 @@ WHAT TO LEARN IN SOFTWARE DESIGN:-
 WHAT TO LEARN:-
 1. DS + ALGOS + MATH -> For basic logic building and optimization 
 2. OOPS + Design pattern -> For software architecture, best coding practices , building your own libraries 
-and complex softwares with large sourcecode
+and complex softwares with large source code
 3. Core(COA,OS,Compiler, CN , DBMS) -> To understand system and abstraction, so that any new abstraction is 
 easy too understand and how it works behind the scenes
 4. System design -> Aggregating All above together to build scalable softwares

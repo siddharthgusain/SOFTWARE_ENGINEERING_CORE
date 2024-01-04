@@ -10,9 +10,9 @@ and low level task is taken care by system softwares like Operating systems
 but , all heavy lifiting is done BY OS and other system software and device drivers.
 
 -> Operating system is like a program which contains common functionality that is required 
-by every program like file system access, memory management ,Interprocess communication , networking
+by every program like file system access, memory management ,Inter-process communication , networking
 so these functionality are bundled inside OS code to provide reusability and we as a programmer 
-dont need to write code for these things we can simply use system calls provided by Os
+don't need to write code for these things we can simply use system calls provided by Os
 which helps in accessing hardware securely.
 
 -> Operating system exposes an Interface in form of functions also known as
@@ -20,7 +20,7 @@ which helps in accessing hardware securely.
 like HDD, RAM , MONITOR , GPU , CPU etc.
 
 -> But keep in mind in the end everything , website , app are all processes
-or sequence of bits/intructions that CPU will understand
+or sequence of bits/instructions that CPU will understand
 
 -> Network related work is also taken care by OS ,we mostly implement Application layer
 

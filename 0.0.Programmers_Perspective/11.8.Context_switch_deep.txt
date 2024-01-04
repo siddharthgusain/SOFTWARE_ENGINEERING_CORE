@@ -9,5 +9,4 @@ into RAM inside data structure known as PCB(process control block).
 
 -> Context-switch time is pure overhead, because the system does no useful work while switching
 -> Switching speed varies from machine to machine, depending on the memory speed, the number of registers that must
-be copied, and the existence of special instructions (such as a single instruction
-to load or store all registers). A typical speed is a few milliseconds
+be copied, and the existence of special instructions (such as a single instruction to load or store all registers). A typical speed is a few milliseconds

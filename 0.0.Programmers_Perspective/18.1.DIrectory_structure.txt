@@ -6,11 +6,11 @@ The Filesystem Hierarchy Standard (FHS) defines the structure of file systems on
 and other UNIX-like operating systems. However, Linux file systems also
 contain some directories that aren’t yet defined by the standard.
 
-Window Partition structure is different , each drive is considered as a spearate harddisk,
+Window Partition structure is different , each drive is considered as a separate hard-disk,
 usually C drive has the bootable code and other drives contain data .
 
 In linux , everything is under root "/" directory.
 /boot directory contains bootable code.
 /home generally contains data files (non-bootable code).
-other subdirectories difeerent useful files required by Linux OS.
+other subdirectories different useful files required by Linux OS.
 

@@ -13,7 +13,7 @@ external device like , Keyboard , mouse , network card etc.
 location in RAM which contains "interrupt vector table"(IVT) .
 
 -> Now how CPU gets these address ?
-Generally CPU has a register interrupt vector register which stores this address and this table can be modified
+Generally CPU has a register "Interrupt Vector Register" which stores this address and this table can be modified
 by privileged softwares like operating system.
 On system reset, the vector table is fixed at address 0x00000000. Privileged software can write to the VTOR (vector table offset register)
 to relocate the vector table start address to a different memory location, in the range 0x00000080 to 0x3FFFFF80
