@@ -1,5 +1,6 @@
-1. BITMAPPED IMAGE
--> The term "digital image" usually refers to raster images or bitmapped images 
+1. BIT-MAPPED IMAGE
+
+-> The term "digital image" usually refers to raster images or bit-mapped images 
 -> Raster images have a finite set of digital values, called picture elements or pixels.
 -> The digital image contains a fixed number of rows and columns of pixels. Pixels are the smallest 
 individual element in an image, holding antiquated values that represent the brightness 
@@ -26,6 +27,8 @@ e.g triangle,rectangle , square , circle , cube etc.
 NOTE:- Raster files are particularly good for portraying color depth, as each pixel can be a different color. 
 And there are more pixels that can be unique colors than vectors that can be unique colors. 
 This makes raster file formats good for editing digital photographs.
+
+-> Vector File format are good for design files(Adobe photo-shop), logos , PDF
 
 -> Since the information of each pixel is present in raster images , images with great details
 and depth is considered good for raster like images of environment/photography etc.

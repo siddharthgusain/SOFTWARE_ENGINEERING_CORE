@@ -21,6 +21,6 @@ FRAMEWORK TO BUILD GUI BASED PROGRAM.
 E.G:- TKINTER IN PYTHON , JAVA FRAMEWORKS ETC.
 -> EACH "GUI PROGRAM" HAS EVENT LOOP.
 
--> AS GPU is contantly sending FRAME to display device, "REFRESH RATE OF DISPLAYS MATTERS A LOT".
+-> AS GPU is constantly sending FRAME to display device, "REFRESH RATE OF DISPLAYS MATTERS A LOT".
 NOTE :- (The refresh rate of your display refers to how many times per second the display is able to draw a new frame)
 

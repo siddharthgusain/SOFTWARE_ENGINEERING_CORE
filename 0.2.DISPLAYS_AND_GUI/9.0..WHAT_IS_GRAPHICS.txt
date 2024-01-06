@@ -4,11 +4,11 @@
 really fast.
 -> CPU was not designed to do so.
 -> Rise of GUI programming ,gaming , and displays gives rise to GPU.
--> Just like to acess CPU we take help of an abstaction i.e OS and to access GPU and sending it 
+-> Just like to access CPU we take help of an abstraction i.e OS and to access GPU and sending it 
 instructions,we have an abstraction layer of graphics libraries like :-
-1. OPENGL
+1. OPEN-GL
 2. VULKAN
-3. DIRECT3D(DIRECTX)(WINDOWS)
+3. DIRECT3D(DIRECT-X)(WINDOWS)
 4. METAL(IOS , MACOS)
 
 -> ALL THESE ARE API WHICH CONTAINS BUNCH OF COMMONLY USED FUNCTION TO ACCESS GPU AND DRAW SOME SHAPES AND 
