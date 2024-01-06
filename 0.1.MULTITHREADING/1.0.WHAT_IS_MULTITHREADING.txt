@@ -4,18 +4,21 @@ called threads.
 -> User level threads are managed by User library and Kernel level threads are managed by OS.
 -> Without multithreading , programs are executed in "serial order", i.e All the instructions
 in the program is "Executed in the same order as they appear in Program".
--> With multithreading , Each function can be made indepedent to each other(indepedent execution unit).
+-> With multithreading , Each function can be made independent to each other(independent execution unit).
 -> Threads allow multiple functions to execute "concurrently".
--> Multithreading can give rise to some issues of synchronisation.
+-> Multithreading can give rise to some issues of synchronization.
 
 CONCURRENCY VS PARALLELISM
 -> CONCURRENCY is when two or more tasks can start, run, and complete in overlapping time periods.
 It doesn't necessarily mean they'll ever both be running at the same instant. 
 For example, multitasking on a single-core machine.
 
--> PARALLELISM is when tasks literally run at the same time, e.g., on a multicore processor.
+-> PARALLELISM is when tasks literally run at the same time, e.g., on a multi-core processor.
 -> PARALLELISM is subset of CONCURRENCY
 
-Note:- Even is multithreading , context switching happens so fast that it appears as parrallel
-execution, anything that happens in "less than 300ms" is appeared to us as parrallel execution 
+Note:- Even is multithreading , context switching happens so fast that it appears as parallel
+execution, anything that happens in "less than 300ms" is appeared to us as parallel execution 
 even if it is one after another.
+
+-> Developers are allowed to created multithreaded softwares because of CPU designs + OS + Threading library
+-> API is provided to developers , their job is to write correct concurrent code.
