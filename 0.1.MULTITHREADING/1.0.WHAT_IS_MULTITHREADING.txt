@@ -22,3 +22,4 @@ even if it is one after another.
 
 -> Developers are allowed to created multithreaded softwares because of CPU designs + OS + Threading library
 -> API is provided to developers , their job is to write correct concurrent code.
+-> Writing a concurrent program (MultiProcess using fork or Multithreaded) is hard as we need to understand data dependencies
