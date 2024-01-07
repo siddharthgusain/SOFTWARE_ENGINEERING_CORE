@@ -1,5 +1,6 @@
 RESOURCES:- 
 1. https://www.baeldung.com/linux/gui
 2. https://stackoverflow.com/questions/2894943/how-does-a-gui-framework-work
-3. https://jichu4n.com/tag/technical-notes/
-4. https://youtu.be/vWXrFetSH8w?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> GUI with C++
+3. https://stackoverflow.com/questions/41137700/how-does-an-operating-system-draw-windows-on-the-screen -> Abstractions in computer graphics
+4. https://jichu4n.com/tag/technical-notes/
+5. https://youtu.be/vWXrFetSH8w?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb --> GUI with C++

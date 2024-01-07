@@ -28,12 +28,12 @@ NOTE:- Raster files are particularly good for portraying color depth, as each pi
 And there are more pixels that can be unique colors than vectors that can be unique colors. 
 This makes raster file formats good for editing digital photographs.
 
--> Vector File format are good for design files(Adobe photo-shop), logos , PDF
+-> Vector File format are good for design files(Adobe photo-shop), logos , PDF, SVG
 
 -> Since the information of each pixel is present in raster images , images with great details
 and depth is considered good for raster like images of environment/photography etc.
 
 ->NOTE:- The main difference between a vector image and a raster image is the way it is built.
 A vector image is made up of 2D points that are connected by straight lines or curves, 
-so the resulting image tends to be a strong geometric shape like a square, rectangle, 
+so the resulting image tends to be a "strong geometric shape" like a square, rectangle, 
 pentagon, oval or triangle, or some mix of all of them.
