@@ -5,7 +5,7 @@ ICMP stands for Internet control message protocol.
 ERROR HANDLING:-
 1. TTL exceed
 2. Source quench
-3. Paramter Problem
+3. Parameter Problem
 4. Destination unreachable.
 5. Source redirect
 

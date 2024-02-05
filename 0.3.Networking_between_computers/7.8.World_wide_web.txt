@@ -1,7 +1,7 @@
 -> Internet started as a small project at CERN
 -> Sending Documents over internet was the thing because of which networking started
 -> 1980 to early 2000 was time of simple web Documents
--> 2000 started .com era social websites, ecommerce , Video streaming etc.
+-> 2000 started .com era social websites, e-commerce , Video streaming etc.
 -> In 1994, CERN and M.I.T. signed an agreement setting up the "W3C" (World
 Wide Web Consortium), an organization devoted to further developing the Web,
 standardizing protocols, and encouraging interoperability between sites

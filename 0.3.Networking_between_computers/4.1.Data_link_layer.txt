@@ -12,4 +12,4 @@ Variable size framing is done using:-
 1. Byte stuffing
 2. Bit stuffing
 
-Second most important role of DLL is flow and error control.
+Second most important role of DLL is flow and error control using CRC , checksum and other methods.

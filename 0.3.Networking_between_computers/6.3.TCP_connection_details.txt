@@ -1,5 +1,5 @@
 -> TCP is "connection oriented" which means "some resources like RAM ,CPU etc are reserved ar both sender
-and reciever machine.
+and receiver machine.
 
 -> TCP keeps track of each byte also known as stream oriented
 

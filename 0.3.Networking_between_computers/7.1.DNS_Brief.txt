@@ -3,5 +3,5 @@
 request and reply involved
 -> DNS works at port "53" i.e destination port number in UDP header should be 53.
 -> It is in-band
--> It uses UDP so it is connectionless
+-> It uses UDP so it is connection-less
 -> It is stateless as well.

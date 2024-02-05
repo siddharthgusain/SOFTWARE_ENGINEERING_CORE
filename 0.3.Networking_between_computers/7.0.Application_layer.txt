@@ -1,8 +1,10 @@
 -> Application layer is what a user interacts with 
 -> Browsers , Mail clients like Thunderbird are all example of application layer
--> Some of the most imporatnt application layer protocols are:-
-1. DNS
-2. HTTP/HTTPS
-3. SMTP/POP3/IMAP
-4. FTP
-5. WS/WSS(Websockets) 
+-> Some of the most important application layer protocols are:-
+1. DNS -> Domain Name Resolution
+2. HTTP/HTTPS -> Client Server
+3. SMTP/POP3/IMAP -> Mail
+4. FTP -> File transfer
+5. WS/WSS(Web-sockets) -> Full duplex connection
+
+-> These are standard protocols , any application can create its own application layer protocol.

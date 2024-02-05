@@ -1,5 +1,5 @@
 -> Network layer is also known as thick layer and is the most complex layer in implementation
 -> Most of the network layer implementation is part of operating system network stack
--> Routing algorithms are implmented here.
+-> Routing algorithms are implemented here.
 -> Fragmentation is done here.
 -> Logical addresses are used for routing
