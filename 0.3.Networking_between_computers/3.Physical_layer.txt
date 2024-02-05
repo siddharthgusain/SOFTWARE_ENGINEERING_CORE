@@ -11,7 +11,7 @@ UnGuided(Wireless):-
 4. Satellite
 
 
-Switching : Creating temperory connection btw devices
+Switching : Creating temporary connection btw devices
 Type:-
 1. Circuit Switching
 -> Telephones systems

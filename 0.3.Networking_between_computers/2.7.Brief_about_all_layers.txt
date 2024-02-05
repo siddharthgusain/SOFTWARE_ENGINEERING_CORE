@@ -4,15 +4,17 @@ We will follow bottom-up approach:-
 -> Mostly deals with signals and encoding
 -> Responsible of movement of individual bits in terms of signal.
 -> Physical topology is defined here.
--> Various types of digital encoding like :- manchester , differential menchester
--> Part of Network interface card
+-> Various types of digital encoding like :- Manchester , Differential manchester
+-> Part of Network interface card(NIC) And Actual Medium used(Ethernet Wire , Wifi , Fibre)
+-> Build By Electrical Engineers
 
 2. Data link Layer
--> Framing is done here.
+-> Framing is done here, Frames are nothing stream of bits which have particular format defined by IEEE.
 -> Part of Network interface card chip
 -> Error control at the frame level
 -> Physical addressing by adding headers(Mac address)
 -> Hop to hop delivery
+-> Build By Electronics Engineer
 
 3. Network Layer
 -> Software Layer
@@ -21,6 +23,7 @@ We will follow bottom-up approach:-
 -> IP address takes place here(Logical addressing)
 -> Routing takes place here
 -> Fragmentation takes place here
+-> Build By System Software Engineers(OS developers or Firmware Developers)
 
 4. Transport Layer
 -> Software Layer
@@ -29,15 +32,19 @@ We will follow bottom-up approach:-
 -> Process port number is added here.
 -> Segmentation and reassembly takes place here
 -> Connection control , error control
+-> Build By System Software Engineers
 
 5. Session Layer
--> Dialog control and synchronisation
+-> Dialog control and synchronization
 -> Part of application software like chrome.
+-> Build By Application Engineers
 
 6. Presentation Layer
 -> Translation, compression , encryption 
 -> Part of application software like chrome.
+-> Build By Application Engineers
 
-7. application Layer
--> User interface and user directly intracts with this
--> Part of application software
+7. Application Layer
+-> User interface and user directly interacts with this
+-> Part of application software like chrome, Outlook , Mails
+-> Build By Application Engineers

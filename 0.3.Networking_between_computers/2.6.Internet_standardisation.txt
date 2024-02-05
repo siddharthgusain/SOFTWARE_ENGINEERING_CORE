@@ -1,10 +1,10 @@
 -> To make things consistent across computer systems , network protocols and other infrastructure whether software or hardware
-is standardised by some organisation including IEEE
+is standardized by some organization including IEEE
 
 -> E.g :- IANA, ISO , IEEE
--> Every Network hardware is standardised by organisation like IEEE.
--> Network stack and protocols are standardised by ISO and IANA
--> Then there is W3C which standarised world wide web protocols and standards for modern browsers.
+-> Every Network hardware is standardized by organization like IEEE.
+-> Network stack and protocols are standardized by ISO and IANA
+-> Then there is W3C which standardized world wide web protocols and standards for modern browsers.
 
 -> Sending a packet from one system to another required large amount of abstraction in terms of hardware and software.
 We Will try to cover both of them in each layer of TCP/IP model.
