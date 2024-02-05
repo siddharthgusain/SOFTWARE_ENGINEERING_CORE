@@ -5,8 +5,8 @@ how the programs, running in multiple end systems, communicate with each other.
 communicate. 
 
 -> A process can be thought of as a program that is running within an end system. When processes are running 
-on the same end system, they can communicate with each other with interprocess communication, using rules that are
-governed by the end system’s operating system(Shared Memory and Message Passing)
+on the same end system, they can communicate with each other with inter-process communication, using rules that are
+governed by the end system’s operating system(Shared Memory and Message Passing).
 
 -> "But networking  we are not particularly interested in how processes in the same host communicate, but instead in
 how processes running on different hosts (with potentially different operating systems) communicate".

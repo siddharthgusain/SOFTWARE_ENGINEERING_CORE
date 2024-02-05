@@ -4,7 +4,7 @@ designate an invalid, unknown, or non applicable target
 Uses Include:
 
 1. The address a host claims as its own when it has not yet been assigned an address. 
-Such as when sending the initial DHCPDISCOVER packet when using DHCP.
+Such as when sending the initial DHCP DISCOVER packet when using DHCP.
 
 2. The address a host assigns to itself when an address request via DHCP has failed,
 provided the host’s IP stack supports this. This usage has been replaced with the 

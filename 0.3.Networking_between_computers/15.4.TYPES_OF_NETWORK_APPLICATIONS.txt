@@ -17,7 +17,10 @@ and server programs employ an application-layer protocol that has not been  open
 what goes in the code. But because the code does not implement  an  open  protocol,  other  independent  developers  
 will  not  be  able  to develop code that interoperates with the application.
 
--> That is why integrating with these "propritary application" is hard if they dont use "open" protocols present in RFC
+-> Example , To connect with Mongodb , the library/driver is also developed by mongodb developers , 
+as they know which application layer protocol they are using and can write code to parse mongodb connection URL
+
+-> That is why integrating with these "proprietary application" is hard if they don't use "open" protocols present in RFC
 
 
 

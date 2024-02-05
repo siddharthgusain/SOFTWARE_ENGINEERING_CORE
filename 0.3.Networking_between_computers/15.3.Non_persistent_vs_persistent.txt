@@ -1,4 +1,4 @@
--> NON PERSITENT CONNECTION (HTTP 1.0)
+-> NON PERSISTENT CONNECTION (HTTP 1.0)
 -> If a web page has 4 image references , 4 different TCP connection will be made to get those images
 
 -> PERSISTENT CONNECTION (HTTP 1.1 ONWARDS)
