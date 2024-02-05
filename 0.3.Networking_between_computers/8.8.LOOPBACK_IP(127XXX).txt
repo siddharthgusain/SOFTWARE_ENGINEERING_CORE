@@ -7,7 +7,7 @@ The same convention is defined for computers that support IPv6 addressing using 
 Establishing a connection using the address 127.0.0.1 is the most common practice; 
 however, using any IP address in the range of 127…* will function in the same or a similar manner. 
 The loopback construct gives a computer or device capable of networking the capability to validate
- or establish the IP stack on the machine.
+or establish the IP stack on the machine.
 
 127.0.0.1 – What Are its Uses and Why is it Important?
 
@@ -20,8 +20,9 @@ should ever appear on any network anywhere.
 
 If it is Whole Class A, What is the Point of Other Arbitrary Values for the Last Three Octets?
 
-The purpose of the loopback range is testing of the TCP/IP protocol implementation on a host.
+-> The purpose of the loopback range is testing of the TCP/IP protocol implementation on a host.
 Since the lower layers are short-circuited, sending to a loopback address
 allows the higher layers (IP and above) to be effectively tested without
 the chance of problems at the lower layers manifesting themselves. 
-127.0.0.1 is the address most commonly used for testing purposes.
+
+-> 127.0.0.1 is the address most commonly used for testing purposes.
