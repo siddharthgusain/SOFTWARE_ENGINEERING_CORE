@@ -30,8 +30,8 @@ Examples URL:-
 1. https://en.wikipedia.org/wiki/Uniform_Resource_Identifier --> HTTPS url
 2. redis://replica.fyndx0-common-redis.l0msme.aps1.cache.amazonaws.com:6379/6?decode_responses=true&is_elasticache=true&ssl=true&tls=true --> redis connection URI
 3. chrome://bookmarks/ -> Chrome URL
-4. file:///D:/SID%20BACKUP/Personal%20%20Documents/FYND/Offer%20Letter%20-Siddharth%20Gusain_signed.pdf -> local file
-5. git://github.com/user/project-name.git -> github ssh URI
+4. file:///D:/SID%20BACKUP/Personal%20%20Documents/FYND/Offer%20Letter%20-Siddharth%20Gusain_signed.pdf -> local file url
+5. git://github.com/user/project-name.git -> github ssh URL
 6. mailto:jsmith@example.com?subject=A%20Test&body=My%20idea%20is%3A%20%0A --> mailto used in anchor tag
 7. wss://<hierarchical part> -> web sockets URI
 

@@ -32,7 +32,7 @@ Because the peers communicate without passing through a dedicated server, the ar
 is called peer-to-peer. Many of today’s most popular and traffic-intensive applications are based on P2P
 architectures.
 
--> EXAMPLE :- BITTORRENT , Bitcoin (WEB 3.0)
+-> EXAMPLE :- BITTORRENT , Blockchain (WEB 3.0)
 
 -> THere's no single server in peer to peer, decentralization concept comes from here
 
