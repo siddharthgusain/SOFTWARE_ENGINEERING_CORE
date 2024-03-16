@@ -25,7 +25,7 @@ Things to keep in mind while learning software development:-
 5. Read Other people code(open source) to understand project architecture and programming best practices.
 
 WHAT TO LEARN IN SOFTWARE DESIGN:-
-1. How to organise multiple files and folder , where to write which part of source code.
+1. How to organize multiple files and folder , where to write which part of source code.
 2. Whether to use functional or object oriented software design.
 3. How to write source code in a way that files and folder are decoupled and easily maintainable and scalable.
 4. Understanding the build process to write the folder and file structure carefully
