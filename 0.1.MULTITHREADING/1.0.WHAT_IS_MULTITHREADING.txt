@@ -21,5 +21,13 @@ execution, anything that happens in "less than 300ms" is appeared to us as paral
 even if it is one after another.
 
 -> Developers are allowed to created multithreaded softwares because of CPU designs + OS + Threading library
--> API is provided to developers , their job is to write correct concurrent code.
+-> API is provided to developers , their job is to write correct concurrent code with avoid "RACE CONDITION"
 -> Writing a concurrent program (MultiProcess using fork or Multithreaded) is hard as we need to understand data dependencies
+
+What are the differences in multithreaded executable and single threaded executable?
+- Multithreaded means within a program there could be multiple execution units/functions that can be run independently
+that is not sequentially.
+- So operating system software should know that a executable of a application program has multiple execution units
+- To differentiate : executable format should contain extra sections/information for single threaded and multithreaded application is different.
+- In the End , software we write will be converted to binary executable -> And OS should have support for threads as well 
+as the underlying computer architecture.
