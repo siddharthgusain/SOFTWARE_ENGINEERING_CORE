@@ -23,6 +23,7 @@ even if it is one after another.
 -> Developers are allowed to created multithreaded softwares because of CPU designs + OS + Threading library
 -> API is provided to developers , their job is to write correct concurrent code with avoid "RACE CONDITION"
 -> Writing a concurrent program (MultiProcess using fork or Multithreaded) is hard as we need to understand data dependencies
+-> Global Data Variable is something that should be handled carefully
 
 What are the differences in multithreaded executable and single threaded executable?
 - Multithreaded means within a program there could be multiple execution units/functions that can be run independently
