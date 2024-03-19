@@ -5,7 +5,7 @@ class Student
     int marks;
 
 public:
-    Student(int marks); // Parametrized contructor declaration
+    Student(int marks); // Parametrized constructor declaration
     int get_marks();
 };
 

@@ -1,8 +1,8 @@
 #include <iostream>
 
 class B;
-/* forward declartion for class B as c++ compiler compiles Top down , if it sees any undefinded
-idenfier , it will throw error
+/* forward declaration for class B as c++ compiler compiles Top down , if it sees any undefined
+identifier , it will throw error
 */
 class A
 {

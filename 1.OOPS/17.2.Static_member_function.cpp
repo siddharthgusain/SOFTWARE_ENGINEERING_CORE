@@ -1,11 +1,11 @@
 #include <iostream>
 
-class Static
+class StaticExample
 {
     static int count;
 
 public:
-    Static()
+    StaticExample()
     {
         count++;
     }
@@ -16,11 +16,11 @@ public:
     }
 };
 
-int Static::count = 10;
+int StaticExample::count = 10;
 
 int main()
 {
-    Static s;
-    std::cout << Static::getCount(); // calling static function
+    StaticExample s;
+    std::cout << StaticExample::getCount(); // calling static function
     return 0;
 }

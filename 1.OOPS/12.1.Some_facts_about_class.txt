@@ -1,8 +1,8 @@
 -> class declaration is similar to structure
 -> by Default if no "access specifier"(private/protected/public) is specified,
-then all members of class are private, but in structure they are public
+then all members of class are "private", but in structure they are "public"
 -> variables inside class are called "data members" 
--> functions inside class are callded "member function"
+-> functions inside class are called "member function"
 -> SOME CONCEPTS OF OOPS :- 
 1. Encapsulation
 2. Inheritance
@@ -14,6 +14,6 @@ WHY BING DATA AND FUNCTIONS TOGETHER ?
 -> In large code base ,global variables can cause a lot of bugs
 -> For scalability designing things in object oriented can solve a lot of problems
 -> All the real things around us can be simulated in computers in form of objects
--> Inheritance leads to resability of code 
--> varibles outside class can be accesses by any functions and produce bugs in 
+-> Inheritance leads to reusability of code 
+-> variables outside class can be accesses by any functions and produce bugs in 
 production, in class we can define the accessibility of variables.

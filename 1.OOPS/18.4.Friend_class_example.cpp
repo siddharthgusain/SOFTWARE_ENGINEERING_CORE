@@ -17,7 +17,7 @@ class B
 public:
     void display(A obj)
     {
-        std::cout << obj.private_variable; // accesing private variable of class A object
+        std::cout << obj.private_variable; // accessing private variable of class A object
     }
 };
 

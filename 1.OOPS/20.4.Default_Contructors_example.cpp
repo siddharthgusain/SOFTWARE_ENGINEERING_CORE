@@ -5,7 +5,7 @@ class Student
     int marks;
 
 public:
-    Student(); // default contructor declaration
+    Student(); // default constructor declaration
     int get_marks();
 };
 
@@ -22,7 +22,7 @@ int Student::get_marks()
 
 int main()
 {
-    Student s1;                  // default contructor is called
+    Student s1;                  // default constructor is called
     std::cout << s1.get_marks(); // output : 0
     return 0;
 }
