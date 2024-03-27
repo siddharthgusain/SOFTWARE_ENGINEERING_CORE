@@ -4,6 +4,6 @@ is created (this is done by compiler though);
 -> If Parent class only have default constructor , its not mandatory for child class to 
 have constructor
 -> But in case parent class have parameterized constructor , then derived class should have constructor 
-which pass the argument to parent class constructor;(Like in react we call "super()" from our class)
+which pass the argument to parent class constructor;(Like in react we call "super(props)" from our class)
 
 -> If we create a child class object -> first Parent class constructor is called then child class

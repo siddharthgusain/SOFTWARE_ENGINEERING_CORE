@@ -68,5 +68,5 @@ int main()
 /*
 NOTE:- student1 object memory space has all four variables (roll_number,marks1,marks2,total_marks)
 Where these variables are accessible (whether directly by "object" or by "member function") is specified
-by access specifier i.e (private, protected , public)
+by access specifier i.e (private, protected , public) -> It Only for Compiler to make final executable
 */

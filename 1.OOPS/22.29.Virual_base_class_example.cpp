@@ -33,5 +33,5 @@ int main()
 
 /* Note:- virtual inheritance increases the size of object created by Child ,
 this over head is information needed to avoid duplication generally virtual pointers
-We will talk aboutt virtual table , virtual pointers in next section
+We will talk about virtual table , virtual pointers in next section
 */
