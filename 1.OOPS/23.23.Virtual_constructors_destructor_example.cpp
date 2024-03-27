@@ -19,7 +19,7 @@ class Derived : public Base
 public:
     Derived() // constructor can't be virtual
     {
-        std::cout << "Derived Contructor" << std::endl;
+        std::cout << "Derived Constructor" << std::endl;
     }
 
     ~Derived()
