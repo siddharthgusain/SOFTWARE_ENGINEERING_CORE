@@ -1,9 +1,9 @@
-1. Overloading -> compile time polymorphism 
-   Overriding -> runtime polymorphism
+1. Overloading -> Compile time polymorphism 
+   Overriding -> Runtime polymorphism
 
 2. Any class having "at least one pure virtual function" is called "abstract class"
 3. Abstract class can have pure virtual functions or normal functions as well.
-4. Any abstract class which contains "only pure virtual functions" is called "interface"
+4. Any abstract class which contains "only pure virtual functions" is called "INTERFACE"
 5. So , interface is subset of abstract classes
 6. Interface are just kind of templates which provides declaration not definition
 , these classes are meant to be derived and implemented by the child class only

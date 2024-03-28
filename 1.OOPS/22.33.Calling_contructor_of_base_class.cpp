@@ -34,7 +34,7 @@ int main()
 }
 
 /* NOTE:- there is no "super" keyword in c++ like in java , so somehow we need to call base class
-constructor fo that c++ has different syntax
--> super keyword is not there to avoid deadly diamond problem that arises as ambiguity in multiple inheritance
--> In Java there is no support for multiple inheritance
+constructor for that c++ has different syntax
+-> super keyword is not there in C++ to avoid deadly diamond problem that arises as ambiguity in multiple inheritance
+-> In Java there is no support for multiple inheritance, so super keyword can be used
 */

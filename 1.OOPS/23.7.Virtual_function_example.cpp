@@ -43,3 +43,8 @@ int main()
     d.show();    // derived show() is called
     return 0;
 }
+
+/*
+-> So Problems only comes when we assign address of Derived Obj to Base class Type Pointer
+-> In that case the behaviour expected by programmer is not seen because of missing virtual functions
+*/

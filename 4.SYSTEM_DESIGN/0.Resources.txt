@@ -65,3 +65,25 @@
 https://www.linkedin.com/posts/akshat-batra-807ab5125_system-design-notes-activity-6987402577151713280-oLGn/?utm_source=share&utm_medium=member_android
 
 https://www.youtube.com/@AsliEngineering/videos
+
+Learn three things:
+1. LLD (Understand Inheritance vs Association in depth here)
+2. HLD 
+3. UML Class Diagram : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
+
+
+Systems:
+1. Food Delivery Apps
+2. Cab Booking 
+3. Google calendar
+4. Google Maps
+5. Parking System
+6. Payment Apps
+7. Dating Apps
+8. Flight/Hotel Booking
+9. Movie ticket Booking
+10.Social Media 
+11. instagram
+12. Google Drive
+13. Email Service
+14. Messaging Services

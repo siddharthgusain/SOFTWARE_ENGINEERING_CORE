@@ -5,7 +5,7 @@ class Base
 public:
     Base()
     {
-        std::cout << "Base Contructor" << std::endl;
+        std::cout << "Base Constructor" << std::endl;
     }
 
     virtual ~Base()
