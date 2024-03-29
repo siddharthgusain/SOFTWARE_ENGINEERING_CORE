@@ -7,8 +7,8 @@ being fundamentally altered by object-oriented programming.
 set of member functions for arithmetic operations on a user-defined data type.
 
 => Programmer B likes the Distance class but thinks it could be improved by using signed 
-distances. The solution is to create a new class, like DistSign in the ENGLEN example, that 
-is derived from Distance but incorporates the extensions necessary to implement signed distances.
+distances. The solution is to create a new class, like DistSign, that is derived from Distance 
+but incorporates the extensions necessary to implement signed distances.
 
 => Programmers C and D then write applications that use the DistSign class.
 Programmer B may not have access to the source code for the Distance member functions,
@@ -28,6 +28,6 @@ somewhere in between.
 at the same time more complex.
 
 E.g:- -> React is a tool , WEBApps are application
--> Android OS and libraries are general software tools , actual android app are applications that are 
+-> Android OS and libraries/framework are general software tools , actual android app are applications that are 
 specific for some problem.
 -> Nodejs is a tool , actual backend services are specific applications
