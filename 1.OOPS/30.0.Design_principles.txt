@@ -1,4 +1,4 @@
--> As the name susggest design principles are set of way to write flexible and maintainable code
+-> As the name suggest design principles are set of way to write flexible and maintainable code
 that is very important for large enterprise softwares having millions of lines of code.
 
 Some of the principles that we should know are :-
@@ -7,4 +7,4 @@ Some of the principles that we should know are :-
 3. DRY
 4. YAGNI
 
-Note:- Always design or write code keeping future possiblilities 
+Note:- Always design or write code keeping future possibilities 

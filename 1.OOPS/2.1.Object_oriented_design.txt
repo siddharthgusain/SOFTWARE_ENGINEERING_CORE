@@ -1,10 +1,10 @@
-1. Inorder to understand design patterns or any other object oriented library,
+1. In-order to understand design patterns or any other object oriented library,
 its important to understand Object oriented design
 2. Object oriented design is way to simulating real world entities into objects
 that can be used by computers to process and do something.
 3. Binding data and operations together is crucial in object oriented programming
 4. "CLASSES" are like a small program in itself with contains "data" and instruction/operations 
-on the data binded together.
+on the data bind together.
 5. With classes its easier to maintain code as we know which function is part of which object/class
 6. All these syntax are introduced to make bug free software as they help the developer
 during development and compile time.
