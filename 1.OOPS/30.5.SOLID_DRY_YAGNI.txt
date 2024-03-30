@@ -1,7 +1,7 @@
 S:- Single Responsibiltiy Principle
 O:- Open Closed Principle
 L: Liskov Substitution Principle
-I: Interface seggregation Principle
+I: Interface segregation Principle
 D: Dependency Inversion
 
 
@@ -10,3 +10,6 @@ D: Dependency Inversion
 
 DRY :- Do not repeat yourself(Avoid redundancy)
 YAGNI:- You aren't gonna need it
+
+Resource: https://khalilstemmler.com/articles/solid-principles/solid-typescript/ -> Very Good Article 
+https://www.youtube.com/playlist?list=PLTCrU9sGybuq3Jz51xfT3mA2BIVNDHwIV -> Very Good Video

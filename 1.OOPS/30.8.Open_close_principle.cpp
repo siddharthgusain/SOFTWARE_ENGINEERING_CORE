@@ -82,5 +82,5 @@ public:
 };
 
 // class should be able to extention but not for modification
-// it is very usefull if a code is already live and tested then new classes can be extended
+// it is very useful if a code is already live and tested then new classes can be extended
 // from already tested classes

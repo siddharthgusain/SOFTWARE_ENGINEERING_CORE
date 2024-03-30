@@ -69,7 +69,7 @@ https://www.youtube.com/@AsliEngineering/videos
 Learn three things:
 1. LLD (Understand Inheritance vs Association in depth here)
 2. HLD 
-3. UML Class Diagram : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
+3. Learn UML Class Diagram in depth : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
 
 
 Systems:
