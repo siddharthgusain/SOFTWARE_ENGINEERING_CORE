@@ -1,6 +1,6 @@
 -> Designing object oriented software is hard.
--> Designining Reusable object oriented software is even harder.E.g:- redux , react,any GUI library
--> Understaning design patterns will let us become framework/library CREATOR rather than only 
+-> Designing Reusable object oriented software is even harder.E.g:- redux , react,any GUI library
+-> Understanding design patterns will let us become framework/library CREATOR rather than only 
 CONSUMER.
 -> Consequently, we'll find recurring patterns of classes and communicating objects in many 
 object-oriented systems.
@@ -11,7 +11,7 @@ problem or system.
 
 
 1. Architectural Styles
-Architectural styles tell us, in very broad strokes, how to organise our code. 
+Architectural styles tell us, in very broad strokes, how to organize our code. 
 It’s the highest level of granularity and it specifies layers, high-level modules of the application 
 and how those modules and layers interact with each other, the relations between them. 
 Examples of Architectural Styles:
@@ -45,7 +45,7 @@ Examples of Architectural Patterns:
 
 
 3. Design Patterns
-Design Patterns differ from Architectural Patterns in their scope, they are more localised, 
+Design Patterns differ from Architectural Patterns in their scope, they are more localized, 
 they have less impact on the code base, they impact a specific section of the code base, 
 for example:
 

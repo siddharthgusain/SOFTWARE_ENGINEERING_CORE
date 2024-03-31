@@ -1,1 +1,0 @@
-// class should depend on interface rather than concrete classes

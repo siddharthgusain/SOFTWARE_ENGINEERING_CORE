@@ -11,5 +11,7 @@ D: Dependency Inversion
 DRY :- Do not repeat yourself(Avoid redundancy)
 YAGNI:- You aren't gonna need it
 
-Resource: https://khalilstemmler.com/articles/solid-principles/solid-typescript/ -> Very Good Article 
-https://www.youtube.com/playlist?list=PLTCrU9sGybuq3Jz51xfT3mA2BIVNDHwIV -> Very Good Video
+Resources
+1.https://khalilstemmler.com/articles/solid-principles/solid-typescript/ -> Very Good Article 
+2. https://www.baeldung.com/solid-principles
+2. https://www.youtube.com/playlist?list=PLTCrU9sGybuq3Jz51xfT3mA2BIVNDHwIV -> Very Good Video
