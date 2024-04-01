@@ -9,7 +9,7 @@ elegant, and ultimately reusable.
 -> Design patterns are way of organizing classes and objects , to design or solve a particular 
 problem or system.
 
- Design Patterns
+Design Patterns
 Design Patterns differ from Architectural Patterns in their scope, they are more localized, 
 they have less impact on the code base, they impact a specific section of the code base, 
 for example:
