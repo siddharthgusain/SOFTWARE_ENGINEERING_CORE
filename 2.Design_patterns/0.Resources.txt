@@ -1,4 +1,5 @@
-1. https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
-2. https://www.youtube.com/playlist?list=PLliXPok7ZonlZJuAN0hvUnf5ovFepjxU0
-3. https://www.youtube.com/playlist?list=PLF206E906175C7E07
-4. https://www.youtube.com/playlist?list=PLT2NrqLzZng3YMek58eVZVkBiW3NyVSef
+1. https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc -> Christopher Okhravi
+2. https://www.youtube.com/playlist?list=PLliXPok7ZonlZJuAN0hvUnf5ovFepjxU0 -> Keerti Purswani
+3. https://www.youtube.com/playlist?list=PLF206E906175C7E07 -> Derek Banas
+4. https://www.youtube.com/playlist?list=PLT2NrqLzZng3YMek58eVZVkBiW3NyVSef -> Design Patterns by Microsoft Visual Studio
+5. https://www.youtube.com/playlist?list=PLTCrU9sGybuo3HIJUKusfhB_m7QucuDTQ -> Sudo Code
