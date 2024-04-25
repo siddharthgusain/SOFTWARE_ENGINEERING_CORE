@@ -7,7 +7,7 @@ System software like OS , compilers are responsible for accessing hardware
 and low level task is taken care by system softwares like Operating systems
 
 -> The end product that is app or website is generating revenue thats why developers are in demand.
-but , all heavy lifiting is done BY OS and other system software and device drivers.
+but , all heavy lifting is done BY OS and other system software and device drivers.
 
 -> Operating system is like a program which contains common functionality that is required 
 by every program like file system access, memory management ,Inter-process communication , networking
