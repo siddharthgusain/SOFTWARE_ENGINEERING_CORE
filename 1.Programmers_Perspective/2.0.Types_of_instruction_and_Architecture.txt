@@ -1,4 +1,4 @@
--> Program =  data + instructions
+-> Program =  Data + instructions
 -> Instructions depends on instruction set architecture of a particular CPU (e.g x86)
 
 Instructions can be broadly categorized into :-

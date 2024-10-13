@@ -26,5 +26,5 @@ computer architecture.
 
 AN EXAMPLE:- 
 1. Machine code :- 10110000 01100001
-2. Hex repesentation: B0 61
+2. Hex representation: B0 61
 3. Assembly :- MOV AL, 61h
