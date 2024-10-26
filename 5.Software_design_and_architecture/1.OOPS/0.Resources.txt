@@ -1,12 +1,1 @@
 1. https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/ 
-
-TODO
-
-1. Compose object of one class in another -> Check what is the generated assembly
-What is the Instruction set added by compiler for Composition
-
--> Check the same for inheritance as well
-
-2.Create a program with class and same program with functional programming to 
-understand OOPS in more depth and its advantages while writing 
-code as a developer
