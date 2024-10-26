@@ -1,31 +1,88 @@
 #include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
 
-class A
+class TransactionHistory; // Forward declaration
+
+class BankAccount
 {
-    int private_variable;
+private:
+    string owner;
+    double balance;
 
 public:
-    A()
+    BankAccount(string ownerName, double initialBalance) : owner(ownerName), balance(initialBalance) {}
+
+    void displayBalance() const
     {
-        this->private_variable = 0;
+        cout << "Owner: " << owner << ", Balance: $" << balance << endl;
     }
-    friend class B; // B is friend of A so B can access "private variable" of class A
+
+    // Declare TransactionHistory as a friend class
+    friend class TransactionHistory;
 };
 
-class B
+class TransactionHistory
 {
+private:
+    vector<string> transactions;
+
 public:
-    void display(A obj)
+    // Record a deposit
+    void recordDeposit(BankAccount &account, double amount)
     {
-        std::cout << obj.private_variable; // accessing private variable of class A object
+        account.balance += amount;
+        transactions.push_back("Deposit of $" + to_string(amount) + " to " + account.owner);
+        cout << "Deposited $" << amount << " to " << account.owner << "'s account.\n";
+    }
+
+    // Record a withdrawal
+    bool recordWithdrawal(BankAccount &account, double amount)
+    {
+        if (account.balance >= amount)
+        {
+            account.balance -= amount;
+            transactions.push_back("Withdrawal of $" + to_string(amount) + " from " + account.owner);
+            cout << "Withdrew $" << amount << " from " << account.owner << "'s account.\n";
+            return true;
+        }
+        else
+        {
+            cout << "Insufficient balance for withdrawal from " << account.owner << "'s account.\n";
+            return false;
+        }
+    }
+
+    // Display all transactions
+    void showTransactions() const
+    {
+        cout << "Transaction History:\n";
+        for (const auto &transaction : transactions)
+        {
+            cout << "- " << transaction << endl;
+        }
     }
 };
 
 int main()
 {
-    A A_class_obj;
-    B B_class_obj;
+    BankAccount account("Alice", 1000.0);
+    TransactionHistory history;
 
-    B_class_obj.display(A_class_obj);
+    // Display initial balance
+    account.displayBalance();
+
+    // Perform transactions
+    history.recordDeposit(account, 200.0);
+    history.recordWithdrawal(account, 150.0);
+    history.recordWithdrawal(account, 1200.0); // Insufficient balance example
+
+    // Display final balance
+    account.displayBalance();
+
+    // Display all transactions
+    history.showTransactions();
+
     return 0;
 }

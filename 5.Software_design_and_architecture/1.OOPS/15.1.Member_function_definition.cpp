@@ -1,6 +1,6 @@
 #include <iostream>
 
-class rectangle
+class Rectangle
 {
     float length;
     float breadth;
@@ -13,14 +13,14 @@ public:
     }
 };
 
-float rectangle::get_length()
+float Rectangle::get_length()
 {
     return this->length;
 }
 
 int main()
 {
-    rectangle r1;
+    Rectangle r1;
     r1.set_length(10);
     std::cout << r1.get_length();
     return 0;
