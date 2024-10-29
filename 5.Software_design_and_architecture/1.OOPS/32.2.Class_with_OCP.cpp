@@ -2,7 +2,7 @@
 #include <string>
 #include <memory>
 
-// Abstract base class for Discount
+// Interface class for Discount
 class Discount
 {
 public:
