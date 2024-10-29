@@ -39,6 +39,7 @@ public:
         {
             return new Bike();
         }
+        // Any More Type can be added only at one place
     }
 };
 
@@ -54,3 +55,4 @@ int main()
 }
 
 // Factory class will Hide this logic in itself
+// Client Doesn't know how objects are created
