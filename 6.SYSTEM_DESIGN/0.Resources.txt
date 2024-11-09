@@ -68,6 +68,10 @@ https://www.linkedin.com/posts/akshat-batra-807ab5125_system-design-notes-activi
 
 https://www.youtube.com/@AsliEngineering/videos
 
+https://github.com/ashishps1/awesome-system-design-resources
+
+https://github.com/ashishps1/awesome-low-level-design
+
 Learn three things:
 1. LLD (Understand Inheritance vs Association in depth here)
 2. HLD 
@@ -89,3 +93,4 @@ Systems:
 12. Google Drive
 13. Email Service
 14. Messaging Services
+15. Streaming Service(Netflix/Hotstar)
