@@ -59,8 +59,8 @@ public:
 class GUIFactory
 {
 public:
-    virtual std::unique_ptr<Button> createButton() const = 0;
-    virtual std::unique_ptr<Checkbox> createCheckbox() const = 0;
+    virtual Button *createButton() const = 0;
+    virtual Checkbox *createCheckbox() const = 0;
     virtual ~GUIFactory() = default;
 };
 
@@ -68,14 +68,14 @@ public:
 class WindowsFactory : public GUIFactory
 {
 public:
-    std::unique_ptr<Button> createButton() const override
+    WindowsButton *createButton() const override
     {
-        return std::make_unique<WindowsButton>();
+        return new WindowsButton();
     }
 
-    std::unique_ptr<Checkbox> createCheckbox() const override
+    WindowsCheckbox *createCheckbox() const override
     {
-        return std::make_unique<WindowsCheckbox>();
+        return new WindowsCheckbox();
     }
 };
 
@@ -83,14 +83,14 @@ public:
 class MacFactory : public GUIFactory
 {
 public:
-    std::unique_ptr<Button> createButton() const override
+    MacButton *createButton() const override
     {
-        return std::make_unique<MacButton>();
+        return new MacButton();
     }
 
-    std::unique_ptr<Checkbox> createCheckbox() const override
+    MacCheckbox *createCheckbox() const override
     {
-        return std::make_unique<MacCheckbox>();
+        return new MacCheckbox();
     }
 };
 
@@ -98,15 +98,15 @@ public:
 class PlatformFactory
 {
 public:
-    static std::unique_ptr<GUIFactory> createFactory(const std::string &osType)
+    static GUIFactory *createFactory(const std::string &osType)
     {
         if (osType == "Windows")
         {
-            return std::make_unique<WindowsFactory>();
+            return new WindowsFactory();
         }
         else if (osType == "Mac")
         {
-            return std::make_unique<MacFactory>();
+            return new MacFactory();
         }
         else
         {
@@ -130,7 +130,7 @@ int main()
     std::cin >> osType;
 
     // Use PlatformFactory to get the appropriate GUIFactory
-    auto factory = PlatformFactory::createFactory(osType);
+    GUIFactory *factory = PlatformFactory::createFactory(osType);
 
     if (factory)
     {

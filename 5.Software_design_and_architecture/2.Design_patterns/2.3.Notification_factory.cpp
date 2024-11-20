@@ -38,19 +38,19 @@ public:
 class NotificationFactory
 {
 public:
-    static std::unique_ptr<Notification> createNotification(const std::string &type)
+    static Notification *createNotification(const std::string &type)
     {
         if (type == "Email")
         {
-            return std::make_unique<EmailNotification>();
+            return new EmailNotification();
         }
         else if (type == "SMS")
         {
-            return std::make_unique<SMSNotification>();
+            return new SMSNotification();
         }
         else if (type == "Push")
         {
-            return std::make_unique<PushNotification>();
+            return new PushNotification();
         }
         else
         {
@@ -63,7 +63,7 @@ public:
 int main()
 {
     // Create an Email notification
-    std::unique_ptr<Notification> notification = NotificationFactory::createNotification("Email");
+    Notification *notification = NotificationFactory::createNotification("Email");
     if (notification)
     {
         notification->sendNotification("Hello via Email!");

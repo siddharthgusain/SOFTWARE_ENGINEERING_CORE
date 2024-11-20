@@ -64,6 +64,9 @@
     "xtr1common": "cpp",
     "xutility": "cpp",
     "fstream": "cpp",
-    "mutex": "cpp"
+    "mutex": "cpp",
+    "ratio": "cpp",
+    "stop_token": "cpp",
+    "thread": "cpp"
   }
 }
