@@ -29,7 +29,7 @@ public:
 class MediaPlayerAdapter : public MediaPlayer
 {
 private:
-    std::unique_ptr<AdvancedMediaPlayer> advancedMediaPlayer;
+    std::unique_ptr<AdvancedMediaPlayer> advancedMediaPlayer; // Object Composition
 
 public:
     MediaPlayerAdapter()
