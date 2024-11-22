@@ -85,7 +85,7 @@ public:
 class HomeTheaterFacade
 {
 private:
-    DVDPlayer dvdPlayer;
+    DVDPlayer dvdPlayer; // Aggregation not composition
     Projector projector;
     SoundSystem soundSystem;
     Lights lights;
