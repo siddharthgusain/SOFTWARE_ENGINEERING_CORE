@@ -1,3 +1,37 @@
+Learn three things:
+1. LLD (Understand Inheritance vs Association in depth here)
+2. HLD 
+3. Learn UML Class Diagram in depth : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
+
+Systems:
+1. Parking System
+2. Vending Machine
+3. Elevator Design
+4. LRU cache
+5. CHess games 
+6. Snake and ladders
+7. Splitwise
+8. Logging
+9. Hotel Management System
+1. Food Delivery Apps
+2. Cab Booking 
+3. Google calendar
+4. Google Maps
+6. Payment Apps
+7. Dating Apps
+8. Flight/Hotel Booking
+9. Movie ticket Booking
+10. Social Media 
+11. instagram
+12. Google Drive
+13. Email Service
+14. Messaging Services
+15. Streaming Service(Netflix/Hotstar)
+
+https://github.com/ashishps1/awesome-system-design-resources
+
+https://github.com/ashishps1/awesome-low-level-design
+
 1. https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up ->Engineering Blogs
 
 2. https://www.linkedin.com/posts/livesamarthgupta_github-docker-instagram-activity-6947453249104805889-Triy/?utm_source=linkedin_share&utm_medium=android_app
@@ -67,30 +101,3 @@
 https://www.linkedin.com/posts/akshat-batra-807ab5125_system-design-notes-activity-6987402577151713280-oLGn/?utm_source=share&utm_medium=member_android
 
 https://www.youtube.com/@AsliEngineering/videos
-
-https://github.com/ashishps1/awesome-system-design-resources
-
-https://github.com/ashishps1/awesome-low-level-design
-
-Learn three things:
-1. LLD (Understand Inheritance vs Association in depth here)
-2. HLD 
-3. Learn UML Class Diagram in depth : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
-
-
-Systems:
-1. Food Delivery Apps
-2. Cab Booking 
-3. Google calendar
-4. Google Maps
-5. Parking System
-6. Payment Apps
-7. Dating Apps
-8. Flight/Hotel Booking
-9. Movie ticket Booking
-10. Social Media 
-11. instagram
-12. Google Drive
-13. Email Service
-14. Messaging Services
-15. Streaming Service(Netflix/Hotstar)
