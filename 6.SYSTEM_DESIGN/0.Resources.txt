@@ -1,7 +1,4 @@
-Learn three things:
-1. LLD (Understand Inheritance vs Association in depth here)
-2. HLD 
-3. Learn UML Class Diagram in depth : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
+1. Learn UML Class Diagram in depth : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
 
 Systems:
 1. Parking System
@@ -10,7 +7,7 @@ Systems:
 4. LRU cache
 5. CHess games 
 6. Snake and ladders
-7. Splitwise
+7. Split-wise
 8. Logging
 9. Hotel Management System
 1. Food Delivery Apps
