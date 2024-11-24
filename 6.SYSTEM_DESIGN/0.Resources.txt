@@ -1,4 +1,17 @@
-1. Learn UML Class Diagram in depth : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
+0. https://github.com/ashishps1/awesome-system-design-resources -> HLD starting
+0. https://github.com/donnemartin/system-design-primer -> Details Primer Course
+0. https://github.com/shashank88/system_design -> Starting Point
+1. https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview -> System Design Articles
+2. https://www.youtube.com/c/SuccessinTech/videos -> System Design Videos
+3. https://www.youtube.com/c/ExponentTV/videos -> Mock Interview Videos 
+4. https://www.youtube.com/c/codeKarle/videos  -> System Design Videos
+5. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr -> Tech blogs
+6. https://www.youtube.com/c/TechDummiesNarendraL/playlists -> Videos
+7. https://www.youtube.com/c/sudoCODE/videos
+8. https://www.youtube.com/@tusharroy2525 -> Tushar Roy System Design
+
+1..https://github.com/ashishps1/awesome-low-level-design -> LLD starting
+2. UML: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
 
 Systems:
 1. Parking System
@@ -24,77 +37,3 @@ Systems:
 13. Email Service
 14. Messaging Services
 15. Streaming Service(Netflix/Hotstar)
-
-https://github.com/ashishps1/awesome-system-design-resources
-
-https://github.com/ashishps1/awesome-low-level-design
-
-1. https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up ->Engineering Blogs
-
-2. https://www.linkedin.com/posts/livesamarthgupta_github-docker-instagram-activity-6947453249104805889-Triy/?utm_source=linkedin_share&utm_medium=android_app
-
-2. https://www.patterns.dev/posts/classic-design-patterns/
-
-3. https://github.com/donnemartin/system-design-primer
-
-4. https://github.com/shashank88/system_design
-
-5. https://www.coursera.org/specializations/software-design-architecture
-
-6. https://www.hiredintech.com/classrooms/system-design/lesson/60
-
-7. https://www.youtube.com/playlist?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2
-
-8. https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
-
-9. https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka
-
-10. https://www.youtube.com/c/sudoCODE/videos
-
-11. https://www.youtube.com/c/TechDummiesNarendraL/playlists
-
-12. https://docs.google.com/document/d/1BC3FbKiVzH2BXPdQLVzOWKr9x2iL_mVw43aUJGiV9sE/edit
-
-13. https://www.youtube.com/playlist?list=PLBtMh4xfa9FHSMKKgPZcPfoPbZmND5PC-
-
-14. https://www.educative.io/courses/grokking-the-system-design-interview
-
-15. https://leetcode.com/discuss/interview-question/system-design/457451/Resources-for-System-Design
-
-16. https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
-
-17. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr
-
-18. https://www.youtube.com/c/SystemDesignInterview/videos
-
-19. https://www.youtube.com/c/codeKarle/videos
-
-20. https://www.youtube.com/c/ExponentTV/videos 
-
-21. https://www.youtube.com/c/ThinkSoftware/videos
-
-22. https://www.youtube.com/c/SuccessinTech/videos
-
-23. https://www.linkedin.com/newsletters/asli-engineering-6921728898456072192/
-
-24. https://github.com/InterviewReady/system-design-resources
-
-25. https://www.linkedin.com/posts/aishwaryanevrekar_zoom-developer-blog-medium-activity-6958363954356076545-HNpu/?utm_source=linkedin_share&utm_medium=android_app
-
-26. https://www.linkedin.com/posts/pratham-kohli_system-design-the-big-archive-ugcPost-6963707715911057408-uXxG/?utm_source=linkedin_share&utm_medium=android_app
-
-27. https://github.com/karanpratapsingh/system-design
-
-28. https://www.youtube.com/c/ConceptCoding/videos
-
-29. https://www.linkedin.com/posts/ansh-_backend-systemdesign-medium-activity-6976408543654494208-gpnm/?utm_source=share&utm_medium=member_android
-
-30. https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
-
-31. https://www.linkedin.com/posts/akmishra2901_systemdesign-notes-ugcPost-6993833447622406145-h_b_/?utm_source=share&utm_medium=member_android
-
-32. https://www.linkedin.com/posts/akmishra2901_textbook-for-system-design-preparation-ugcPost-6996727525099913216-laqb?utm_source=share&utm_medium=member_desktop
-
-https://www.linkedin.com/posts/akshat-batra-807ab5125_system-design-notes-activity-6987402577151713280-oLGn/?utm_source=share&utm_medium=member_android
-
-https://www.youtube.com/@AsliEngineering/videos
