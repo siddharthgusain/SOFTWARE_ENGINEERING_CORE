@@ -1,16 +1,21 @@
-0. https://github.com/ashishps1/awesome-system-design-resources -> HLD starting
-0. https://github.com/donnemartin/system-design-primer -> Details Primer Course
-0. https://github.com/shashank88/system_design -> Starting Point
-1. https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview -> System Design Articles
-2. https://www.youtube.com/c/SuccessinTech/videos -> System Design Videos
-3. https://www.youtube.com/c/ExponentTV/videos -> Mock Interview Videos 
-4. https://www.youtube.com/c/codeKarle/videos  -> System Design Videos
-5. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr -> Tech blogs
-6. https://www.youtube.com/c/TechDummiesNarendraL/playlists -> Videos
-7. https://www.youtube.com/c/sudoCODE/videos
-8. https://www.youtube.com/@tusharroy2525 -> Tushar Roy System Design
+1. https://github.com/ashishps1/awesome-system-design-resources -> HLD starting
+2. https://github.com/shashank88/system_design -> Starting Point
+3. https://github.com/donnemartin/system-design-primer -> Details Primer Course
+4. https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/ -> Striver
 
-1..https://github.com/ashishps1/awesome-low-level-design -> LLD starting
+Videos
+1. https://www.youtube.com/c/SuccessinTech/videos -> System Design Videos
+2. https://www.youtube.com/c/codeKarle/videos  -> System Design Videos
+3. https://www.youtube.com/c/TechDummiesNarendraL/playlists -> Videos
+4. https://www.youtube.com/c/sudoCODE/videos
+5. https://www.youtube.com/@tusharroy2525 -> Tushar Roy System Design
+6. https://www.youtube.com/c/ExponentTV/videos -> Mock Interview Videos 
+
+Articles
+1. https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview -> System Design Articles
+2. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr -> Tech blogs
+
+1. https://github.com/ashishps1/awesome-low-level-design -> LLD starting
 2. UML: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
 
 Systems:
