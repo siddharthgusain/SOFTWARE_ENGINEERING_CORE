@@ -16,7 +16,7 @@ Some of the better-known applications with a client-server architecture include 
 "Web, FTP, Telnet, and e-mail".
 
 -> Often in a client-server application, a "single-server host is incapable of keeping up
-with all the requests from clients that's why "SCALING OF BACKEND INFRASTRUCTURE COMES INTO PICTURE(load balancing etc)"
+with all the requests from clients that's why "SCALING OF BACKEND INFRASTRUCTURE COMES INTO PICTURE(Distributed System)"
 
 -> In Client server , there is a "CENTRALIZATION OF DATA"". As many clients are connecting to same server.
 
