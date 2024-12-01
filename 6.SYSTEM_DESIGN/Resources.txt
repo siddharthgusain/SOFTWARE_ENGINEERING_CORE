@@ -15,8 +15,8 @@ Articles
 1. https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview -> System Design Articles
 2. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr -> Tech blogs
 
+LLD:
 1. https://github.com/ashishps1/awesome-low-level-design -> LLD starting
-2. UML: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/#:~:text=UML%2C%20short%20for%20Unified%20Modeling,business%20modeling%20and%20other%20non%2D
 
 Systems:
 1. Parking System
