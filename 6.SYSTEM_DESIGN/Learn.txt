@@ -1,3 +1,4 @@
 1. WHat is SIngle thread and Multithreaded Server , How Nodejs Works
+2. https://www.youtube.com/watch?v=N5Ky-mz6n-8 -> Synchronous and Asynchronous
 2. Containerization and virtualization -> https://www.youtube.com/watch?v=8qU3hZOXlBE
     -> Physical Machine -> Virtual Machine -> Containers -> Container Orchestrisation -> Cloud
