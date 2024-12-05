@@ -10,8 +10,7 @@ Videos
 6. https://www.youtube.com/c/ExponentTV/videos -> Mock Interview Videos 
 
 Articles
-1. https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview -> System Design Articles
-2. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr -> Tech blogs
+1. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr -> Tech blogs
 
 LLD:
 1. https://github.com/ashishps1/awesome-low-level-design -> LLD starting
