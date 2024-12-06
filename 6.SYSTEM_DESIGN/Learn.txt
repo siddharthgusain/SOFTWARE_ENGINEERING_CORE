@@ -1,5 +1,8 @@
-1. WHat is Single thread and Multithreaded Server , How Nodejs Works https://youtu.be/641_goNZGog?t=2787
+1. WHat is Single thread and Multithreaded Server ,
+    ->  How Nodejs Works https://youtu.be/641_goNZGog?t=2787
+    -> https://www.youtube.com/watch?v=f9gUFy-9uCM&t=25s
 2. https://www.youtube.com/watch?v=f9gUFy-9uCM&t=450s
+
 https://www.youtube.com/watch?v=N5Ky-mz6n-8 -> Synchronous and Asynchronous
 2. https://www.youtube.com/watch?v=o-EkdZW4zbA -> How many connection backend server can reach?
 3. https://www.youtube.com/watch?v=2GAQVXGT_Zw -> Timeouts
