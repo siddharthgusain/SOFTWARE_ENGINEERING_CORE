@@ -2,12 +2,12 @@
 2. https://github.com/donnemartin/system-design-primer -> Details Primer Course
 
 Videos
-1. https://www.youtube.com/c/SuccessinTech/videos -> System Design Videos
-2. https://www.youtube.com/c/codeKarle/videos  -> System Design Videos
-3. https://www.youtube.com/c/TechDummiesNarendraL/playlists -> Videos
-4. https://www.youtube.com/c/sudoCODE/videos
-5. https://www.youtube.com/@tusharroy2525 -> Tushar Roy System Design
-6. https://www.youtube.com/c/ExponentTV/videos -> Mock Interview Videos 
+-> https://www.youtube.com/c/SuccessinTech/videos -> System Design Videos
+-> https://www.youtube.com/c/codeKarle/videos  -> System Design Videos
+-> https://www.youtube.com/c/TechDummiesNarendraL/playlists -> Videos
+-> https://www.youtube.com/@tusharroy2525 -> Tushar Roy System Design
+-> https://www.youtube.com/c/sudoCODE/videos
+-> https://www.youtube.com/c/ExponentTV/videos -> Mock Interview Videos 
 
 Articles
 1. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr -> Tech blogs
