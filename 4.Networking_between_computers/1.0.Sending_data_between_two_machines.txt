@@ -7,7 +7,7 @@ to build an user centric application/ program.
 
 -> Broadly speaking:-
 1. Physical/hardware infrastructure.
-2. Software infrastructure and protocols.
+2. Software infrastructure and protocols(Standardization)
 
 Physical Infra:-
 1. Wires :- fibre optic cables , ethernet cable , copper cable etc.
