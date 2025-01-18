@@ -1,0 +1,14 @@
+-> https://roadmap.sh/system-design
+-> https://github.com/ashishps1/awesome-system-design-resources -> HLD starting
+-> https://github.com/donnemartin/system-design-primer -> Details Primer Course
+
+Videos
+-> https://www.youtube.com/c/SuccessinTech/videos -> System Design Videos
+-> https://www.youtube.com/c/codeKarle/videos  -> System Design Videos
+-> https://www.youtube.com/c/TechDummiesNarendraL/playlists -> Videos
+-> https://www.youtube.com/@tusharroy2525 -> Tushar Roy System Design
+-> https://www.youtube.com/c/sudoCODE/videos
+-> https://www.youtube.com/c/ExponentTV/videos -> Mock Interview Videos 
+
+Articles
+1. https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr -> Tech blogs
