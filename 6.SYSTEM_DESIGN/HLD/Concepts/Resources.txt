@@ -1,8 +1,9 @@
--> https://roadmap.sh/system-design
 -> https://github.com/ashishps1/awesome-system-design-resources -> HLD starting
 -> https://github.com/donnemartin/system-design-primer -> Details Primer Course
+-> https://roadmap.sh/system-design
 
 Videos
+-> https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
 -> https://www.youtube.com/c/SuccessinTech/videos -> System Design Videos
 -> https://www.youtube.com/c/codeKarle/videos  -> System Design Videos
 -> https://www.youtube.com/c/TechDummiesNarendraL/playlists -> Videos

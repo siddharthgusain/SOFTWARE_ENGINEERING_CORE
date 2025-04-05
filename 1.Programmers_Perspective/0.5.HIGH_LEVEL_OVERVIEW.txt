@@ -51,7 +51,7 @@ known as motherboard.
 4. Application software(Problem specific) ->(consumer facing products/Application software)-> For Application Developers 
 -> WEB apps
 -> IOS apps
--> desktop apps
+-> Desktop apps
 -> Android apps
 
 NOTE:- Each layer has its own complexity , and it solves the problem for developers, like graphics pipeline 

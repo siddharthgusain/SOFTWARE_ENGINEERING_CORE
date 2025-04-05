@@ -1,0 +1,4 @@
+
+https://www.cs.usfca.edu/~galles/visualization/BTree.html
+https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
+https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq - Andy Palvo
