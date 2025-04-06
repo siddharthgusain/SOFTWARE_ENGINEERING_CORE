@@ -1,0 +1,2 @@
+1. https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW --> Under the hood(Ben eater)
+2. https://www.youtube.com/playlist?list=PLHh55M_Kq4OCZOAxs2KZyCawhX38YR154 --> Writing own network stack

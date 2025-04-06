@@ -1,3 +1,0 @@
-1. https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv --> Interview cheat sheet
-2. https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW --> Under the hood(Ben eater)
-3. https://www.youtube.com/playlist?list=PLHh55M_Kq4OCZOAxs2KZyCawhX38YR154 --> Writing own network stack
