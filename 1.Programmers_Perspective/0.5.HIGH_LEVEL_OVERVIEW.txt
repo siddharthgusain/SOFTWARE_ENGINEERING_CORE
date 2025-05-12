@@ -20,8 +20,6 @@ MEMORY:-
 
 (ii) Non volatile
 -> DISK(HDD,SSD)
-
-(iii) External Storages(Non volatile)
 -> USB , SD CARD etc.
 
 I/0 DEVICES:-
@@ -42,11 +40,11 @@ known as motherboard.
 -> Compilers
 -> Drivers specific for each device to be interfaced
 -> Graphics API pipeline(OPEN GL)
+-> Virtual machine softwares(Virtual Box Oracle,JVM)
 
 3. Software using OS services directly (Mid level software)
 -> Browsers
 -> DBMS 
--> Virtual machine softwares(Virtual Box Oracle,JVM)
 
 4. Application software(Problem specific) ->(consumer facing products/Application software)-> For Application Developers 
 -> WEB apps
