@@ -1,0 +1,28 @@
+1. CPP file is a simple text file containing bunch of characters in some syntax that could be
+understood by compiler.
+2. Source code -> preprocessor -> PURE HLL file
+3. PURE HLL file -> Compiler -> Assembly file
+4. Assembly file -> Assembler -> Object file/Machine code
+5. Different Object file -> Linker -> Fully linked /partially linked Object/executable file.
+
+-> So the compiled executable runs directly on machine as it contains instruction set of That CPU Architecture
+-> So mostly each architecture like x86 , ARM has its own compiler 
+-> We can't take executable compiled in windows to run in Linux or vice versa
+
+*** Java is different 
+-> They have one more software layer in btw  (Hardware,OS and Object file) that is JVM which is software which converts 
+intermediate Java object file to final Instruction set of particular architecture.
+
+*** Language JS and Python are interpreted ****
+-> They also run on top of software known as Runtime Environment or engine
+-> Also they are not converted to intermediate code before running on Runtime environment 
+-> Thats where they differ from Java
+-> Direct Text file containing JS or Python code is given as input to Runtime Software like JS engine.
+
+*** RUST is similar to C/C++****
+-> Differences is syntax and its compiler adds code to free memory during compile time. 
+-> Actually C++ also has Smart Pointers now , so its compiler also adds code to free memory i.e delete system call
+-> RUST get compiled directly to computer instruction SET
+
+
+NOTE:- The program we will be writing will be synchronous single threaded programs(they could be multi file)

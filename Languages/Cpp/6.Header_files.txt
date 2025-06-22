@@ -1,0 +1,6 @@
+-> Header files are generally used to contain all common declaration of functions , objects , variables that are 
+used across multiple files/Translation Unit
+
+-> <iostream> this type of declaration is for absolute path.
+-> "iostream" this type of declaration is for relative path.
+-> iostream is standard "C++" standard header files , stdlib.h with ".h" extension is "C" type library file.

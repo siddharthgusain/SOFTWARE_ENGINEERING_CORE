@@ -1,0 +1,23 @@
+-> Inbuilt data types like int and float , are all keywords which tells compiler to allocate 
+specific predefined size for a variable , depending on operating system and computer organization and Compiler
+
+-> User defined data types are identifiers which binds together more than one type of variable together
+as well as functions to manipulate these variables.
+
+-> Structure and classes are just templates/ identifiers which defines the size to the compiler , object is the 
+actual memory.
+
+-> In case of inbuilt data type , we call the memory variable , while in case of user defined data type 
+we call it an "object".
+
+Derived Data Types:
+1. Array
+2. Pointer
+3. Reference
+4. Enumeration(ENUM) 
+
+User defined data types:
+1. Structure
+2. classes
+3. Union
+4. typedef
