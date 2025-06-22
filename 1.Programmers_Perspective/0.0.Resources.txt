@@ -1,4 +1,4 @@
 1. https://wiki.osdev.org/Main_Page
-2. https://www.youtube.com/watch?v=7P-LGEJS3A8 - MIT Course
+2. https://www.youtube.com/watch?v=7P-LGEJS3A8&list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu&index=1 - MIT Course
 3. https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw --> Write your own Operating System
 4. https://github.com/hackclub/putting-the-you-in-cpu
