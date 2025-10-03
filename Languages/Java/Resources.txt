@@ -1,4 +1,9 @@
+1. Concept and Coding : https://www.youtube.com/playlist?list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx
+2. OOPS: https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+
 1. Multithreading
     -> https://www.youtube.com/watch?v=TpYIcJN9EV8&list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx&index=30
     -> https://www.linkedin.com/posts/arpit-adlakha-30691a101_multithreading-and-concurrency-is-one-of-activity-7287818329954627584-QmMq/?utm_source=share&utm_medium=member_ios
+    -> https://www.youtube.com/watch?v=tykrCxwmMG4
+    
 2. Networking and Sockets in Java
